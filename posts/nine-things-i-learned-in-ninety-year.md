@@ -1,8 +1,8 @@
 ---
 title: ▍Nine Things I Learned in Ninety Year
-description:
+description: by Edward Packard
 created: 2025-10-18T16:08:27
-modified: 2025-10-19T15:49:23
+modified: 2025-10-20T06:56:08
 draft: false
 category: Essay
 url: https://edwardpackard.com/wp-content/uploads/2025/10/Nine-Things-I-Learned-In-Ninety-Years.pdf
