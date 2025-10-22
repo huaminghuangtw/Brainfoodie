@@ -1,10 +1,10 @@
 ---
-title: "▍Collection: Jensen Huang (黃仁勳)"
+title: "▍Collection: Jensen Huang"
 created: 2025-10-21T09:48:48
-modified: 2025-10-21T10:16:25
-draft: true
+modified: 2025-10-22T12:57:37
+draft: false
 category: YouTube Video
-author:
+author: 黃仁勳
 url:
 ---
 
