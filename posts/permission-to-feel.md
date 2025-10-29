@@ -1,7 +1,7 @@
 ---
-title: "▍Permission to Feel: the Power of Emotional Intelligence to Achieve Well-Being and Success"
+title: ▍Permission to Feel
 created: 2025-10-20T08:22:47
-modified: 2025-10-22T22:53:39
+modified: 2025-10-29T11:27:39
 author: Marc Brackett
 draft: false
 category: Book
