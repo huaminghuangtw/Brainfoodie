@@ -1,7 +1,7 @@
 ---
 title: "▍Collection: Jensen Huang"
 created: 2025-10-21T09:48:48
-modified: 2025-10-22T22:53:39
+modified: 2025-11-03T08:25:32
 draft: false
 category: YouTube Video
 author: 黃仁勳
@@ -48,13 +48,13 @@ A zero-billion-dollar market is one that doesn’t exist yet. Put another way, t
 
 # [NVIDIA 執行長黃仁勳 2023 年臺灣大學畢業典禮致詞](https://youtu.be/oi89u6q0_AY)
 
-> _[坦誠面對錯誤，謙卑尋求幫助，是聰明與成功人士最難學會的。](https://www.youtube.com/watch?v=oi89u6q0_AY&t=13m6s)_
+> [[13:06](https://www.youtube.com/watch?v=oi89u6q0_AY&t=13m6s)] _坦誠面對錯誤，謙卑尋求幫助，是聰明與成功人士最難學會的。_
 
 ## 叢林生存法則：Ask for help. Retreat. Run.
 
-> _[Strategic retreat, sacrifice, deciding what to give up is at the core, the very core of success.](https://www.youtube.com/watch?v=oi89u6q0_AY&t=19m57s)_
+> [[19:57](https://www.youtube.com/watch?v=oi89u6q0_AY&t=19m57s)] _Strategic retreat, sacrifice, deciding what to give up is at the core, the very core of success._
 
-> _[Run, don’t walk! Remember: Either you’re running for food, or running from becoming food. And oftentimes, you can’t tell which. Either way, run.](https://www.youtube.com/watch?v=oi89u6q0_AY&t=21m8s)_
+> [[21:08](https://www.youtube.com/watch?v=oi89u6q0_AY&t=21m8s)] _Run, don’t walk! Remember: Either you’re running for food, or running from becoming food. And oftentimes, you can’t tell which. Either way, run._
 
 ---
 
