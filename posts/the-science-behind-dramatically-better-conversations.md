@@ -1,7 +1,7 @@
 ---
 title: ▍The Science Behind Dramatically Better Conversations
 created: 2025-10-25T16:38:48
-modified: 2025-11-03T08:20:35
+modified: 2025-11-04T16:06:03
 draft: false
 category: YouTube Video
 author: Charles Duhigg
@@ -20,7 +20,7 @@ We tend to think of a discussion as **one** conversation. But, in fact, each dis
 
 <div align="center">
 
-![](../_attachments/Pasted%20image%2020251025194026.png)
+![](../_attachments/93bae1325ed7953f4e2ec6ef1318c910.png)
 
 <sub><em>Source: <a href="https://youtu.be/lg48Bi9DA54?t=3m40s">The science behind dramatically better conversations | TEDxManchester</a></em></sub>
 
