@@ -1,7 +1,7 @@
 ---
 title: ▍很怕別人過得比我爽
 created: 2025-11-02T17:49:19
-modified: 2025-11-07T22:54:54
+modified: 2025-11-11T20:17:04
 draft: false
 category: YouTube Video
 author: 蔡康永
@@ -22,7 +22,7 @@ url: https://youtu.be/pDxi9MljStw
 
 [1:26:32](https://youtu.be/pDxi9MljStw?t=1h26m32s) 過上你想過的生活，那是唯一重要的事情。[^2] [^3] [^4]
 
-[^1]: 你追求的「好生活」是什麼？
+[^1]: 你心目中夢寐以求的「[好生活](https://www.youtube.com/watch?v=_ziTd2w06xk)」是什麼？
 [^2]: _[“The only true test of intelligence is if you get what you want out of life.” — Naval Ravikant](https://youtu.be/KyfUysrNaco)_
 [^3]: _[“The ultimate success metric is whether you get what you want out of life. But that’s harder than it sounds because it’s easy to try to copy someone who wants something you don’t.” — Morgan Housel](https://collabfund.com/blog/your-way-is-the-only-way/)_
 [^4]: _[“If you define success on the basis of comparison to others, you will never feel successful. The only way to feel successful is to create your own definition of success, rather than consenting to one that was handed to you.” — Sahil Bloom](https://www.sahilbloom.com/newsletter/13-harsh-truths-about-success-nobody-told-you)_
