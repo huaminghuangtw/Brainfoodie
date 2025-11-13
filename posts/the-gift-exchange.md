@@ -1,11 +1,13 @@
 ---
 title: ▍交換禮物
 category: Documentary
-author: 林明謙、曾寶儀
+author:
+  - 林明謙
+  - 曾寶儀
 draft: false
 url: https://giloo.ist/zh-TW/episodes/2589/
 created: 2025-11-13T20:25:29
-modified: 2025-11-13T20:46:32
+modified: 2025-11-13T21:00:15
 ---
 
 生機飲食（[Raw Food Diet](https://www.google.com/search?q=Raw+Food+Diet)）推廣者 [劉湘琪](https://www.google.com/search?q=劉湘琪)：生死置之度外。
