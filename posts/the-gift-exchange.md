@@ -1,13 +1,13 @@
 ---
 title: ▍交換禮物
+created: 2025-11-13T20:25:29
+modified: 2025-11-14T06:58:46
 category: Documentary
 author:
-  - 林明謙
   - 曾寶儀
+  - 林明謙
 draft: false
-url: https://giloo.ist/zh-TW/episodes/2589/
-created: 2025-11-13T20:25:29
-modified: 2025-11-13T21:00:15
+url: https://giloo.ist/zh-TW/episodes/2589
 ---
 
 生機飲食（[Raw Food Diet](https://www.google.com/search?q=Raw+Food+Diet)）推廣者 [劉湘琪](https://www.google.com/search?q=劉湘琪)：生死置之度外。
@@ -30,15 +30,14 @@ modified: 2025-11-13T21:00:15
 
 [許瑞云](https://www.google.com/search?q=許瑞云) 醫師：從不開藥，只開「心藥」。
 
-有過「靈魂出體」和「瀕死重生/起死回生」體驗、《死過一次才學會愛》（[Dying To Be Me](https://www.goodreads.com/work/quotes/17267641-dying-to-be-me-my-journey-from-cancer-to-near-death-to-true-healing)）作者 [Anita Moorjani](https://www.google.com/search?q=Anita+Moorjani) [^1]
+有過「靈魂出體」和「瀕死重生」體驗、《死過一次才學會愛》（[Dying To Be Me](https://www.goodreads.com/work/quotes/17267641-dying-to-be-me-my-journey-from-cancer-to-near-death-to-true-healing)）作者 [Anita Moorjani](https://www.google.com/search?q=Anita+Moorjani) [^1]
 
 > Our pure essence is pure love.
 
 > Fear is the biggest thing that gets in the way between you and the “miracle.”
 
-> The best thing you can do when you are with somebody who has cancer, is not even to act like they have cancer. Instead, make them laugh, take them out, make them forget they have cancer. Just be there for them for whatever they need. But also, help them focus on other things and not the cancer.
+> The best thing you can do when you are with somebody who has cancer, is not even to act like they have cancer. Instead, make them laugh, take them out, make them forget they have cancer. Just be there for whatever they need. But also, help them focus on other things and not the cancer.
 
-陪伴不是為了讓病人起死回生；陪伴是學習和平相處；陪伴沒有所謂的成功或失敗；陪伴，就只是陪伴而已。
+<mark>陪伴，不是為了讓病人起死回生；陪伴，是學習和平相處；陪伴，沒有所謂的成功或失敗；陪伴，就只是陪伴而已。</mark>
 
 [^1]: [Dying to be me! Anita Moorjani at TEDxBayArea - YouTube](https://www.youtube.com/watch?v=rhcJNJbRJ6U)
-
