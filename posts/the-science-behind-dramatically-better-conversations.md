@@ -1,7 +1,7 @@
 ---
 title: ▍The Science Behind Dramatically Better Conversations
 created: 2025-10-25T16:38:48
-modified: 2025-11-04T16:06:03
+modified: 2025-11-17T08:45:18
 draft: false
 category: YouTube Video
 author: Charles Duhigg
@@ -28,16 +28,18 @@ We tend to think of a discussion as **one** conversation. But, in fact, each dis
 
 ---
 
-**How to figure out which of the three conversations we’re in?**
+# The Matching Principle
+
+* Successful communication requires recognizing what _kind_ of conversation is occurring and _matching_ one another.
+* If you don’t know what kind of conversation you’re having, it’s unlikely to connect.
+* When you’re frustrated that someone isn’t listening, the real problem might be that you’re having different types of conversations. Next time, pause and ask yourself: What kind of conversation are we actually having? Then match their energy.
+
+---
+
+# How to figure out which of the three conversations we’re in?
 
 Ask “deep questions”: <mark>Instead of asking the _facts_ of someone’s life, ask how they _feel_ about life.</mark>
 
 1. Where do you work? → What do you love about your job?
 2. Where did you go to high school? → What was high school like? What did you learn there? What changed you there?
 3. “When was the last time you cried in front of someone?”
-
----
-
-**The Matching Principle**
-* Successful communication requires recognizing what _kind_ of conversation is occurring and _matching_ one another.
-* If you don’t know what kind of conversation you’re having, it’s unlikely to connect.
