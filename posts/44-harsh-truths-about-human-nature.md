@@ -1,7 +1,7 @@
 ---
 title: ▍44 Harsh Truths About Human Nature
 created: 2025-11-18T12:27:20
-modified: 2025-11-19T06:26:40
+modified: 2025-11-20T18:10:27
 draft: false
 category: Podcast
 author: Naval Ravikant
@@ -28,21 +28,21 @@ url: https://youtu.be/KyfUysrNaco
 
 > [Pleasure can override happiness and create kind of this illusion of happiness. If you ask people when they felt genuinely happy for an extended time, they were probably doing some variation of nothing.](https://www.youtube.com/watch?v=KyfUysrNaco&t=4137s)
 
-> [Any moment when you're not in that moment, you are dead to that moment.](https://www.youtube.com/watch?v=KyfUysrNaco&t=1h25m15s)
+> [Any moment when you’re not in that moment, you are dead to that moment.](https://www.youtube.com/watch?v=KyfUysrNaco&t=1h25m15s)
 
-> [At any moment when you're not having a good time, when you're not really happy, you're not doing anyone any favors.](https://www.youtube.com/watch?v=KyfUysrNaco&t=1942s)
+> [At any moment when you’re not having a good time, when you’re not really happy, you’re not doing anyone any favors.](https://www.youtube.com/watch?v=KyfUysrNaco&t=1942s)
 
 > People want surprises for happiness. They want world to surprise them.
 
 > [Two paths to happiness: One path is success; you get what you want, you satisfy your material needs. Or like Diogenes, you just don’t want in the first place.](https://www.youtube.com/watch?v=KyfUysrNaco&t=64s)
 
-> [Many desires are unnecessary and can be sources of unhappiness. If you want to be successful, you have to be _choosy_ about your desires. You can't be great in everything.](http://www.youtube.com/watch?v=KyfUysrNaco&t=462)
+> [Many desires are unnecessary and can be sources of unhappiness. If you want to be successful, you have to be _choosy_ about your desires. You can’t be great in everything.](http://www.youtube.com/watch?v=KyfUysrNaco&t=462)
 
-> [If you want to do a thing and you are fully into it, then it’s not a waste of time. Don't do things that you don't want to. If you don't want to do it and your mind is running away from it and you're reacting against it and you're wishing you were somewhere else and you're thinking about some other thing or you're anticipating some future thing or regretting some past thing or being fearful of something, then that’s wasted time.](https://www.youtube.com/watch?v=KyfUysrNaco&t=1h25m33s)
+> [If you want to do a thing and you are fully into it, then it’s not a waste of time. Don’t do things that you don’t want to. If you don’t want to do it and your mind is running away from it and you’re reacting against it and you’re wishing you were somewhere else and you’re thinking about some other thing or you’re anticipating some future thing or regretting some past thing or being fearful of something, then that’s wasted time.](https://www.youtube.com/watch?v=KyfUysrNaco&t=1h25m33s)
 
-> [When you want something, you will act on it with maximal capability. And that’s the time to act on it. In the mean time, \[you\] just do it because other people or the society tell you that you should do it, or you feel slightly guilty about it. These are half-hearted efforts. And half-hearted efforts don't get you there.](https://www.youtube.com/watch?v=KyfUysrNaco&t=1h20m2s)
+> [When you want something, you will act on it with maximal capability. And that’s the time to act on it. In the mean time, \[you\] just do it because other people or the society tell you that you should do it, or you feel slightly guilty about it. These are half-hearted efforts. And half-hearted efforts don’t get you there.](https://www.youtube.com/watch?v=KyfUysrNaco&t=1h20m2s)
 
-> [It’s okay if you had 50 small failed ventures or 50 small failed job interviews. The number of failures doesn't matter.](https://www.youtube.com/watch?v=KyfUysrNaco&t=3508s)
+> [It’s okay if you had 50 small failed ventures or 50 small failed job interviews. The number of failures doesn’t matter.](https://www.youtube.com/watch?v=KyfUysrNaco&t=3508s)
 
 > You have to enjoy your journey, the journey is all that there is; even success fades quickly.
 
