@@ -1,22 +1,22 @@
 ---
 title: ▍The Psychology of Future Self
 created: 2025-11-19T05:53:22
-modified: 2025-11-19T05:53:31
+modified: 2025-11-29T17:04:29
 draft: false
 category: TED Talk
 author: Dan Gilbert
 url: https://youtu.be/XNbaR54Gpj4
 ---
 
-# The ‘End of History’ Illusion
+# [The End of History’Illusion](https://doi.org/10.1126/science.1229294)
+
+People tend to underestimate how much they will change in the future, despite knowing how much they have changed over time.
 
 ![](../_attachments/686c89d43115bb2063ac5188d8552357.png)
 
 ---
 
 Human beings are works in progress that mistakenly think they’re finished.
-
-People tend to underestimate how much they will change in the future, despite knowing how much they have changed over time.
 
 We somehow imagine that the person we are right now is the person we’ll be for the rest of time. (Hint: This is not the case!)
 
