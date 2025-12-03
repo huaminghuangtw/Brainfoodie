@@ -1,7 +1,7 @@
 ---
 title: ▍The Science Behind Dramatically Better Conversations
 created: 2025-10-25T16:38:48
-modified: 2025-11-18T19:30:37
+modified: 2025-12-03T06:01:28
 draft: false
 category: TED Talk
 author: Charles Duhigg
@@ -17,6 +17,7 @@ We tend to think of a discussion as **one** conversation. But, in fact, each dis
 1. **Practical**: _What is this really about?_ → You offer help.
 2. **Emotional**: _How do we feel?_ → You simply listen.
 3. **Social**: _Who are we?_ → You reciprocate vulnerability.
+
 
 <div align="center">
 
