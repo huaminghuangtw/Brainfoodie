@@ -1,7 +1,7 @@
 ---
 title: ▍44 Harsh Truths About Human Nature
 created: 2025-11-18T12:27:20
-modified: 2025-12-03T04:52:17
+modified: 2025-12-04T17:06:31
 draft: false
 category: Podcast
 author: Naval Ravikant
@@ -41,7 +41,6 @@ url: https://youtu.be/KyfUysrNaco
 > * It’s not about domination or ego — it’s about duty, service, and strength that uplifts others.
 
 > The only true test of intelligence is if you get what you want out of life. [^1] [^2] [^3]
-
 
 1. 想：知道自己想要/不想要什麼、定義自己的平衡/甜蜜點 [^4]
 2. 做：有能力真正地得到/避免自己想要/不想要的東西、想辦法站在上面，死都不要下來
