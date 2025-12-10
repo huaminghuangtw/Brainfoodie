@@ -1,13 +1,12 @@
 ---
-draft: false
 title: ▍Hunter S. Thompson’s Letter on Finding Life Purpose
+created: 2025-12-08T07:46:51
+modified: 2025-12-09T19:03:53
+draft: false
 category: Letter
 author: Hunter S. Thompson
 url: https://fantastic-ounce-694.notion.site/Hunter-S-Thompson-on-Finding-Your-Life-Purpose-beca85a66c624275b80ffb4faae2b44c
-created: 2025-12-08T07:46:51
-modified: 2025-12-08T07:47:13
 ---
-
 
 > April 22, 1958
 > 57 Perry Street
