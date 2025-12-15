@@ -1,7 +1,7 @@
 ---
 title: "▍A Stroke of Genius: Striving for Greatness in All You Do"
 created: 2025-12-01T07:10:53
-modified: 2025-12-11T08:01:37
+modified: 2025-12-14T20:04:21
 draft: false
 category: Essay
 author: Richard Hamming
