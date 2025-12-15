@@ -1,7 +1,7 @@
 ---
 title: ▍44 Harsh Truths About Human Nature
 created: 2025-11-18T12:27:20
-modified: 2025-12-12T10:40:49
+modified: 2025-12-14T20:04:21
 draft: false
 category: Podcast
 author: Naval Ravikant
@@ -17,7 +17,7 @@ url: https://youtu.be/KyfUysrNaco
 > [32:22](https://www.youtube.com/watch?v=KyfUysrNaco&t=1942s) At any moment when you’re not having a good time, when you’re not really happy, you’re not doing anyone any favors.
 
 > [45:47](https://www.youtube.com/watch?v=KyfUysrNaco&t=2747) <mark>If I had to summarize how to be successful in life in two words, I would just say productize yourself. That’s it.</mark> Just figure out what it is that you naturally do that the world might want that you can scale up and turn into a product, and it’ll eventually be effortless for you. Yes, there’s always work required, but it won’t even feel like work to you, it’ll feel like play to you, and modern society gives us that opportunity.
-> 
+>
 > <mark>So it’s much better to treat this like a search function to find the people who need you the most, to find the work that needs you the most, to find the place you’re best suited to be at, and it’s worthwhile to spend time in that exploration before diving into exploitation.</mark> The biggest mistake in a world with so many choices is <mark>premature commitment</mark>. If you prematurely commit to being a lawyer or a doctor and now you’ve got like five years invested into that, you might have just completely missed, you might just end up in the wrong profession, wrong place, the wrong people for thirty years of your life grinding away, and yes, the best time to figure that out was before, but the second best time is now, so just change it.
 
 > The real currency of life is attention. [53:20](https://www.youtube.com/watch?v=KyfUysrNaco&t=3200s) A rational person should cultivate indifference to things that are out of their control.
