@@ -1,7 +1,7 @@
 ---
 title: ▍44 Harsh Truths About Human Nature
 created: 2025-11-18T12:27:20
-modified: 2025-12-14T20:04:21
+modified: 2025-12-16T07:46:19
 draft: false
 category: Podcast
 author: Naval Ravikant
@@ -54,9 +54,6 @@ url: https://youtu.be/KyfUysrNaco
 
 > The only true test of intelligence is if you get what you want out of life. [^1] [^2] [^3]
 
-1. 想：知道自己想要/不想要什麼、定義自己的平衡/甜蜜點 [^4]
-2. 做：有能力真正地得到/避免自己想要/不想要的東西、想辦法站在上面，死都不要下來
-
 > You have to enjoy your journey, the journey is all that there is; even success fades quickly.
 
 > We can’t put labels like introvert, extrovert, pessimistic etc. Humans are so dynamic and changes every moment. It depends on case-to-case basis.
@@ -66,4 +63,3 @@ url: https://youtu.be/KyfUysrNaco
 [^1]: _[“Real success is success with self. It’s not in having things, but in having mastery, having victory over self.” — Anwar Sadat](https://www.azquotes.com/quote/856603)_
 [^2]: _[“The ultimate success metric is whether you get what you want out of life. But that’s harder than it sounds because it’s easy to try to copy someone who wants something you don’t.” — Morgan Housel](https://collabfund.com/blog/your-way-is-the-only-way/)_
 [^3]: _[“If you define success on the basis of comparison to others, you will never feel successful. The only way to feel successful is to create your own definition of success, rather than consenting to one that was handed to you.” — Sahil Bloom](https://www.sahilbloom.com/newsletter/13-harsh-truths-about-success-nobody-told-you)_
-[^4]: The most important thing in life is _not having_ what you want, but _knowing_ what you want—figuring it out is everything!
