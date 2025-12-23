@@ -1,7 +1,7 @@
 ---
 title: ▍Elon Musk’s 5-Step Algorithm
 created: 2025-10-29T07:22:49
-modified: 2025-10-29T07:23:21
+modified: 2025-12-23T08:46:56
 draft: false
 category: Essay
 author: Elon Musk
@@ -16,6 +16,9 @@ url: https://www.inc.com/jeff-haden/elon-musks-algorithm-a-5-step-process-to-dra
 
 ---
 
-See also: [The Musk Algorithm](https://world.hey.com/dhh/the-musk-algorithm-977bf312)
+See also:
+
+* [The Musk Algorithm](https://world.hey.com/dhh/the-musk-algorithm-977bf312)
+* [Elon Musk explains his 5-step algorithm for running companies - YouTube](https://www.youtube.com/watch?v=tdf3luOCNks)
 
 [^1]: Minimizing waste through「精實思考（[Lean Thinking](https://www.google.com/search?q=Lean+Thinking)）」
