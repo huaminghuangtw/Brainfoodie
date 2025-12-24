@@ -1,215 +1,25 @@
 ---
-title: ⚖️ 放下你的水杯、焦慮工具箱、大谷翔平的曼陀羅九宮格
-issue: 8
-slug: enoughness-8
-description: "Enoughness #8"
-created: 2025-12-05T00:00:00
-modified: 2025-12-23T17:29:52
-canonicalPath: 2025/12/5/enoughness-8
+title: "▍A Stroke of Genius: Striving for Greatness in All You Do"
+created: 2025-12-01T07:10:53
+modified: 2025-12-24T09:24:45
 draft: false
+category: Essay
+author: Richard Hamming
+url: https://www.mccurley.org/advice/hamming_advice.html
 ---
 
-<!-- SELF-INTRO-START -->
+> _If you are to do important work then <mark>you must work on the right problem at the right time and in the right way.</mark> Without any one of the three, you may do good work but you will almost certainly miss real greatness. […] The first person to produce definitive results generally gets all the credit. Those who come in second are soon forgotten. Thus working on the problem at the right time is essential. […] <mark>Hard work is a trait that most great scientists have.</mark> Edison said that genius was 99% perspiration and 1% inspiration. Newton said that if others would work as hard as he did then they would get similar results. Hard work is necessary but it is not sufficient. Most people do not work as hard as they easily could. However, many who do work hard — work on the wrong problem, at the wrong time, in the wrong way, and have very little to show for it._
 
-_嗨，我是 [黃樺明](https://huami.ng)，我熱愛 [寫作](https://huami.ng/writing)、[戶外運動](https://www.strava.com/athletes/huaminghuang)、[開發提升生活品質的軟體工具](https://github.com/huaminghuangtw)。若有一天必須留下 [墓誌銘](https://huami.ng/2025/7/15/live-each-day-as-if-it-were-your-last)，我希望上面寫著：他致力於 [改善人類的手機使用習慣](https://shortcutomation.com)，也努力 [讓臺灣的學生運動員擁有更好的教育環境和適應環境的能力](https://adaptx.tw)。Enoughness，是我從 2023 年開始每天練習的生活哲學，一種「剛剛好」的生活態度。每週，我會在這份電子報分享幾件觸動我 [好奇心](https://huami.ng/weekly-mindware-update) 的事物、想法與學習。如果這封信是朋友轉寄給你的，歡迎 [點此訂閱](https://huami.ng/newsletter)。想看看過往內容？[歷年電子報](https://huami.ng/enoughness) 都在這裡。_
+> _People are always claiming that success is a matter of luck, but as Pasteur pointed out, <mark>“Luck favors the prepared mind.”</mark> […] Many times a discussion with a person who has just done something important will produce a description of how they were led, almost step by step, to the result. It is usually based on things they had done, or intensely thought about, years ago. <mark>You succeed because you have prepared yourself with the necessary background long ago, without, of course, knowing then that it would prove to be a necessary step to success.</mark>_
 
-<!-- SELF-INTRO-END -->
+> _Some people work with their doors open in clear view of those who pass by, while others carefully protect themselves from interruptions. Those with the door open get less work done each day, but those with their door closed tend not know what to work on, nor are they apt to hear the clues to the missing piece to one of their “list” problems. I cannot prove that the open door produces the open mind, or the other way around. I only can observe the correlation. I suspect that each reinforces the other, that an open door will more likely lead you and important problems than will a closed door._
 
----
+> _Personal Traits: Energetic (coupled with emotional commitment), Courage (Without courage you are unlikely to attack important problems with any persistence, and hence not likely to do important things. Courage brings self-confidence, an essential feature of doing difficult things.), the ability to tolerate ambiguity (If you believe too much then you are not likely to find the essentially new view that transforms a field, and if you doubt too much you will not be able to do much at all. It is a fine balance between believing what you learn and at the same time doubting things.)_
 
-# 1
+> _The particular vision you have is less important than just having one - there are many paths to success. Therefore, it is wise to have a vision of what you may become, of where you want to go, as well as how to get there. No vision, not much chance of doing great work; with a vision you have a good chance._
 
-我們常以為壓力的重量來自於事情本身，但或許，壓力的重量取決於我們「抓著不放」的時間。
+> _Too many scientists think that this is beneath them, that the world is waiting for their great results. In truth, the other researchers are busy with their own work. <mark>You must present your results so that they will stop their own work and listen to you. Presentation comes in three forms: published papers, prepared talks, and impromptu situations. You must master all three forms.</mark>_
 
-[在課堂中](https://youtu.be/RGTfEfVcMqA)，教授拿起一杯水，問學生：「這杯水有多重？」
+> _Lots of good work has been lost because of poor presentation only to be rediscovered later by others. There is a real danger that you will not get credit for what you have done. I know of all too many times when the discoverer could not be bothered to present things clearly, and hence his or her work was of no importance to society._
 
-學生們猜測：「8 盎司？12 盎司？16 盎司？」
-
-教授回答：「這杯水的重量並不重要，重點是我拿著它多久。」
-
-「如果我只拿一分鐘，沒什麼問題。如果我拿一個小時，我的手臂會開始痠痛。如果我拿一整天，我會感到麻木甚至失去知覺。」
-
-「這杯水的重量始終沒有改變，但我拿得越久，它就越沉重。」
-
-教授接著說：
-
-**生活中的壓力和煩惱就像這杯水。**
-
-**如果你只是短暫地想一下，沒什麼大礙。如果你想得久一點，會開始感到痛苦。如果整天都想著它們，你會感到癱瘓，無法做任何事情。**
-
-**所以，永遠記得：把杯子放下。**
-
-# 2
-
-在人生的任何處境中，我們都有三個選擇：
-
-1. 接受它。
-2. 改變它。
-3. 離開它。
-
-但抗拒現實永遠是最糟糕的選擇：坐在那裡，希望改變卻不行動；或者希望離開，卻仍待在原地，同時又不願接受。
-
-這種掙扎正是痛苦的根源，也是內耗的本質。
-
-我們每天就像走在一座迷宮：向前邁進，或退後一步，嘗試新的路徑。
-
-沒有原地踏步這個選項。
-
-<figure>
-	<img src="https://images.prismic.io/sketchplanations/37d9b43d-a87f-44af-a968-f8a5b61c1eda_SP+709+-+Maze+labyrinth.png?auto=compress%2Cformat&fit=max&w=640">
-	<figcaption>
-		<sub><em>圖片來源：<a href="https://sketchplanations.com/maze-labyrinth">Sketchplanations</a></em></sub>
-	</figcaption>
-</figure>
-
-# 3
-
-焦慮最喜歡在我們「怠速」時趁虛而入。
-
-消除焦慮最快的方法，莫過於立刻採取行動。
-
-當我們付諸行動，便切斷了它們賴以維生的養分。
-
-當焦慮讓你感到失控時，可以運用一些簡單的工具，從思維、感官到身體，一步步重建內心的平靜：
-
-## 3Q 思考過濾器
-
-在這集 [Podcast](https://www.youtube.com/watch?v=9UqWaSR0miQ&t=38m41s) 中，《[想簡單，其實很簡單](https://www.books.com.tw/products/0010921674)》作者 [Jon Acuff](https://www.google.com/search?q=Jon+Acuff) 分享了如何停止播放「破損的心靈錄音帶」（Broken Soundtracks，即重複的負面想法）。
-
-包含以下三個問題：
-
-1. 這是真的嗎？ (Is it true?)
-
-	> 這個想法有事實依據嗎？還是只是我的假設或感受？
-
-2. 這有幫助嗎？ (Is it helpful?)
-
-	> 這個念頭會推動我前進，還是讓我停滯不前？
-
-3. 這友善嗎？ (Is it kind?)
-
-	> 如果我對待朋友像現在對待自己一樣嚴苛，他們還會想當我的朋友嗎？
-
-他建議，如果你的負面思緒無法通過這三個問題的檢驗，就應該果斷將它們拋棄，停止播放這段有害的「心靈錄音帶」。
-
-## 5-4-3-2-1 正念法
-
-這是一個以感官為基礎的練習，透過專注於周遭環境的具體細節來實現「著陸（Grounding/Earthing）」：
-
-* 5 個看得到的東西
-* 4 個觸摸得到的物品
-* 3 個聽到的聲音
-* 2 個聞到的氣味
-* 1 個當下的情緒
-
-當焦慮來襲時，這個方法能幫助我們將意識拉回當下，重新與現實連結，在混亂的思緒風暴中「落地」。
-
-P.S. 時間不多的話，可以啜飲一杯溫開水，並專注於手握水杯的溫度。這有助於調節呼吸，並讓大腦恢復清醒。
-
-## 漸進式肌肉放鬆法（Progressive Muscle Relaxation，PMR）
-
-由美國醫師 [Dr. Edmund Jacobson](https://www.google.com/search?q=Dr.+Edmund+Jacobson) 在 1920 年代初期，發展出針對全身肌肉的放鬆法。
-
-他在長期 [研究](https://doi.org/10.2307/1413507) 中發現，人們即使在休息時，身體仍經常處於緊繃狀態。
-
-焦慮往往伴隨明顯的身體訊號，例如肩膀不自覺緊縮、牙關僵硬，或呼吸變得急促。
-
-透過漸進式肌肉放鬆法，刻意製造「收緊」與「放鬆」之間的落差，能有效緩解心理上的緊張與壓力。
-
-練習步驟：
-
-1. 創造舒適環境：找一個安靜、不受打擾的地方，穿著寬鬆衣物，舒適地坐著或躺下。
-2. 從手部開始：
-	* 用力握緊右拳，維持 5 秒。
-	* 突然鬆開拳頭，持續 15 秒。
-	* 左手重複相同動作。
-3. 依序對身體各部位肌肉（肩部、臉部、背部、腿部等）重複「收緊 5 秒、放鬆 15 秒」的循環。
-4. 完成所有部位後，靜靜地躺著或坐著幾分鐘，感受全身徹底鬆弛、沉入椅子或床鋪的感覺。
-
-# 4
-
-[《我們回家吧 3》EP11 阮經天與最挺他的臺北家人](https://www.youtube.com/watch?v=T0hKmjsnGSs&t=20m55s)：
-
-> _人要懂得一件事，就是該坐下的時候就好好坐，該站著的時候就好好站著。如果你在外面走路、騎摩托車，剛好遇到下雨的時候，你就好好淋著雨，好好感覺現在感覺到的一切，無論這個事情是好是壞。不要因為現實、生活或工作的煩躁，而放棄感覺的能力。_
-
-最近正嘗試建立一個有意識的洗澡儀式。
-
-我會關燈、播放古典音樂，接著閉上眼睛，開始做「[身體掃描](https://www.google.com/search?q=身體掃描)（Body Scan）」：感受溫暖的水流經臉頰和背部，接著穿過指縫，覺察任何緊繃處或情緒聚焦點，並讓它們隨著水流慢慢釋放。
-
-淋浴結束後，我會花 30 到 60 秒的時間，繼續站在原地，做一次深呼吸，鼻吸口吐。
-
-然後用手將身上的水珠拍掉（或者像小狗一樣甩乾身體 😆）— 這不僅能大幅減少毛巾吸收的水分，讓它更容易保持乾爽，還能避免浴室地板濕滑，提升安全性。
-
-透過這個能量清理的淨化過程，洗澡不再只是例行清潔，而是一場正念練習、一段讓身心重新歸位的重置儀式。
-
-《[納瓦爾寶典](https://www.google.com/search?q=納瓦爾寶典)》中有一句話：
-
-> _We’re probably evolved to use all of our five senses equally as opposed to favoring the visual cortex._
->
-> 也許我們該均衡地使用五種感官，而不是偏重於視覺。
-
-18 世紀法國啟蒙思想家、《[百科全書](https://en.wikipedia.org/wiki/Encyclop%C3%A9distes)》主編 [Denis Diderot](https://www.google.com/search?q=Denis+Diderot) 也說：
-
-> 我逐漸明白，在所有感官之中，
-> 視覺最流於表象，聽覺最顯自負；
-> 嗅覺最容易帶來快感，味覺迷人而多變；
-> 唯有觸覺最為深刻，也最富哲學意味。
-
-**不要因為忙碌而關閉了感受世界的能力。**
-
-試著放慢腳步，打開所有感官，細細品味身邊的微小事物。
-
-哪怕只是一片葉子，它都會變成一個神秘、敬畏、無法形容的宏偉世界。
-
-# 5
-
-大谷翔平日前在 [個人 IG](https://www.instagram.com/p/DRdecV_Evzw) 上，宣布將代表日本出戰 2026 年世界棒球經典賽（World Baseball Classic，WBC），讓許多球迷（包含我）都相當興奮！
-
-這位當今最優秀的棒球選手，之所以能站上巔峰，並非靠一次性的奇蹟式爆發，而是微小習慣的長期複利累積。
-
-[高中時](https://www.sponichi.co.jp/baseball/news/2013/02/02/gazo/G20130202005109500.html)，大谷為了在日本職棒選秀會中，成為八大球團第一指名的新人，開始使用「[原田目標達成法](https://theharadamethod.com/about-the-method)」（The Harada Method），也就是著名的「[曼陀羅九宮格](https://www.books.com.tw/products/0010979842)」（The Open Window 64 Chart，OW64）。
-
-<figure>
-	<img src="https://image-cdn.learnin.tw/bnextmedia/image/album/2025-01/img-1737010738-41051.jpg?w=1200&output=webp">
-	<figcaption>
-		<sub><em>圖片來源：<a href="https://www.managertoday.com.tw/articles/view/69949">經理人</a></em></sub>
-	</figcaption>
-</figure>
-
-這個框架的核心步驟如下：
-
-1. 在正中央寫下核心目標。
-2. 將核心目標拆解為 8 個次級目標。
-3. 將每個次級目標再細分為 8 個具體行動。
-4. 將最重要的行動轉化為日常常規，並持續追蹤。
-5. 根據學習到的經驗，定期檢視、回顧進度，並做滾動式調整。
-
-透過這套環環相扣的系統，大谷將抽象的願景，視覺化成每日行動計劃，確保每天的訓練都有清晰的方向，藉此不斷精進自己。
-
-最令我印象深刻的，是他對「運氣（態度）」這根支柱的重視。
-
-他列出：「撿垃圾」、「打招呼」、「打掃房間」、「正面思考」、「對裁判的態度」、「讀書」、「珍惜球具」，以及「成為受大家支持的人」。
-
-這些看似與棒球技術無關的小事，在他眼中，卻是通往頂尖之路不可或缺的積累。
-
-同樣地，在磨練「品性」與「心志」這兩個層面，他寫下「感恩」、「有禮貌」、「為人著想」、「保持平常心」、「不受外界氛圍影響」、「不掀起紛爭」，以及「危機應變能力」等要素。
-
-**大谷讓我學到，成為一流的選手之前，必須先從內而外成為一個完整的人。**
-
-每天都是生命中最重要的一天。
-
-每個小行動都是對未來自己投下的一張神聖選票。
-
-現在就是一生中最重要的時刻；此時此刻，就是終極人生！
-
-— [樺明](https://huami.ng/2025/12/5/enoughness-8)
-
----
-
-<p align="center">
-<sub>
-“Make each day your masterpiece.”
-<br>
-— John Wooden
-</sub>
-</p>
+> _It is in the struggle and not the success that the real gain appears. In striving to do great things, you change yourself into a better person, so they claim. The actual success is of less importance._
