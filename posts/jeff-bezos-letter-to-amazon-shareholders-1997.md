@@ -1,7 +1,7 @@
 ---
 title: ▍Jeff Bezos’ Letter to Amazon Shareholders 1997
 created: 2025-12-08T07:52:54
-modified: 2025-12-08T07:53:19
+modified: 2025-12-28T18:44:10
 draft: false
 category: Letter
 author: Jeff Bezos
@@ -16,8 +16,8 @@ url: https://www.sec.gov/Archives/edgar/data/1018724/000119312516530910/d168744d
 
 ---
 
-> Some decisions are consequential and irreversible or nearly irreversible – one-way doors – and these decisions must be made methodically, carefully, slowly, with great deliberation and consultation. If you walk through and don’t like what you see on the other side, you can’t get back to where you were before. We can call these Type 1 decisions.
+> Some decisions are consequential and irreversible or nearly irreversible — one-way doors — and these decisions must be made methodically, carefully, slowly, with great deliberation and consultation. If you walk through and don’t like what you see on the other side, you can’t get back to where you were before. We can call these Type 1 decisions.
 > ​
-> But most decisions aren’t like that – they are changeable, reversible – they’re two-way doors. If you’ve made a suboptimal Type 2 decision, you don’t have to live with the consequences for that long. You can reopen the door and go back through. Type 2 decisions can and should be made quickly by high judgment individuals or small groups.
+> But most decisions aren’t like that — they are changeable, reversible — they’re two-way doors. If you’ve made a suboptimal Type 2 decision, you don’t have to live with the consequences for that long. You can reopen the door and go back through. Type 2 decisions can and should be made quickly by high judgment individuals or small groups.
 > ​
 > As organizations get larger, there seems to be a tendency to use the heavy-weight Type 1 decision-making process on most decisions, including many Type 2 decisions. The end result of this is slowness, unthoughtful risk aversion, failure to experiment sufficiently, and consequently diminished invention.
