@@ -1,7 +1,7 @@
 ---
 title: ▍44 Harsh Truths About Human Nature
 created: 2025-11-18T12:27:20
-modified: 2025-12-24T09:21:17
+modified: 2025-12-28T18:44:10
 draft: false
 category: Podcast
 author: Naval Ravikant
@@ -30,9 +30,9 @@ url: https://youtu.be/KyfUysrNaco
 
 > [1:20:02](https://www.youtube.com/watch?v=KyfUysrNaco&t=1h20m2s) When you want something, you will act on it with maximal capability. And that’s the time to act on it. In the mean time, \[you\] just do it because other people or the society tell you that you should do it, or you feel slightly guilty about it. These are half-hearted efforts. And half-hearted efforts don’t get you there.
 
-> [1:21:50](https://www.youtube.com/watch?v=KyfUysrNaco&t=4910) Anxiety and stress are interesting – they’re very related. Stress is when your mind is being pulled in two different directions at the same time. If you look at an iron beam, when it’s under stress, it’s because it’s being bent in two different directions. <mark>When your mind is under stress, it’s because it has two conflicting desires at once.</mark>
+> [1:21:50](https://www.youtube.com/watch?v=KyfUysrNaco&t=4910) Anxiety and stress are interesting — they’re very related. Stress is when your mind is being pulled in two different directions at the same time. If you look at an iron beam, when it’s under stress, it’s because it’s being bent in two different directions. <mark>When your mind is under stress, it’s because it has two conflicting desires at once.</mark>
 >
-> For example, you want to be liked but you also want to do something selfish, and you can’t reconcile the two, so you’re under stress. You want to do something for somebody else, but you want to do something for yourself. You don’t want to go to work but you want to make money – so you’re under stress.
+> For example, you want to be liked but you also want to do something selfish, and you can’t reconcile the two, so you’re under stress. You want to do something for somebody else, but you want to do something for yourself. You don’t want to go to work but you want to make money — so you’re under stress.
 >
 > <mark>One of the ways to get through stress is to acknowledge that you actually have two conflicting desires and either resolve it, pick one and be okay losing the other, or decide later.</mark> But at least just being aware of why you’re stressed can help alleviate a lot of stress.
 >
