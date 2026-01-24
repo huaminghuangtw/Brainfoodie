@@ -1,7 +1,7 @@
 ---
 title: ▍44 Harsh Truths About Human Nature
 created: 2025-11-18T12:27:20
-modified: 2025-12-28T18:44:10
+modified: 2026-01-24T16:32:11
 draft: false
 category: Podcast
 author: Naval Ravikant
@@ -16,9 +16,9 @@ url: https://youtu.be/KyfUysrNaco
 
 > [32:22](https://www.youtube.com/watch?v=KyfUysrNaco&t=1942s) At any moment when you’re not having a good time, when you’re not really happy, you’re not doing anyone any favors.
 
-> [45:47](https://www.youtube.com/watch?v=KyfUysrNaco&t=2747) <mark>If I had to summarize how to be successful in life in two words, I would just say productize yourself. That’s it.</mark> Just figure out what it is that you naturally do that the world might want that you can scale up and turn into a product, and it’ll eventually be effortless for you. Yes, there’s always work required, but it won’t even feel like work to you, it’ll feel like play to you, and modern society gives us that opportunity.
+> [45:47](https://www.youtube.com/watch?v=KyfUysrNaco&t=2747) <mark>If I had to summarize how to be successful in life in two words, I would just say productize yourself. That’s it.</mark> Just figure out what it is that you naturally do that the world might want that you can scale up and turn into a product, and it’ll eventually be effortless for you. Yes, there’s always work required, but it won’t even feel like work to you, it’ll feel like play to you, and modern society gives us that opportunity.
 >
-> <mark>So it’s much better to treat this like a search function to find the people who need you the most, to find the work that needs you the most, to find the place you’re best suited to be at, and it’s worthwhile to spend time in that exploration before diving into exploitation.</mark> The biggest mistake in a world with so many choices is <mark>premature commitment</mark>. If you prematurely commit to being a lawyer or a doctor and now you’ve got like five years invested into that, you might have just completely missed, you might just end up in the wrong profession, wrong place, the wrong people for thirty years of your life grinding away, and yes, the best time to figure that out was before, but the second best time is now, so just change it.
+> <mark>So it’s much better to treat this like a search function to find the people who need you the most, to find the work that needs you the most, to find the place you’re best suited to be at, and it’s worthwhile to spend time in that exploration before diving into exploitation.</mark> The biggest mistake in a world with so many choices is <mark>premature commitment</mark>. If you prematurely commit to being a lawyer or a doctor and now you’ve got like five years invested into that, you might have just completely missed, you might just end up in the wrong profession, wrong place, the wrong people for thirty years of your life grinding away, and yes, the best time to figure that out was before, but the second best time is now, so just change it.
 
 > The real currency of life is attention. [53:20](https://www.youtube.com/watch?v=KyfUysrNaco&t=3200s) A rational person should cultivate indifference to things that are out of their control.
 
@@ -52,7 +52,7 @@ url: https://youtu.be/KyfUysrNaco
 > * They don’t just take the lead. They take responsibility. And [they eat last](https://www.goodreads.com/work/quotes/21977839-leaders-eat-last-why-some-teams-pull-together-and-others-don-t) — not because they _have to_, but because they _choose to_.
 > * It’s not about domination or ego — it’s about duty, service, and strength that uplifts others.
 
-> The only true test of intelligence is if you get what you want out of life. [^1] [^2] [^3]
+> The only true test of intelligence is if you get what you want out of life. [^1] [^2] [^3] [^4]
 
 > You have to enjoy your journey, the journey is all that there is; even success fades quickly.
 
@@ -63,3 +63,4 @@ url: https://youtu.be/KyfUysrNaco
 [^1]: _[“Real success is success with self. It’s not in having things, but in having mastery, having victory over self.” — Anwar Sadat](https://www.azquotes.com/quote/856603)_
 [^2]: _[“The ultimate success metric is whether you get what you want out of life. But that’s harder than it sounds because it’s easy to try to copy someone who wants something you don’t.” — Morgan Housel](https://collabfund.com/blog/your-way-is-the-only-way/)_
 [^3]: _[“If you define success on the basis of comparison to others, you will never feel successful. The only way to feel successful is to create your own definition of success, rather than consenting to one that was handed to you.” — Sahil Bloom](https://www.sahilbloom.com/newsletter/13-harsh-truths-about-success-nobody-told-you)_
+[^4]: _“The truest form of intelligence is designing the life you want to live.” — Graham Weaver_
