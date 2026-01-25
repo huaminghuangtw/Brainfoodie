@@ -1,7 +1,7 @@
 ---
 title: ▍The Science & Use of Cold Exposure for Health & Performance
 created: 2026-01-08T14:45:41
-modified: 2026-01-08T14:52:43
+modified: 2026-01-25T16:14:20
 draft: false
 category: Essay
 author: Huberman Lab
@@ -12,7 +12,7 @@ Start slow (**warmer then colder**)—as [cold shock (冷休克)](https://www.go
 
 ---
 
-The water temperature should be **uncomfortably cold yet safe** to stay in for a few minutes. The colder the stimulus (water immersion, shower, etc.), the shorter amount of time you need to expose yourself to the cold.
+The water temperature should be **uncomfortably cold yet safe** to stay in for a few minutes. The colder the stimulus (water immersion, shower, etc.), the shorter amount of time you need to expose yourself to the cold.
 
 ---
 
