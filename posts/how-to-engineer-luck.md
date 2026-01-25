@@ -1,7 +1,7 @@
 ---
 title: ▍How to Engineer Luck
 created: 2025-10-28T19:37:09
-modified: 2025-12-03T06:03:12
+modified: 2026-01-25T16:14:20
 draft: false
 category: Essay
 author: George Mack
@@ -14,7 +14,7 @@ Thought Experiment:
 
 ---
 
-> I find it useful to distinguish between _luck-luck_ and _skill-luck_. _Luck-luck_ is pure randomness, like being born in the right country. _Skill-luck_ is when you help engineer luck, like moving cities to the place that has the best opportunity potential for you.
+> I find it useful to distinguish between _luck-luck_ and _skill-luck_. _Luck-luck_ is pure randomness, like being born in the right country. _Skill-luck_ is when you help engineer luck, like moving cities to the place that has the best opportunity potential for you.
 
 ---
 
@@ -62,7 +62,7 @@ Thought Experiment:
 
 	> Most people have a relationship scoreboard. My score versus your score. When I do something for you, I get points. When you do something for me, you get points.
 	> 
-	> This creates two problems. First, most scoreboards stay stuck at 0:0 because both people are waiting for the other to give first. Second, the scoreboard assumes relationships are zero-sum—a fixed pie where if you get a bigger slice, I get less. If the score is 6:5 in their favor, I feel like I’m losing -1, when I’m actually +5. 
+	> This creates two problems. First, most scoreboards stay stuck at 0:0 because both people are waiting for the other to give first. Second, the scoreboard assumes relationships are zero-sum—a fixed pie where if you get a bigger slice, I get less. If the score is 6:5 in their favor, I feel like I’m losing -1, when I’m actually +5. 
 	> 
 	> Luck engineers delete the scoreboard. <mark>Give aggressively, give early, give without permission. The pie isn’t fixed—it expands when you give freely.</mark>
 
