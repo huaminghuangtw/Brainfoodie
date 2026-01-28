@@ -1,7 +1,7 @@
 ---
 title: ▍Jeff Bezos’ Letter to Amazon Shareholders 1997
 created: 2025-12-08T07:52:54
-modified: 2025-12-28T18:44:10
+modified: 2026-01-28T07:42:54
 draft: false
 category: Letter
 author: Jeff Bezos
@@ -10,11 +10,7 @@ url: https://www.sec.gov/Archives/edgar/data/1018724/000119312516530910/d168744d
 
 > Outsized returns often come from betting against conventional wisdom, and conventional wisdom is usually right. Given a 10 percent change of a 100 times payoff, you should take that bet every time. But you’re still going to be wrong nine times out of ten.
 
----
-
 > We all know that if you swing for the fences, you’re going to strike out a lot, but you’re also going to hit some home runs. The difference between baseball and business, however, is that baseball has a truncated outcome distribution. When you swing, no matter how well you connect with the ball, the most runs you can get is four. In business, every once in a while, when you step up to the plate, you can score 1,000 runs. This long-tailed distribution of returns is why it’s important to be bold. Big winners pay for so many experiments.
-
----
 
 > Some decisions are consequential and irreversible or nearly irreversible — one-way doors — and these decisions must be made methodically, carefully, slowly, with great deliberation and consultation. If you walk through and don’t like what you see on the other side, you can’t get back to where you were before. We can call these Type 1 decisions.
 > ​
