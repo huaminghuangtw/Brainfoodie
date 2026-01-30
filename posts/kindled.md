@@ -1,8 +1,7 @@
 ---
 title: ▍越工作越自由
 created: 2025-11-28T20:05:35
-modified: 2025-12-02T05:45:01
-draft: false
+modified: 2026-01-30T14:34:38
 category: Book
 author: Emily Liu
 url: https://www.books.com.tw/products/0010959928
