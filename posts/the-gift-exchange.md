@@ -1,12 +1,11 @@
 ---
 title: ▍交換禮物
 created: 2025-11-13T20:25:29
-modified: 2025-11-14T06:58:46
+modified: 2026-01-30T14:35:10
 category: Documentary
 author:
   - 曾寶儀
   - 林明謙
-draft: false
 url: https://giloo.ist/zh-TW/episodes/2589
 ---
 
