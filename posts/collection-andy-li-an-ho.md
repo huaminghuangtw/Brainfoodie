@@ -1,11 +1,10 @@
 ---
-draft: false
 title: "▍Collection: Andy Li-An Ho"
 category: Podcast
 author: 何立安
 url:
 created: 2026-01-27T15:04:04
-modified: 2026-01-27T15:38:42
+modified: 2026-01-30T14:33:54
 ---
 
 # [你以為的「養生」其實在加速「退化」？別讓你的晚年在病床或輪椅上度過 ft. 何立安博士](https://youtu.be/_DQCsHwiLrg) 
