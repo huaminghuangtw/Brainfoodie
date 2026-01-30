@@ -1,8 +1,7 @@
 ---
 title: ▍Elon Musk’s 5-Step Algorithm
 created: 2025-10-29T07:22:49
-modified: 2026-01-25T16:14:20
-draft: false
+modified: 2026-01-30T14:34:07
 category: Essay
 author: Elon Musk
 url: https://www.inc.com/jeff-haden/elon-musks-algorithm-a-5-step-process-to-dramatically-improve-nearly-everything-is-both-simple-brilliant.html
