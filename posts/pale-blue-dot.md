@@ -1,8 +1,7 @@
 ---
 title: ▍Pale Blue Dot
 created: 2025-12-25T09:11:41
-modified: 2025-12-25T09:12:03
-draft: false
+modified: 2026-01-30T14:34:58
 category: Inspiring Speech
 author: Carl Sagan
 url: https://youtu.be/wupToqz1e2g
