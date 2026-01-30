@@ -1,9 +1,8 @@
 ---
 title: ▍Permission to Feel
 created: 2025-10-20T08:22:47
-modified: 2026-01-25T16:14:20
+modified: 2026-01-30T14:35:01
 author: Marc Brackett
-draft: false
 category: Book
 url: https://www.amazon.com/Permission-Feel-Emotional-Intelligence-Well-Being/dp/1250212839
 ---
