@@ -1,7 +1,7 @@
 ---
 title: ▍The Science Behind Dramatically Better Conversations
 created: 2025-10-25T16:38:48
-modified: 2026-01-30T14:35:21
+modified: 2026-01-31T14:10:58
 category: TED Talk
 author: Charles Duhigg
 url: https://youtu.be/lg48Bi9DA54
@@ -17,13 +17,7 @@ We tend to think of a discussion as **one** conversation. But, in fact, each dis
 2. **Emotional**: _How do we feel?_ → You simply listen.
 3. **Social**: _Who are we?_ → You reciprocate vulnerability.
 
-<div align="center">
-
-![](../_attachments/93bae1325ed7953f4e2ec6ef1318c910.png)
-
-<sub><em>Source: <a href="https://youtu.be/lg48Bi9DA54?t=3m40s">The science behind dramatically better conversations | TEDxManchester</a></em></sub>
-
-</div>
+![](../_attachments/93bae1325ed7953f4e2ec6ef1318c910.png "Sourece: YouTube video ‘The science behind dramatically better conversations | TED×Manchester’")
 
 ---
 
