@@ -1,7 +1,7 @@
 ---
 title: ▍How to Engineer Luck
 created: 2025-10-28T19:37:09
-modified: 2026-01-30T14:34:17
+modified: 2026-01-31T14:17:31
 category: Essay
 author: George Mack
 url: https://essays.highagency.com/p/how-could-you-double-your-luck-in
@@ -35,12 +35,9 @@ Thought Experiment:
 
 4. **The Luck Razor**
 
-	<figure>
-		<img src="https://cdn.prod.website-files.com/66915d91469ad34b8324ab88/67be1ef14b3eba7d9bb3da0d_email.png">
-		<figcaption>
-			<sub><em>Source: <a href="https://www.sahilbloom.com/newsletter/how-to-create-your-own-luck">How to Create Your Own Luck by Sahil Bloom</a></em></sub>
-		</figcaption>
-	</figure>
+	| ![](https://cdn.prod.website-files.com/66915d91469ad34b8324ab88/67be1ef14b3eba7d9bb3da0d_email.png) |
+	| :-: |
+	| <sub>Source: [How to Create Your Own Luck by Sahil Bloom](https://www.sahilbloom.com/newsletter/how-to-create-your-own-luck)</sub> |
 	
 	* When choosing two paths, choose the path that has a larger [luck surface area](https://www.google.com/search?q=luck+surface+area).
 	* Example: going for drinks with a stranger > watching Netflix at home.
