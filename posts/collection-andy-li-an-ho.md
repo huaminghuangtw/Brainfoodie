@@ -1,7 +1,7 @@
 ---
 title: "▍Collection: Andy Li-An Ho"
 created: 2026-01-27T15:04:04
-modified: 2026-02-01T17:44:38
+modified: 2026-02-03T08:18:04
 category: Podcast
 author: 何立安
 url:
@@ -25,7 +25,7 @@ url:
 
 > 終身訓練，但不需要終身破紀錄。
 
-> 如何鍛鍊核心肌群？以完整的「全身性動作（Compound / Full-Body Movements）」為訓練主軸，再搭配少量針對性的專項動作為輔助、補強。
+> 如何鍛鍊核心肌群？以完整的「全身性動作（Compound / Full-Body Movements）」[^1] 為訓練主軸，再搭配少量針對性的專項動作為輔助、補強。
 
 ---
 
@@ -38,3 +38,5 @@ url:
 > 最好的訓練方法，是你前陣子沒在用的那套。
 
 > 肌力訓練＝穩定換得力量＋放鬆換得速度
+
+[^1]: 深蹲（Squat）、硬舉（Deadlift）、臥推（Bench Press）、肩推（Overhead Press）
