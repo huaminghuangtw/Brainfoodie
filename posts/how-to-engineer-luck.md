@@ -1,7 +1,7 @@
 ---
 title: ▍How to Engineer Luck
 created: 2025-10-28T19:37:09
-modified: 2026-02-01T17:44:38
+modified: 2026-02-05T07:52:24
 category: Essay
 author: George Mack
 url: https://essays.highagency.com/p/how-could-you-double-your-luck-in
@@ -9,7 +9,7 @@ url: https://essays.highagency.com/p/how-could-you-double-your-luck-in
 
 Thought Experiment:
 
-> _If you had to double your luck in the next six months, what would you do?_
+> If you had to double your luck in the next six months, what would you do?
 
 ---
 
