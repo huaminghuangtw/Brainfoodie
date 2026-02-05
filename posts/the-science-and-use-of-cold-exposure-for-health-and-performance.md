@@ -1,7 +1,7 @@
 ---
 title: ▍The Science & Use of Cold Exposure for Health & Performance
 created: 2026-01-08T14:45:41
-modified: 2026-01-30T14:35:17
+modified: 2026-02-06T07:40:41
 category: Essay
 author: Huberman Lab
 url: https://www.hubermanlab.com/newsletter/the-science-and-use-of-cold-exposure-for-health-and-performance
@@ -40,7 +40,7 @@ Based on deliberate cold researcher [Dr. Susanna Søeberg](https://www.instagram
 
 * **Shivering** is the key component.
 
-	> _If you want to use deliberate cold exposure to increase metabolism, you should get to the point where you shiver in the cold exposure or immediately after._
+	> If you want to use deliberate cold exposure to increase metabolism, you should get to the point where you shiver in the cold exposure or immediately after.
 
 * **Method: Natural Reheating**
 	* Let your body reheat naturally by drying yourself out in the air for about 1–3 minutes.

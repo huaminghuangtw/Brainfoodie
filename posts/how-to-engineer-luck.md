@@ -1,7 +1,7 @@
 ---
 title: ▍How to Engineer Luck
 created: 2025-10-28T19:37:09
-modified: 2026-02-05T07:52:24
+modified: 2026-02-06T07:40:41
 category: Essay
 author: George Mack
 url: https://essays.highagency.com/p/how-could-you-double-your-luck-in
@@ -21,7 +21,7 @@ Thought Experiment:
 
 1. **Make unscheduled phone calls**
 
-	> _“Can I help you with anything right now?”_
+	> “Can I help you with anything right now?”
 
 2. **Avoid boring people**
 	1. Avoid people who bore you.
