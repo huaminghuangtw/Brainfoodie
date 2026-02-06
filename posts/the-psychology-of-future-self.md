@@ -1,7 +1,7 @@
 ---
 title: ▍The Psychology of Future Self
 created: 2025-11-19T05:53:22
-modified: 2026-01-30T14:35:14
+modified: 2026-02-06T10:44:23
 category: TED Talk
 author: Dan Gilbert
 url: https://youtu.be/XNbaR54Gpj4
@@ -11,7 +11,7 @@ url: https://youtu.be/XNbaR54Gpj4
 
 People tend to underestimate how much they will change in the future, despite knowing how much they have changed over time.
 
-![](../_attachments/686c89d43115bb2063ac5188d8552357.png)
+![](_attachments/686c89d43115bb2063ac5188d8552357.png)
 
 ---
 
