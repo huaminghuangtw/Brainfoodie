@@ -1,7 +1,7 @@
 ---
 title: ▍交換禮物
-created: 2025-11-13T20:25:29
-modified: 2026-01-30T14:35:10
+created: 2025-11-13T00:00:00
+modified: 2026-03-14T02:03:55
 category: Documentary
 author:
   - 曾寶儀
@@ -39,4 +39,4 @@ url: https://giloo.ist/zh-TW/episodes/2589
 
 <mark>陪伴，不是為了讓病人起死回生；陪伴，是學習和平相處；陪伴，沒有所謂的成功或失敗；陪伴，就只是陪伴而已。</mark>
 
-[^1]: [Dying to be me! Anita Moorjani at TEDxBayArea - YouTube](https://www.youtube.com/watch?v=rhcJNJbRJ6U)
+[^1]: [Dying to be me! Anita Moorjani at TEDxBayArea - YouTube](https://youtu.be/rhcJNJbRJ6U)

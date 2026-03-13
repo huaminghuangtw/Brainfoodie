@@ -1,7 +1,7 @@
 ---
 title: ▍The Man in the Arena
-created: 2026-02-06T16:29:55
-modified: 2026-02-06T16:42:27
+created: 2026-02-06T00:00:00
+modified: 2026-03-14T02:03:10
 category: Inspiring Speech
 author: Theodore Roosevelt
 url: https://www.google.com/search?q=The+Man+in+the+Arena

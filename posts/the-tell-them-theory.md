@@ -1,7 +1,7 @@
 ---
 title: ▍The “Tell Them” T̶H̶E̶O̶R̶Y̶
-created: 2026-03-11T10:25:27
-modified: 2026-03-11T10:25:42
+created: 2026-03-11T00:00:00
+modified: 2026-03-14T02:03:70
 category: Essay
 author: Vex King
 url: https://vexking.substack.com/p/the-tell-them-theory

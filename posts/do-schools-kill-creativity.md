@@ -1,7 +1,7 @@
 ---
 title: ▍Do Schools Kill Creativity?
-created: 2025-10-27T13:32:30
-modified: 2026-01-30T14:34:03
+created: 2025-10-27T00:00:00
+modified: 2026-03-14T02:03:06
 category: TED Talk
 author: Sir Ken Robinson
 url: https://youtu.be/iG9CE55wbtY

@@ -1,13 +1,13 @@
 ---
 title: "▍Collection: Jensen Huang"
-created: 2025-10-21T09:48:48
-modified: 2026-02-05T07:52:24
+created: 2025-10-21T00:00:00
+modified: 2026-03-14T02:03:43
 category: YouTube Video
 author: 黃仁勳
 url:
 ---
 
-# [Jensen Huang, Founder and CEO of NVIDIA | Stanford Graduate School of Business](https://www.youtube.com/watch?v=lXLBTBBil2U)
+# [Jensen Huang, Founder and CEO of NVIDIA | Stanford Graduate School of Business](https://youtu.be/lXLBTBBil2U)
 
 > “Don’t worry about how other companies or org charts look. Start from first principles. <mark>Remember what an organization is designed to do - an organization of the past where there’s a king (CEO), then you have the royal subjects/court, then you keep working your way down - eventually you have employees. Well the reason why it was designed that way is because they wanted their soldiers to have as little information as possible because their fundamental purpose of the soldiers is to die in the field of battle. To die without asking questions.</mark> I only have 30,000 employees. I would like none of them to die. I would like them to question everything. So the way you organize in the past and the way you organize today is very different.”
 
@@ -21,11 +21,11 @@ url:
 
 # [NVIDIA CEO Jensen Huang at 2024 SIEPR Economic Summit](https://youtu.be/cEg8cOx7UZk)
 
-> [One of my great advantages is that I have very low expectations, and I mean that. <mark>Most Stanford graduates have very high expectations, and you deserve high expectations because you come from a great school, you were very successful, you are on top of you class. Obviously, you were able to pay for tuition, and you’re graduating from one of the finest institutions on the planet. You are surrounded by other kids that are just incredible. You naturally have very high expectations. [However,] people with very high expectations have very low resilience. And unfortunately, resilience matters in success.</mark> I don’t know how to teach it to you, except [to say], “I hope suffering happens to you.” I was fortunate that I grew up with parents who provided conditions for us to be successful on the one hand, but there were [also] plenty of opportunities for setbacks and suffering. To this day, I use the phrase “pain and suffering” inside our company with great glee, and I mean that [in a happy way], because you want to train and refine the character of your company. You want greatness out of them, and greatness is not intelligence as you know; <mark>greatness comes from character, and character isn’t formed out of smart people, it’s formed out of people who suffered.</mark> So, if I could wish upon you—I don’t know how to do it—but for all of you Stanford students, I wish upon you ample doses of pain and suffering.](https://www.youtube.com/watch?v=cEg8cOx7UZk&t=36m10s)
+> [One of my great advantages is that I have very low expectations, and I mean that. <mark>Most Stanford graduates have very high expectations, and you deserve high expectations because you come from a great school, you were very successful, you are on top of you class. Obviously, you were able to pay for tuition, and you’re graduating from one of the finest institutions on the planet. You are surrounded by other kids that are just incredible. You naturally have very high expectations. [However,] people with very high expectations have very low resilience. And unfortunately, resilience matters in success.</mark> I don’t know how to teach it to you, except [to say], “I hope suffering happens to you.” I was fortunate that I grew up with parents who provided conditions for us to be successful on the one hand, but there were [also] plenty of opportunities for setbacks and suffering. To this day, I use the phrase “pain and suffering” inside our company with great glee, and I mean that [in a happy way], because you want to train and refine the character of your company. You want greatness out of them, and greatness is not intelligence as you know; <mark>greatness comes from character, and character isn’t formed out of smart people, it’s formed out of people who suffered.</mark> So, if I could wish upon you—I don’t know how to do it—but for all of you Stanford students, I wish upon you ample doses of pain and suffering.](https://youtu.be/cEg8cOx7UZk?t=36m10s)
 
 ---
 
-# [A conversation with NVIDIA’s Jensen Huang](https://www.youtube.com/watch?v=8Pfa8kPjUio)
+# [A conversation with NVIDIA’s Jensen Huang](https://youtu.be/8Pfa8kPjUio)
 
 <sub>👉 [View Full Transcirpt](https://stripe.com/sessions/2024/a-conversation-with-nvidias-jensen-huang)</sub>
 
@@ -35,7 +35,7 @@ A zero-billion-dollar market is one that doesn’t exist yet. Put another way, t
 
 > “I’d rather be a market maker, market creator than a market taker. [It] is a good way to cause the company to think about how to go create something for the first time.”
 
-> [There’s a phrase that said, “You should choose your career based on your passion.” And usually, people connect passion with happiness. I think there is something missing in that. Nothing there is wrong, but there’s something missing. […] When you’re doing something that’s not easy to do, you’re not always enjoying it. <mark>I don’t love every day of my job. I don’t think every day brings me joy nor does joy have to be the definition of a good day. And every day, I’m not happy. Every year I’m not happy about the company, but I love the company every single second.</mark> So <mark>I think that what people misunderstand is somehow the best jobs are the ones that bring you happiness all the time. I don’t think that that’s right. You have to suffer. You have to struggle. You have to endeavor. You have to do those hard things and work through it in order to really appreciate what you’ve done. There are no such things that are great that were easy to do.</mark> So by definition, I would say therefore I wish upon you greatness, which by my way of saying it, I wish upon you plenty of pain and suffering.](https://www.youtube.com/watch?v=8Pfa8kPjUio&t=5m32s)
+> [There’s a phrase that said, “You should choose your career based on your passion.” And usually, people connect passion with happiness. I think there is something missing in that. Nothing there is wrong, but there’s something missing. […] When you’re doing something that’s not easy to do, you’re not always enjoying it. <mark>I don’t love every day of my job. I don’t think every day brings me joy nor does joy have to be the definition of a good day. And every day, I’m not happy. Every year I’m not happy about the company, but I love the company every single second.</mark> So <mark>I think that what people misunderstand is somehow the best jobs are the ones that bring you happiness all the time. I don’t think that that’s right. You have to suffer. You have to struggle. You have to endeavor. You have to do those hard things and work through it in order to really appreciate what you’ve done. There are no such things that are great that were easy to do.</mark> So by definition, I would say therefore I wish upon you greatness, which by my way of saying it, I wish upon you plenty of pain and suffering.](https://youtu.be/8Pfa8kPjUio?t=5m32s)
 
 ---
 
@@ -47,13 +47,13 @@ A zero-billion-dollar market is one that doesn’t exist yet. Put another way, t
 
 # [NVIDIA 執行長黃仁勳 2023 年臺灣大學畢業典禮致詞](https://youtu.be/oi89u6q0_AY)
 
-> [[13:06](https://www.youtube.com/watch?v=oi89u6q0_AY&t=13m6s)] _坦誠面對錯誤，謙卑尋求幫助，是聰明與成功人士最難學會的。_
+> [[13:06](https://youtu.be/oi89u6q0_AY?t=13m6s)] _坦誠面對錯誤，謙卑尋求幫助，是聰明與成功人士最難學會的。_
 
 ## 叢林生存法則：Ask for help. Retreat. Run.
 
-> [[19:57](https://www.youtube.com/watch?v=oi89u6q0_AY&t=19m57s)] _Strategic retreat, sacrifice, deciding what to give up is at the core, the very core of success._
+> [[19:57](https://youtu.be/oi89u6q0_AY?t=19m57s)] _Strategic retreat, sacrifice, deciding what to give up is at the core, the very core of success._
 
-> [[21:08](https://www.youtube.com/watch?v=oi89u6q0_AY&t=21m8s)] _Run, don’t walk! Remember: Either you’re running for food, or running from becoming food. And oftentimes, you can’t tell which. Either way, run._
+> [[21:08](https://youtu.be/oi89u6q0_AY?t=21m8s)] _Run, don’t walk! Remember: Either you’re running for food, or running from becoming food. And oftentimes, you can’t tell which. Either way, run._
 
 ---
 
