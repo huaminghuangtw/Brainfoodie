@@ -1,7 +1,7 @@
 ---
 title: ▍A Psalm of Life
-created: 2026-02-20T00:00:00
-modified: 2026-03-14T02:03:90
+created: 2026-02-20
+modified: 2026-03-14
 category: Poem
 author: Henry Wadsworth Longfellow
 url: https://www.google.com/search?q=A+Psalm+of+Life+Henry+Wadsworth+Longfellow

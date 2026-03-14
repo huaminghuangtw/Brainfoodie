@@ -1,7 +1,7 @@
 ---
 title: ▍Apple - Here’s to the Crazy Ones / Think Different
-created: 2026-01-30T00:00:00
-modified: 2026-03-14T02:03:56
+created: 2026-01-30
+modified: 2026-03-14
 category: YouTube Video
 author:
 url: https://youtu.be/9-ZB2O8azI8

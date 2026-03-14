@@ -1,7 +1,7 @@
 ---
 title: ▍Hunter S. Thompson’s Letter on Finding Life Purpose
-created: 2025-12-08T00:00:00
-modified: 2026-03-14T02:03:67
+created: 2025-12-08
+modified: 2026-03-14
 category: Letter
 author: Hunter S. Thompson
 url: https://fantastic-ounce-694.notion.site/Hunter-S-Thompson-on-Finding-Your-Life-Purpose-beca85a66c624275b80ffb4faae2b44c

@@ -1,7 +1,7 @@
 ---
 title: ▍For Want of a Nail
-created: 2026-02-28T00:00:00
-modified: 2026-03-14T02:03:79
+created: 2026-02-28
+modified: 2026-03-14
 category: Poem
 author:
 url: https://www.google.com/search?q=For+Want+of+a+Nail

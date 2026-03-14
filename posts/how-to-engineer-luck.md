@@ -1,7 +1,7 @@
 ---
 title: ▍How to Engineer Luck
-created: 2025-10-28T00:00:00
-modified: 2026-03-14T02:03:53
+created: 2025-10-28
+modified: 2026-03-14
 category: Essay
 author: George Mack
 url: https://essays.highagency.com/p/how-could-you-double-your-luck-in

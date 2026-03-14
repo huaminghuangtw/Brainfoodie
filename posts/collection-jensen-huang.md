@@ -1,7 +1,7 @@
 ---
 title: "▍Collection: Jensen Huang"
-created: 2025-10-21T00:00:00
-modified: 2026-03-14T02:03:43
+created: 2025-10-21
+modified: 2026-03-14
 category: YouTube Video
 author: 黃仁勳
 url:

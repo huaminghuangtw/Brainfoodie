@@ -1,7 +1,7 @@
 ---
 title: ▍小熊維尼的正念筆記
-created: 2026-02-12T00:00:00
-modified: 2026-03-14T02:03:26
+created: 2026-02-12
+modified: 2026-03-14
 category: Book
 author:
   - Dr. Joseph Parent
