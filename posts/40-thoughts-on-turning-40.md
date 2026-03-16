@@ -7,7 +7,7 @@ category: Essay
 url: https://newsletter.pathlesspath.com/p/40-thoughts-on-turning-40-287
 ---
 
-# On “Work \& Success”
+# On “Work & Success”
 
 > A “good job” can still be bad work. It’s easy to confuse a life that makes sense on paper with one that fills your heart and soul.
 
