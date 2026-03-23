@@ -1,7 +1,7 @@
 ---
 title: ▍零與無限大：許文龍 360 度人生哲學
 created: 2026-02-16
-modified: 2026-03-14
+modified: 2026-03-23
 category: Book
 author:
   - 林佳龍
@@ -274,7 +274,7 @@ url: https://www.books.com.tw/products/0010788200
 
 ---
 
-# 製品 v.s 商品
+# 製品 vs 商品
 
 一般來說，產品能上市，往往是研究室認為各方面都很完美才推出。
 
