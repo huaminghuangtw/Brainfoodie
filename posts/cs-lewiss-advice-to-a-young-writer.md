@@ -7,7 +7,7 @@ author: C. S. Lewis
 url: 
 ---
 
-![](_attachments/Pasted%20image%2020260423082110.png)
+![](_attachments/aba1327477fc9f7649866df08a5874a7.png)
 
 1. Turn off the radio.
 2. Read all the good books you can, and avoid nearly all magazines.
