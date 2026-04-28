@@ -1,7 +1,7 @@
 ---
 title: "▍Serendipity Finds You"
 created: 2026-04-27
-modified: 2026-04-27
+modified: 2026-04-28
 author: Paul Buchheit
 category: Essay
 url: https://paulbuchheit.blogspot.com/2010/10/serendipity-finds-you.html
@@ -13,6 +13,6 @@ url: https://paulbuchheit.blogspot.com/2010/10/serendipity-finds-you.html
 
 ---
 
-**Planning is a Constraint:** Buchheit suggests that having a rigid plan can actually be a liability because it closes you off to unexpected opportunities that don’t fit the plan. A hyper-efficient, strictly planned life minimizes the “errors” and “randomness” that actually lead to breakthroughs. Serendipity requires “productive inefficiency.”
+**Planning is a Constraint:** Buchheit suggests that having a rigid plan can actually be a liability because it closes you off to unexpected opportunities that don’t fit the plan. A hyper-efficient, strictly planned life minimizes the “errors” and “randomness” that actually lead to breakthroughs. Serendipity requires “productive inefficiency.” Sometimes our best decisions are the ones that don’t make any sense at all.
 
 **Serendipity is “Found”:** The title “Serendipity Finds You” flips the script—it suggests that you don’t need to hunt for luck; you simply need to make yourself findable.
