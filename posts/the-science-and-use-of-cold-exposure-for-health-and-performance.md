@@ -25,7 +25,7 @@ The water temperature should be **uncomfortably cold yet safe** to stay in for a
 	* This builds resilience and grit.
 * **The Method**
 	* Challenge yourself by [counting walls](https://youtu.be/pq6WHJzOkno?t=2308).
-	* Set a goal of “walls” to traverse (e.g., 3—5 walls) per session.
+	* Set a goal of “walls” to traverse (e.g., 3–5 walls) per session.
 * **Progression Levels**
 	* **Level 1:** Stay completely still.
 		* Keeps a thermal layer around your body (insulation).
@@ -43,7 +43,7 @@ Based on deliberate cold researcher [Dr. Susanna Søeberg](https://www.instagram
 	> If you want to use deliberate cold exposure to increase metabolism, you should get to the point where you shiver in the cold exposure or immediately after.
 
 * **Method: Natural Reheating**
-	* Let your body reheat naturally by drying yourself out in the air for about 1—3 minutes.
+	* Let your body reheat naturally by drying yourself out in the air for about 1–3 minutes.
 	* **Avoid:**
 		* Toweling off.
 		* Standing under a warm shower.
