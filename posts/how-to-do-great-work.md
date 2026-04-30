@@ -2,7 +2,7 @@
 title: ▍如何做出偉大的成就
 created: 2025-10-19
 modified: 2026-03-14
-author: Paul Graham
+authors: Paul Graham
 category: Essay
 url: https://chengweihu.com/pg-on-great-work
 ---

@@ -1,9 +1,9 @@
 ---
 title: "▍Collection: Andy Li-An Ho"
 created: 2026-01-27
-modified: 2026-04-18
+modified: 2026-04-30
+authors: 何立安
 category: Podcast
-author: 何立安
 url:
 ---
 

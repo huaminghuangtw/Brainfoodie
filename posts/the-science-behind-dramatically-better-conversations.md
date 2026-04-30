@@ -1,9 +1,9 @@
 ---
 title: ▍The Science Behind Dramatically Better Conversations
 created: 2025-10-25
-modified: 2026-03-14
+modified: 2026-04-30
+authors: Charles Duhigg
 category: TED Talk
-author: Charles Duhigg
 url: https://youtu.be/lg48Bi9DA54
 ---
 

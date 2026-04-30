@@ -1,9 +1,9 @@
 ---
 title: "▍How Do Rocket Scientists Learn?"
 created: 2026-04-13
-modified: 2026-04-13
+modified: 2026-04-30
+authors: Yasmin Fodil
 category: Essay
-author: Yasmin Fodil
 url: https://www.govloop.com/community/blog/how-do-rocket-scientists-learn-aka-knowledge-management-lessons-learned-at-goddard-nasa/
 ---
 

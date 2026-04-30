@@ -1,9 +1,9 @@
 ---
 title: "▍How to Achieve Your Most Ambitious Goals"
 created: 2026-04-09
-modified: 2026-04-09
+modified: 2026-04-30
+authors: Stephen Duneier
 category: TED Talk
-author: Stephen Duneier
 url: https://youtu.be/TQMbvJNRpLE
 ---
 

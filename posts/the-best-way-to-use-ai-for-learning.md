@@ -2,7 +2,7 @@
 title: "▍The Best Way to Use AI for Learning"
 created: 2026-04-28
 modified: 2026-04-28
-author: 詹雨安
+authors: 詹雨安
 category: Essay
 url: https://sheracaolity.ghost.io/the-best-way-to-use-ai-for-learning/
 ---

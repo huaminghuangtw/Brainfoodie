@@ -1,9 +1,9 @@
 ---
 title: ▍Our Deepest Fear
 created: 2026-02-06
-modified: 2026-03-14
+modified: 2026-04-30
+authors: Marianne Williamson
 category: Poem
-author: Marianne Williamson
 url: https://www.google.com/search?q=Our+Deepest+Fear+Marianne+Williamson
 ---
 

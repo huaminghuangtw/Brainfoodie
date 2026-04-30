@@ -1,11 +1,11 @@
 ---
 title: ▍零與無限大：許文龍 360 度人生哲學
 created: 2026-02-16
-modified: 2026-03-23
-category: Book
-author:
+modified: 2026-04-30
+authors:
   - 林佳龍
   - 許文龍
+category: Book
 url: https://www.books.com.tw/products/0010788200
 ---
 

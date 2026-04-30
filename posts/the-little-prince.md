@@ -1,9 +1,9 @@
 ---
 title: "▍The Little Prince"
 created: 2026-04-15
-modified: 2026-04-15
+modified: 2026-04-30
+authors: Antoine de Saint-Exupéry
 category: Book
-author: Antoine de Saint-Exupéry
 url: https://www.goodreads.com/work/quotes/2180358-le-petit-prince
 ---
 

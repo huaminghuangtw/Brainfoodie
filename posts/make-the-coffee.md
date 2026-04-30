@@ -1,9 +1,9 @@
 ---
 title: "▍Make the Coffee"
 created: 2026-04-10
-modified: 2026-04-10
+modified: 2026-04-30
+authors: Pam Kearney
 category: Excerpt
-author: Pam Kearney
 url: https://www.sahilbloom.com/newsletter/the-most-important-decision-of-your-life
 ---
 

@@ -1,11 +1,11 @@
 ---
 title: ▍小熊維尼的正念筆記
 created: 2026-02-12
-modified: 2026-03-14
-category: Book
-author:
+modified: 2026-04-30
+authors:
   - Dr. Joseph Parent
   - Nancy Parent
+category: Book
 url: https://www.books.com.tw/products/0011039448
 ---
 

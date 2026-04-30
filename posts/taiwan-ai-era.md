@@ -1,9 +1,9 @@
 ---
 title: ▍台灣 AI 大未來
 created: 2026-02-14
-modified: 2026-03-20
+modified: 2026-04-30
+authors: 簡立峰
 category: Book
-author: 簡立峰
 url: https://www.books.com.tw/products/0011030708
 ---
 

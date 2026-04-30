@@ -1,9 +1,9 @@
 ---
 title: ▍The Psychology of Future Self
 created: 2025-11-19
-modified: 2026-03-14
+modified: 2026-04-30
+authors: Dan Gilbert
 category: TED Talk
-author: Dan Gilbert
 url: https://youtu.be/XNbaR54Gpj4
 ---
 

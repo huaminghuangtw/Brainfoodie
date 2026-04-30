@@ -1,9 +1,9 @@
 ---
 title: "▍C.S. Lewis’s Advice to a Young Writer"
 created: 2026-04-23
-modified: 2026-04-23
+modified: 2026-04-30
+authors: C. S. Lewis
 category: Letter
-author: C. S. Lewis
 url: 
 ---
 

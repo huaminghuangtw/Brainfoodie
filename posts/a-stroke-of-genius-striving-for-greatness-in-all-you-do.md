@@ -1,9 +1,9 @@
 ---
 title: "▍A Stroke of Genius: Striving for Greatness in All You Do"
 created: 2025-12-01
-modified: 2026-03-14
+modified: 2026-04-30
+authors: Richard Hamming
 category: Essay
-author: Richard Hamming
 url: https://www.mccurley.org/advice/hamming_advice.html
 ---
 

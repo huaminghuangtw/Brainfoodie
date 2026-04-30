@@ -1,9 +1,9 @@
 ---
 title: "▍White Collar Goes Blue"
 created: 2026-03-17
-modified: 2026-03-17
+modified: 2026-04-30
+authors: Anu Atluru
 category: Essay
-author: Anu Atluru
 url: https://www.workingtheorys.com/p/white-collar
 ---
 

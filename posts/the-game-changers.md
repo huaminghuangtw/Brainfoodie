@@ -1,9 +1,9 @@
 ---
 title: ▍The Game Changers
 created: 2025-12-13
-modified: 2026-03-14
+modified: 2026-04-30
+authors: James Wilks
 category: Documentary
-author:
 url: https://youtu.be/YbfXtcaJ7AU
 ---
 

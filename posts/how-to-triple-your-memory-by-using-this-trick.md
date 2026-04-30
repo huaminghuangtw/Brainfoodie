@@ -1,9 +1,9 @@
 ---
 title: "▍How to Triple Your Memory by Using This Trick"
 created: 2026-04-20
-modified: 2026-04-20
+modified: 2026-04-30
+authors: Ricardo Lieuw On
 category: TED Talk
-author: Ricardo Lieuw On
 url: https://youtu.be/JsC9ZHi79jo
 ---
 

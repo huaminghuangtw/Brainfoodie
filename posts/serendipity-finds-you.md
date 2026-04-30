@@ -2,7 +2,7 @@
 title: "▍Serendipity Finds You"
 created: 2026-04-27
 modified: 2026-04-28
-author: Paul Buchheit
+authors: Paul Buchheit
 category: Essay
 url: https://paulbuchheit.blogspot.com/2010/10/serendipity-finds-you.html
 ---

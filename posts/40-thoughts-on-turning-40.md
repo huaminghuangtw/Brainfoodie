@@ -1,8 +1,8 @@
 ---
 title: ▍40 Thoughts on Turning 40
 created: 2025-10-20
-modified: 2026-03-14
-author: Paul Millerd
+modified: 2026-04-30
+authors: Paul Millerd
 category: Essay
 url: https://newsletter.pathlesspath.com/p/40-thoughts-on-turning-40-287
 ---

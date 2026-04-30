@@ -1,9 +1,9 @@
 ---
 title: "▍The Self-Help Trap: What 20+ Years of “Optimizing” Has Taught Me"
 created: 2026-03-17
-modified: 2026-03-17
+modified: 2026-04-30
+authors: Tim Ferriss
 category: Essay
-author: Tim Ferriss
 url: https://tim.blog/2026/03/04/the-self-help-trap/
 ---
 

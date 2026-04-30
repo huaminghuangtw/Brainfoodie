@@ -1,9 +1,9 @@
 ---
 title: ▍For Want of a Nail
 created: 2026-02-28
-modified: 2026-03-14
+modified: 2026-04-30
+authors: Benjamin Franklin
 category: Poem
-author:
 url: https://www.google.com/search?q=For+Want+of+a+Nail
 ---
 

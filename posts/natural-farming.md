@@ -1,9 +1,9 @@
 ---
 title: ▍自然農：活化地力，最低程度介入的奇蹟栽培法
 created: 2025-12-02
-modified: 2026-03-14
+modified: 2026-04-30
+authors: 鏡山悅子
 category: Book
-author: 鏡山悅子
 url: https://www.books.com.tw/products/0011018886
 ---
 

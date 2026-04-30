@@ -1,9 +1,9 @@
 ---
 title: ▍At Dawn
 created: 2026-02-06
-modified: 2026-03-14
+modified: 2026-04-30
+authors: Marcus Aurelius
 category: Excerpt
-author: Marcus Aurelius
 url: https://www.google.com/search?q=At+Dawn+Marcus+Aurelius
 ---
 
