@@ -1,5 +1,5 @@
 ---
-title: "▍What I Know for Sure"
+title: "What I Know for Sure"
 created: 2026-05-03
 modified: 2026-05-03
 authors: Oprah Winfrey

@@ -1,5 +1,5 @@
 ---
-title: "▍The Little Prince"
+title: "The Little Prince"
 created: 2026-04-15
 modified: 2026-04-30
 authors: Antoine de Saint-Exupéry
