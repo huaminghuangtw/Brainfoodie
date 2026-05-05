@@ -1,5 +1,5 @@
 ---
-title: ▍台灣 AI 大未來
+title: 台灣 AI 大未來
 created: 2026-02-14
 modified: 2026-04-30
 authors: 簡立峰

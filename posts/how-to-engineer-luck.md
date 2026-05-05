@@ -1,5 +1,5 @@
 ---
-title: ▍How to Engineer Luck
+title: How to Engineer Luck
 created: 2025-10-28
 modified: 2026-04-30
 authors: George Mack

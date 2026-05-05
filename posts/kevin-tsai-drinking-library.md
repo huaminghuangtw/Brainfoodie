@@ -1,7 +1,7 @@
 ---
-title: ▍很怕別人過得比我爽
+title: 很怕別人過得比我爽
 created: 2025-11-02
-modified: 2026-04-30
+modified: 2026-05-05
 authors: 蔡康永
 category: Podcast
 url: https://youtu.be/pDxi9MljStw

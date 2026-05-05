@@ -1,5 +1,5 @@
 ---
-title: ▍The Science Behind Dramatically Better Conversations
+title: The Science Behind Dramatically Better Conversations
 created: 2025-10-25
 modified: 2026-04-30
 authors: Charles Duhigg

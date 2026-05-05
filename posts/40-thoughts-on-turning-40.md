@@ -1,5 +1,5 @@
 ---
-title: ▍40 Thoughts on Turning 40
+title: 40 Thoughts on Turning 40
 created: 2025-10-20
 modified: 2026-04-30
 authors: Paul Millerd

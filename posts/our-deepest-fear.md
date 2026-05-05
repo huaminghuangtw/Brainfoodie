@@ -1,5 +1,5 @@
 ---
-title: ▍Our Deepest Fear
+title: Our Deepest Fear
 created: 2026-02-06
 modified: 2026-04-30
 authors: Marianne Williamson

@@ -1,5 +1,5 @@
 ---
-title: ▍The Swing
+title: The Swing
 created: 2026-04-26
 modified: 2026-04-30
 authors: Robert Louis Stevenson

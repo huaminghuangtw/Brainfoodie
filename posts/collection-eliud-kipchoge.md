@@ -1,7 +1,7 @@
 ---
-title: "▍Collection: Eliud Kipchoge"
+title: 'Collection: Eliud Kipchoge'
 created: 2026-04-29
-modified: 2026-04-30
+modified: 2026-05-05
 authors: Eliud Kipchoge
 category: Essay
 url: 

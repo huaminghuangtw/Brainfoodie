@@ -1,5 +1,5 @@
 ---
-title: ▍Elon Musk’s 5-Step Algorithm
+title: Elon Musk’s 5-Step Algorithm
 created: 2025-10-29
 modified: 2026-04-30
 authors: Elon Musk

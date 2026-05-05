@@ -1,5 +1,5 @@
 ---
-title: ▍The Game Changers
+title: The Game Changers
 created: 2025-12-13
 modified: 2026-04-30
 authors: James Wilks

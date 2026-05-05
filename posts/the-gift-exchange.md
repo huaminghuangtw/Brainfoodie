@@ -1,5 +1,5 @@
 ---
-title: ▍交換禮物
+title: 交換禮物
 created: 2025-11-13
 modified: 2026-04-30
 authors:
