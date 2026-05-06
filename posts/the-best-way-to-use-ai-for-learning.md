@@ -1,5 +1,5 @@
 ---
-title: "The Best Way to Use AI for Learning"
+title: ▍The Best Way to Use AI for Learning
 created: 2026-04-28
 modified: 2026-04-28
 authors: 詹雨安

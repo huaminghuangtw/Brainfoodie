@@ -1,5 +1,5 @@
 ---
-title: For Want of a Nail
+title: ▍For Want of a Nail
 created: 2026-02-28
 modified: 2026-04-30
 authors: Benjamin Franklin

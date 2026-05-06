@@ -1,5 +1,5 @@
 ---
-title: "White Collar Goes Blue"
+title: ▍White Collar Goes Blue
 created: 2026-03-17
 modified: 2026-04-30
 authors: Anu Atluru

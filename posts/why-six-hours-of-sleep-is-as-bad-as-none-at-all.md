@@ -1,5 +1,5 @@
 ---
-title: "Why Six Hours of Sleep Is as Bad as None at All"
+title: ▍Why Six Hours of Sleep Is as Bad as None at All
 created: 2026-04-09
 modified: 2026-04-30
 authors: Jill Duffy

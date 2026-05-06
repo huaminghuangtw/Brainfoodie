@@ -1,5 +1,5 @@
 ---
-title: 'Collection: Jensen Huang'
+title: '▍Collection: Jensen Huang'
 created: 2025-10-21
 modified: 2026-05-05
 authors: 黃仁勳

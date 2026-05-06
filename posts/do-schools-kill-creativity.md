@@ -1,5 +1,5 @@
 ---
-title: Do Schools Kill Creativity?
+title: ▍Do Schools Kill Creativity?
 created: 2025-10-27
 modified: 2026-04-30
 authors: Sir Ken Robinson

@@ -1,5 +1,5 @@
 ---
-title: A Psalm of Life
+title: ▍A Psalm of Life
 created: 2026-02-20
 modified: 2026-04-30
 authors: Henry Wadsworth Longfellow

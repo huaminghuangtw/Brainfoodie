@@ -1,5 +1,5 @@
 ---
-title: 如何做出偉大的成就
+title: ▍如何做出偉大的成就
 created: 2025-10-19
 modified: 2026-05-05
 authors: Paul Graham

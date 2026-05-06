@@ -1,5 +1,5 @@
 ---
-title: Here’s to the Crazy Ones / Think Different
+title: ▍Here’s to the Crazy Ones / Think Different
 created: 2026-01-30
 modified: 2026-05-01
 authors: Apple

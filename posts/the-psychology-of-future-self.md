@@ -1,5 +1,5 @@
 ---
-title: The Psychology of Future Self
+title: ▍The Psychology of Future Self
 created: 2025-11-19
 modified: 2026-05-03
 authors: Dan Gilbert

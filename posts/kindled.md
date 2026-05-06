@@ -1,5 +1,5 @@
 ---
-title: 越工作越自由
+title: ▍越工作越自由
 created: 2025-11-28
 modified: 2026-04-30
 authors: Emily Liu
