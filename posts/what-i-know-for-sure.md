@@ -1,7 +1,7 @@
 ---
 title: ▍What I Know for Sure
 created: 2026-05-03
-modified: 2026-05-03
+modified: 2026-05-07
 authors: Oprah Winfrey
 category: Book
 ---

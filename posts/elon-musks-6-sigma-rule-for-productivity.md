@@ -1,7 +1,7 @@
 ---
 title: ▍Elon Musk’s 6 Sigma Rule for Productivity
 created: 2025-10-29
-modified: 2026-04-30
+modified: 2026-05-07
 authors: Elon Musk
 category: Essay
 ---

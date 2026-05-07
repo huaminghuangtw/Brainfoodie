@@ -1,7 +1,7 @@
 ---
-title: ▍The Best Way to Use AI for Learning
+title: ▍The Best Way to Use AI for Learning by Alan Chan
 created: 2026-04-28
-modified: 2026-04-28
+modified: 2026-05-07
 authors: 詹雨安
 category: Essay
 ---

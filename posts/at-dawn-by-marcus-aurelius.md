@@ -1,5 +1,5 @@
 ---
-title: ▍At Dawn
+title: ▍At Dawn by Marcus Aurelius
 created: 2026-02-06
 modified: 2026-05-07
 authors: Marcus Aurelius

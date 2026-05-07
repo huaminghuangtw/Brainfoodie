@@ -1,7 +1,7 @@
 ---
 title: ▍Permission to Feel
 created: 2025-10-20
-modified: 2026-03-14
+modified: 2026-05-07
 authors: Marc Brackett
 category: Book
 ---

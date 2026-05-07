@@ -1,7 +1,7 @@
 ---
-title: ▍The Swing
+title: '▍Poem: The Swing'
 created: 2026-04-26
-modified: 2026-05-06
+modified: 2026-05-07
 authors: Robert Louis Stevenson
 category: Poem
 ---

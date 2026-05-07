@@ -1,7 +1,7 @@
 ---
 title: ▍How Do Rocket Scientists Learn?
 created: 2026-04-13
-modified: 2026-04-30
+modified: 2026-05-07
 authors: Yasmin Fodil
 category: Essay
 ---
