@@ -1,10 +1,9 @@
 ---
 title: ▍越工作越自由
 created: 2025-11-28
-modified: 2026-04-30
+modified: 2026-05-07
 authors: Emily Liu
 category: Book
-url: https://www.books.com.tw/products/0010959928
 ---
 
 # Work 不等於 Job，工作不等於職業

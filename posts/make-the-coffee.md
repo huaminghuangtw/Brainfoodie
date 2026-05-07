@@ -1,10 +1,9 @@
 ---
 title: ▍Make the Coffee
 created: 2026-04-10
-modified: 2026-04-30
+modified: 2026-05-07
 authors: Pam Kearney
 category: Excerpt
-url: https://www.sahilbloom.com/newsletter/the-most-important-decision-of-your-life
 ---
 
 > I visited Matthew, the owner of Lucy’s Flour Shop a little while back. As I nibbled on an enormous chocolate chip cookie I began to tell him a story.

@@ -4,7 +4,6 @@ created: 2026-04-09
 modified: 2026-05-05
 authors: Stephen Duneier
 category: TED Talk
-url: https://youtu.be/TQMbvJNRpLE
 ---
 
 [[01:18](https://youtu.be/TQMbvJNRpLE?t=78)] Achieving ambitious goals is more about the approach to problem-solving and decision-making, rather than innate talent.

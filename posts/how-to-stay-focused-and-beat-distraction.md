@@ -4,7 +4,6 @@ created: 2025-12-13
 modified: 2026-04-30
 authors: Nir Eyal
 category: Podcast
-url: https://youtu.be/GbKo6aSc5mU
 ---
 
 > The only reason you become an actor, it’s said, is because you can’t do anything else. In many ways, this idea applies to book writing as well. For most authors, writing won’t be profitable—it’s not a good idea if your main goal is to make lots of money. Similarly, starting a company often follows this pattern. If you think a startup is your path to wealth, you’re likely just bad at math. <mark>Creative pursuits, whether writing or entrepreneurship, must come from a deeper place. You have to want the thing to exist so strongly that you’re willing to “birth” it into the world.</mark>

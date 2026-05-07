@@ -4,7 +4,6 @@ created: 2025-10-28
 modified: 2026-04-30
 authors: George Mack
 category: Essay
-url: https://essays.highagency.com/p/how-could-you-double-your-luck-in
 ---
 
 Thought Experiment:

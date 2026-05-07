@@ -1,10 +1,9 @@
 ---
 title: ▍White Collar Goes Blue
 created: 2026-03-17
-modified: 2026-04-30
+modified: 2026-05-07
 authors: Anu Atluru
 category: Essay
-url: https://www.workingtheorys.com/p/white-collar
 ---
 
 > “The Industrial Revolution was about the mechanization of muscle. This revolution is about the mechanization of the mind.” — Anu Atluru

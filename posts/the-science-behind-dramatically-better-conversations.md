@@ -4,7 +4,6 @@ created: 2025-10-25
 modified: 2026-04-30
 authors: Charles Duhigg
 category: TED Talk
-url: https://youtu.be/lg48Bi9DA54
 ---
 
 We tend to think of a discussion as **one** conversation. But, in fact, each discussion contains **many** conversations.

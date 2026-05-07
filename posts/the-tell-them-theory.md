@@ -1,10 +1,9 @@
 ---
 title: ▍The “Tell Them” T̶H̶E̶O̶R̶Y̶
 created: 2026-03-11
-modified: 2026-04-30
+modified: 2026-05-07
 authors: Vex King
 category: Essay
-url: https://vexking.substack.com/p/the-tell-them-theory
 ---
 
 I’m convinced a **Tell Them Theory** would make the world a better place.

@@ -4,7 +4,6 @@ created: 2025-10-20
 modified: 2026-03-14
 authors: Marc Brackett
 category: Book
-url: https://www.amazon.com/Permission-Feel-Emotional-Intelligence-Well-Being/dp/1250212839
 ---
 
 > “Most of us are unaware of how important vocabulary is to emotion skills. As we’ve seen, using many different words implies valuable distinctions—that we’re not always simply angry but are sometimes annoyed, irritated, frustrated, disgusted, aggravated, and so on. If we can’t discern the difference, it suggests that we can’t understand it either. It’s the difference between a rich emotional life and an impoverished one. Your child will inherit the one you provide.” — Marc Brackett, [Permission to Feel: The Power of Emotional Intelligence to Achieve Well-Being and Success](https://www.goodreads.com/work/quotes/68114068)

@@ -1,10 +1,9 @@
 ---
 title: ▍A Psalm of Life
 created: 2026-02-20
-modified: 2026-04-30
+modified: 2026-05-07
 authors: Henry Wadsworth Longfellow
 category: Poem
-url: https://www.google.com/search?q=A+Psalm+of+Life+Henry+Wadsworth+Longfellow
 ---
 
 > Tell me not, in mournful numbers,

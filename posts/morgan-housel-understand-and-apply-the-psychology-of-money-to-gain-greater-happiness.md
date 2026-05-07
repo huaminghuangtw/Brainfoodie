@@ -4,7 +4,6 @@ created: 2025-12-11
 modified: 2026-05-06
 authors: Morgan Housel
 category: Podcast
-url: https://www.hubermanlab.com/episode/morgan-housel-understand-apply-the-psychology-of-money-to-gain-greater-happiness
 ---
 
 [24:29](https://youtu.be/z5W74QC3v2I?t=24m29s)

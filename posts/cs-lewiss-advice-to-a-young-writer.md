@@ -4,7 +4,6 @@ created: 2026-04-23
 modified: 2026-04-30
 authors: C. S. Lewis
 category: Letter
-url: 
 ---
 
 ![](_attachments/aba1327477fc9f7649866df08a5874a7.png)

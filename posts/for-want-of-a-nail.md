@@ -4,7 +4,6 @@ created: 2026-02-28
 modified: 2026-04-30
 authors: Benjamin Franklin
 category: Poem
-url: https://www.google.com/search?q=For+Want+of+a+Nail
 ---
 
 > For want of a nail the shoe was lost.

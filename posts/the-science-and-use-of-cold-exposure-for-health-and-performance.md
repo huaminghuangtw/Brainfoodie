@@ -4,7 +4,6 @@ created: 2026-01-08
 modified: 2026-04-30
 authors: Huberman Lab
 category: Essay
-url: https://www.hubermanlab.com/newsletter/the-science-and-use-of-cold-exposure-for-health-and-performance
 ---
 
 Start slow (**warmer then colder**)—as [cold shock (冷休克)](https://www.google.com/search?q=cold+shock) is possible; just as with lifting weights or other forms of exercise.

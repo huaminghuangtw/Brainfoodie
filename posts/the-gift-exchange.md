@@ -6,7 +6,6 @@ authors:
   - 曾寶儀
   - 林明謙
 category: Documentary
-url: https://giloo.ist/zh-TW/episodes/2589
 ---
 
 生機飲食（[Raw Food Diet](https://www.google.com/search?q=Raw+Food+Diet)）推廣者 [劉湘琪](https://www.google.com/search?q=劉湘琪)：生死置之度外。

@@ -1,10 +1,9 @@
 ---
 title: ▍We Don’t Get a Lot of Things to Really Care About
 created: 2026-04-23
-modified: 2026-04-30
+modified: 2026-05-07
 authors: Pig (2021 movie)
 category: Excerpt
-url: https://youtu.be/MDPeLlMR2D4?t=4m5s
 ---
 
 > They’re not real; you get that, right? None of it is real. The critics aren’t real. The customers aren’t real. Because _this_ isn’t real. You aren’t real.

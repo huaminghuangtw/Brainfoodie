@@ -4,7 +4,6 @@ created: 2026-04-15
 modified: 2026-04-30
 authors: Antoine de Saint-Exupéry
 category: Book
-url: https://www.goodreads.com/work/quotes/2180358-le-petit-prince
 ---
 
 > All grown-ups were once children, but only few of them remember it.

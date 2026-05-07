@@ -1,10 +1,9 @@
 ---
 title: ▍Elon Musk’s 5-Step Algorithm
 created: 2025-10-29
-modified: 2026-04-30
+modified: 2026-05-07
 authors: Elon Musk
 category: Essay
-url: https://www.inc.com/jeff-haden/elon-musks-algorithm-a-5-step-process-to-dramatically-improve-nearly-everything-is-both-simple-brilliant.html
 ---
 
 1. **Question every requirement.** Each should come with the name of the person who made it. You should never accept that a requirement came from a department, such as from “the legal department” or “the safety department.” You need to know the name of the real person who made that requirement. Then you should question it, no matter how smart that person is. Requirements from smart people are the most dangerous, because people are less likely to question them. Always do so, even if the requirement came from me. Then make the requirements less dumb.

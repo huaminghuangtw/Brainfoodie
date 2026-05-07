@@ -4,7 +4,6 @@ created: 2025-11-19
 modified: 2026-05-03
 authors: Dan Gilbert
 category: TED Talk
-url: https://youtu.be/XNbaR54Gpj4
 ---
 
 # [The End of History’Illusion](https://doi.org/10.1126/science.1229294)

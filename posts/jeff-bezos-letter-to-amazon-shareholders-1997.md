@@ -4,7 +4,6 @@ created: 2025-12-08
 modified: 2026-04-30
 authors: Jeff Bezos
 category: Letter
-url: https://www.sec.gov/Archives/edgar/data/1018724/000119312516530910/d168744dex991.htm
 ---
 
 > Outsized returns often come from betting against conventional wisdom, and conventional wisdom is usually right. Given a 10 percent change of a 100 times payoff, you should take that bet every time. But you’re still going to be wrong nine times out of ten.

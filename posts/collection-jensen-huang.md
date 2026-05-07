@@ -1,10 +1,9 @@
 ---
 title: '▍Collection: Jensen Huang'
 created: 2025-10-21
-modified: 2026-05-05
+modified: 2026-05-07
 authors: 黃仁勳
 category: YouTube Video
-url:
 ---
 
 # [Jensen Huang, Founder and CEO of NVIDIA | Stanford Graduate School of Business](https://youtu.be/lXLBTBBil2U)

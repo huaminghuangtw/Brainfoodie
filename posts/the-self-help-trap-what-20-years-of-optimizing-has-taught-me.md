@@ -1,10 +1,9 @@
 ---
-title: ▍The Self-Help Trap: What 20+ Years of “Optimizing” Has Taught Me
+title: '▍The Self-Help Trap: What 20+ Years of “Optimizing” Has Taught Me'
 created: 2026-03-17
-modified: 2026-04-30
+modified: 2026-05-07
 authors: Tim Ferriss
 category: Essay
-url: https://tim.blog/2026/03/04/the-self-help-trap/
 ---
 
 > To continually improve yourself, you must continually locate the ways you are broken. A focus on improving the self usually first requires finding problems with the self. [^1] [^2]

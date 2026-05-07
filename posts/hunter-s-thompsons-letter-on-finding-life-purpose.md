@@ -4,7 +4,6 @@ created: 2025-12-08
 modified: 2026-04-30
 authors: Hunter S. Thompson
 category: Letter
-url: https://fantastic-ounce-694.notion.site/Hunter-S-Thompson-on-Finding-Your-Life-Purpose-beca85a66c624275b80ffb4faae2b44c
 ---
 
 > April 22, 1958

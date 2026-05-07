@@ -4,7 +4,6 @@ created: 2025-10-18
 modified: 2026-03-14
 authors: Edward Packard
 category: Essay
-url: https://edwardpackard.com/wp-content/uploads/2025/10/Nine-Things-I-Learned-In-Ninety-Years.pdf
 ---
 
 1. to be self-constituted

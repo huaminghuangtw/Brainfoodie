@@ -4,7 +4,6 @@ created: 2025-12-13
 modified: 2026-04-30
 authors: James Wilks
 category: Documentary
-url: https://youtu.be/YbfXtcaJ7AU
 ---
 
 # [How to Eat Like A Game Changer?](https://gamechangersmovie.com)

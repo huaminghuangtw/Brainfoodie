@@ -4,7 +4,6 @@ created: 2026-01-30
 modified: 2026-05-01
 authors: Apple
 category: YouTube Video
-url: https://youtu.be/CLIyH2SyxZA
 ---
 
 > Here’s to the crazy ones.

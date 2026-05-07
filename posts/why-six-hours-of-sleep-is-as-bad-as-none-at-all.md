@@ -1,10 +1,9 @@
 ---
 title: ▍Why Six Hours of Sleep Is as Bad as None at All
 created: 2026-04-09
-modified: 2026-04-30
+modified: 2026-05-07
 authors: Jill Duffy
 category: Essay
-url: https://www.fastcompany.com/3057465/why-six-hours-of-sleep-is-as-bad-as-none-at-all
 ---
 
 The article examines a pivotal [study](https://doi.org/10.1093/sleep/26.2.117) from the University of Pennsylvania and Washington State University that challenges the common belief that six hours of sleep is “enough.”

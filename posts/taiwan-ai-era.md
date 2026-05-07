@@ -4,7 +4,6 @@ created: 2026-02-14
 modified: 2026-04-30
 authors: 簡立峰
 category: Book
-url: https://www.books.com.tw/products/0011030708
 ---
 
 AI 不會取代人類，但懂得善用 AI 的人，將取代不懂運用 AI 的人。

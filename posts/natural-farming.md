@@ -4,7 +4,6 @@ created: 2025-12-02
 modified: 2026-04-30
 authors: 鏡山悅子
 category: Book
-url: https://www.books.com.tw/products/0011018886
 ---
 
 # 真正的蔬菜不綠
