@@ -1,7 +1,7 @@
 ---
 title: '▍Collection: Kobe Bryant'
 created: 2026-05-29
-modified: 2026-05-29
+modified: 2026-05-30
 authors: Kobe Bryant
 category: YouTube Video
 ---
@@ -38,54 +38,66 @@ category: YouTube Video
 
 # <https://youtu.be/Ju5kyQJyGBY>
 
-> Go after your dreams. I never compromised that. I never allowed anybody to tell me what I was capable of accomplishing. I never let anybody tell me that I can’t do [it]—I went after it.
+# On Dreams & Fearlessness & Purpose
 
-> If you want to accomplish something or do something that a lot of people think is difficult to accomplish, you have to put all your eggs in one basket and there’s no compromise.
+> Go after your dreams. I never compromised that. I never allowed anybody to tell me what I was capable of accomplishing. I never let anybody tell me that I can’t do—I went after it.
 
-> Doubt is such a strange thing. There’ll be times where you succeed, there are times that you fail. Wasting your time doubting whether you’re going to be successful or not is pointless. You just put one foot in front of the other, you control what you can control, and then you see what the outcome is. If you win, it’s great, you’re going to wake up the next day and do the journey over again. If you lose, it’s sucks, but you have to wake up the next day and do the journey all over again anyway.
-
-> If you want to play at an excellent level, if you want to do something excellent, you have to be excellent all the time. It’s a way of life. It’s not just, ‘I show up on Monday and be excellent.’ I don’t work that way. You got to be excellent across the board. That’s how you build habits. When excellence becomes a habit, that’s just who you are.
+> When you have a dream, the one thing you have to watch out for, are those out there who try to crush your dream. You cannot allow that to happen. That is your biggest challenge, but I challenge you to have your dream, go after it with all you have, and be legendary in your own right.
 
 > Don’t let anybody tell you that you can’t do something. The only person that can stop you from accomplishing something is yourself.
 
-> To me, being mentally tough means you can take your mind some place else, and concentrate on that other thing to the point where the thing that was bothering you is no longer a focus. You don’t feel it anymore.
+> <mark>The greatest fear you face is yourself, because we all have dreams, and it’s very scary sometimes to accept the dream you have. It’s scarier to say, ‘Ok, I want that.’ Because you’re afraid that if you put your heart and soul into it, and you fail. Then how are you going to feel about yourself? So being fearless means putting yourself out there, and going for it, no matter what, go for it—not for anybody else, but for yourself.</mark>
 
-> It’s a competition. My mission is to destroy you. When I play against somebody and we line up, you guard me, my whole purpose was to get you to reconsider your life choice to play basketball.
+> When you find that thing that you love, then life makes sense. You wake up in the morning and life makes sense. You have to figure out what is the thing that you really want to do. Like waking up in the morning and say, ‘I’m excited to do this.’ When you find out what you love to do, you wake up every morning with a sense of purpose. <mark>If you had that feeling, then you’re truly doing that God has put you on this Earth to do.</mark> If you love what you do, and it’s making you happy, all the hard work and perseverance will pay off.
 
-> I’m there to just absolutely demoralize and dominate the person that I’m playing against, the team I’m playing against… and that was my mentality going into every single game, it’s just to absolutely obliterate this guy.
+## On Small, Consistent Daily Improvements (The Mamba Mentality)
 
-> The most important thing I think for players that come after me is to understand that these things are possible. Because you don’t want to ever limit your imagination. How in the world can we inspire people if we’re continuing to give them what they believe is possible? You’re not really inspiring. So I think that is the most important thing that I want the next generation of athletes to take from that.
-
-> The greatest fear you face is yourself, because we all have dreams, and it’s very scary sometimes to accept the dream you have. And it’s scarier to say, ‘Ok, I want that.’ It’s scary. Because you’re afraid that if you put your heart and soul into it, and you fail. Then how are you going to feel about yourself? So being fearless means putting yourself out there, and going for it, no matter what, go for it—not for anybody else, but for yourself.
-
-> I think the definition of greatness is to inspire the people next to you. It’s how you can inspire a person, then in turn, inspire another person that inspires another person. That’s how you create something that I think lasts forever. And I think that’s our challenge as people, is to figure out how our story can impact others and motivate them in a way to create their own greatness.
-
-> If there’s something I can leave for the next generation, it’s to have that constant curiosity about the game. You have to continue to ask questions, and try to understand why things happen. Because when you understand why things happen, then you understand how to make things happen.
-
-> What I’ve learned is to always keep going. Always. No matter what happens, the storm eventually ends, and when the storm does end, you want to make sure that you’re ready.
-
-> Rest at the end, not in the middle. And that’s something I always live by. I’m not going to rest, and I’m going to keep on pushing now. There are a lot of answers that I don’t have, even questions that I don’t have, but I’m just going to keep going.
-
-> ⭐️ My philosophy was a very simple one: I made a promise to myself that I was going to work that hard every single day. So that when I do retire, I have no regrets. And that was the most important thing for me is to leave no stone unturned. Get better every single day. If I live that way, then overtime, I’d have some that was beautiful. You know if you lived your life to just get better every single day, and do that for 20 years, what do you have?
-
-> If you’re going to do something, do it with the best of your ability. No matter what it is, if you gonna do it, do it with the best of your ability.
-
-> When you find that thing that you love, then life makes sense. You wake up in the morning and life makes sense. You have to figure out what is the thing that you really want to do. Like waking up in the morning and say, ‘I’m excited to do this.’ When you find out what is you love to do, you wake up every morning with a sense of purpose. If you had that feeling, then you’re truly doing that God has put you on this Earth to do. If you love what you do, and it’s making you happy, all the hard work and perseverance will pay off.
-
-> I don’t negotiate with myself. I told myself at 13 that I want to be one of the greatest who have ever played. That’s the deal I made. I shook hands with myself. That is the deal, that is the contract, that is non-negotiable.
-
-> When you have a dream, the one thing you have to watch out for, are those out there who try to crush your dream. You cannot allow that to happen. That is your biggest challenge, but I challenge you to have your dream, go after it with all you have, and be legendary in your own right.
+> <mark>Doubt is such a strange thing. There’ll be times where you succeed, there are times that you fail. Wasting your time doubting whether you’re going to be successful or not is pointless. You just put one foot in front of the other, you control what you can control, and then you see what the outcome is. If you win, it’s great, you’re going to wake up the next day and do the journey over again. If you lose, it sucks, you still have to wake up the next day and do the journey all over again anyway.</mark>
 
 > The confidence comes from preparation. When the game is on the line, I’m not asking myself to do something I haven’t done thousands of times before. In those moments, if I look like ice-cold or not nervous, it’s because I’ve done it thousands of times before. So it’s just one more time.
 
 > The key factor for me wasn’t whether or not I was ready, it’s the fact that if i wasn’t ready, I was determined to figure out how to get ready. And ultimately, even I was ready, I still need to improve anyway. So the work is not going to stop.
 
-> The message is always to go out there and dominate. There’s no let-up. Once the game starts, or once the practice begins, you’re in that mode. Everything is a Game Seven. When you approach every practice, every game with that kind of mentality, you know it bleeds into the rest of the guys.
+> ⭐️ My philosophy was a very simple one: I made a promise to myself that I was going to work that hard every single day. So that when I do retire, I have no regrets. And that was the most important thing for me is to leave no stone unturned. Get better every single day. If I live that way, then overtime, I’d have some that was beautiful. You know if you lived your life to just get better every single day, and do that for 20 years, what do you have?
 
 > ⭐️ The most important thing is that you become the best version of yourself. That is the key. Get better every single day. Are you better today than you were yesterday? If the answer is yes, then you’re on the right track. That’s Mamba Mentality—get better every single day.
-
-> The only way that you can get better is by pushing yourself beyond what you believe you’re capable of doing.
 
 > ⭐️ At the end of every day, you look at yourself in the mirror and ask your self, ‘Did I get better today?’ If the answer is yes, and you do that for 5 years, 10 years, 15 years. How much better are you going to be? ‘Are you getting better every single day?’, that’s the question. And it’s just taking small steps. You don’t try to get it all done in one day, in one week, in one year. It’s the process of getting better every day, and doing that for a period of years, that then creates the masterpiece.
 
 > That is my message. Don’t look at what I did, but look at how I did it. The ‘how.’ Then you can really transfer that over to any profession and any discipline. That’s Mamba Mentality.
+
+# On All-In & Excellence
+
+> <mark>If you want to accomplish something or do something that a lot of people think is difficult to accomplish, you have to put all your eggs in one basket and there’s no compromise.</mark>
+
+> <mark>If you want to play at an excellent level, if you want to do something excellent, you have to be excellent all the time. It’s a way of life. It’s not just, ‘I show up on Monday and be excellent.’ I don’t work that way. You get to be excellent across the board. That’s how you build habits. When excellence becomes a habit, that’s just who you are.</mark>
+
+> <mark>I don’t negotiate with myself. I told myself at 13 that I want to be one of the greatest who have ever played. That’s the deal I made. I shook hands with myself. That is the deal, that is the contract, that is non-negotiable.</mark>
+
+> <mark>If you’re going to do something, do it with the best of your ability. No matter what it is, if you gonna do it, do it with the best of your ability.</mark>
+
+# On Legacy & Greatness
+
+> The most important thing I think for players that come after me is to understand that these things are possible. Because you don’t want to ever limit your imagination. <mark>How in the world can we inspire people if we’re continuing to give them what they believe is possible?</mark> You’re not really inspiring. So I think that is the most important thing that I want the next generation of athletes to take from that.
+
+> <mark>I think the definition of greatness is to inspire the people next to you. It’s how you can inspire a person, then in turn, inspire another person that inspires another person. That’s how you create something that lasts forever.</mark> And I think that’s our challenge as people, is to figure out how our story can impact others and motivate them in a way to create their own greatness.
+
+> <mark>If there’s something I can leave for the next generation, it’s to have that constant curiosity about the game. You have to continue to ask questions, and try to understand why things happen. Because when you understand why things happen, then you understand how to make things happen.</mark>
+
+# On Resilience
+
+> <mark>What I’ve learned is to always keep going. Always. No matter what happens, the storm eventually ends, and when the storm does end, you want to make sure that you’re ready.</mark>
+
+> <mark>Rest at the end, not in the middle.</mark> And that’s something I always live by. I’m not going to rest, and I’m going to keep on pushing now. <mark>There are a lot of answers that I don’t have, even questions that I don’t have, but I’m just going to keep going.</mark>
+
+> To me, being mentally tough means you can take your mind to some place else, and concentrate on that other thing, to the point where the thing that was bothering you is no longer a focus. You don’t feel it anymore.
+
+> The only way that you can get better is by pushing yourself beyond what you believe you’re capable of doing.
+
+# On the Competitive Edge & Dominance
+
+> It’s a competition. My mission is to destroy you. When I play against somebody and we line up, you’re guarding me, my whole purpose was to get you to reconsider your life’s choice to play basketball.
+
+> I’m there to just absolutely demoralize and dominate the person that I’m playing against, the team I’m playing against. That was my mentality going into every single game, it’s just to absolutely obliterate this guy.
+
+> The message is always to go out there and dominate. There’s no let-up. Once the game starts, or once the practice begins, you’re in that mode. Everything is a Game Seven. When you approach every practice, every game with that kind of mentality, you know it bleeds into the rest of the guys.
