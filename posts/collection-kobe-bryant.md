@@ -1,7 +1,7 @@
 ---
 title: '▍Collection: Kobe Bryant'
 created: 2026-05-29
-modified: 2026-05-30
+modified: 2026-05-31
 authors: Kobe Bryant
 category: YouTube Video
 ---
@@ -23,6 +23,9 @@ category: YouTube Video
 * Instead of getting emotional, he analyzed the failure mechanically. Coming from a 35-game high school season to the relentless, back-to-back grind of an 82-game NBA schedule, his legs lacked the endurance. Every shot was perfectly online but short. His solution was purely structural: adapt his weight training program so his legs would last through the postseason.
 * **The Goat Mountain:** Kobe actively reached out to historical legends—including Magic Johnson, Michael Jordan, Larry Bird, Hakeem Olajuwon, Jerry West, Oscar Robertson, and Bill Russell—to absorb their obsessive attention to detail. He notes that Jordan, in particular, became a trusted big brother figure to him.
 * He acknowledges that choosing to be one of the greatest means personal relationships and family time inevitably suffer. True friends and family understand this obsession, but everything in between is lost. <mark>He avoided taking casual vacations just to hang out because he never wanted to retire wondering if he could have given more</mark>.
+
+	> When I retire, I didn’t want to have to say: “I wish I would have done more.”
+
 * ⭐️ When evaluating business opportunities, Kobe filters them through four strict criteria:
 	1. Do I thoroughly understand the business mechanics?
 	2. Is it a business where I can provide tangible help or value?
@@ -45,6 +48,8 @@ category: YouTube Video
 > When you have a dream, the one thing you have to watch out for, are those out there who try to crush your dream. You cannot allow that to happen. That is your biggest challenge, but I challenge you to have your dream, go after it with all you have, and be legendary in your own right.
 
 > Don’t let anybody tell you that you can’t do something. The only person that can stop you from accomplishing something is yourself.
+
+> The way we approach the game, the same way we approach life. You do the right thing, you make the right play. In life it’s the same thing—<mark>what you feel right in your heart is the right thing to do</mark>. It seems so simple, but sometimes the simplest things are the hardest things to do.
 
 > <mark>The greatest fear you face is yourself, because we all have dreams, and it’s very scary sometimes to accept the dream you have. It’s scarier to say, ‘Ok, I want that.’ Because you’re afraid that if you put your heart and soul into it, and you fail. Then how are you going to feel about yourself? So being fearless means putting yourself out there, and going for it, no matter what, go for it—not for anybody else, but for yourself.</mark>
 
