@@ -59,7 +59,7 @@ category: YouTube Video
 
 > <mark>Doubt is such a strange thing. There’ll be times where you succeed, there are times that you fail. Wasting your time doubting whether you’re going to be successful or not is pointless. You just put one foot in front of the other, you control what you can control, and then you see what the outcome is. If you win, it’s great, you’re going to wake up the next day and do the journey over again. If you lose, it sucks, you still have to wake up the next day and do the journey all over again anyway.</mark>
 
-> The confidence comes from preparation. When the game is on the line, I’m not asking myself to do something I haven’t done thousands of times before. In those moments, if I look like ice-cold or not nervous, it’s because I’ve done it thousands of times before. So it’s just one more time.
+> The confidence comes from preparation. When the game is on the line, I’m not asking myself to do something I haven’t done thousands of times before. In those moments, if I look ice-cold or not nervous, it’s because I’ve done it thousands of times before. So it’s just one more time.
 
 > The key factor for me wasn’t whether or not I was ready, it’s the fact that if i wasn’t ready, I was determined to figure out how to get ready. And ultimately, even I was ready, I still need to improve anyway. So the work is not going to stop.
 
