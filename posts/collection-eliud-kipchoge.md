@@ -1,9 +1,9 @@
 ---
 title: '▍Collection: Eliud Kipchoge'
 created: 2026-04-29
-modified: 2026-05-20
+modified: 2026-06-05
 authors: Eliud Kipchoge
-category: Essay
+category: People
 ---
 
 # [The Surprisingly Simple Training of the World’s Fastest Marathoner](https://run.outsideonline.com/training/training-plans/marathon/eliud-kipchoge-marathon-workout-training-principles/)
