@@ -1,9 +1,9 @@
 ---
 title: '▍Collection: Kobe Bryant'
 created: 2026-05-29
-modified: 2026-05-31
+modified: 2026-06-05
 authors: Kobe Bryant
-category: YouTube Video
+category: People
 ---
 
 # <https://youtu.be/VSceuiPBpxY>
