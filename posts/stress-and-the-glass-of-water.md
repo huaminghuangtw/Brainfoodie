@@ -3,6 +3,7 @@ title: ▍Stress & the Glass of Water
 created: 2026-05-25
 modified: 2026-05-25
 category: YouTube Video
+tags: []
 ---
 
 Students: 8 ounces? 12 ounces? 16 ounces?

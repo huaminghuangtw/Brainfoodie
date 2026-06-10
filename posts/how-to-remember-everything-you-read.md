@@ -4,6 +4,7 @@ created: 2026-06-05
 modified: 2026-06-05
 authors: Justin Sung
 category: YouTube Video
+tags: []
 ---
 
 > When it comes to remembering and applying information, it’s less about how much **goes** in, and more about how much **stays** in.

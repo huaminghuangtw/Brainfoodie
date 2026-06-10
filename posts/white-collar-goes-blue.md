@@ -4,6 +4,7 @@ created: 2026-03-17
 modified: 2026-05-07
 authors: Anu Atluru
 category: Essay
+tags: []
 ---
 
 > “The Industrial Revolution was about the mechanization of muscle. This revolution is about the mechanization of the mind.” — Anu Atluru

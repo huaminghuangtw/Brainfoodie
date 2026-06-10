@@ -4,6 +4,7 @@ created: 2025-10-29
 modified: 2026-05-07
 authors: Elon Musk
 category: Essay
+tags: []
 ---
 
 1. **Avoid large meetings**

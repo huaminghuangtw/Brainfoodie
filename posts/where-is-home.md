@@ -4,6 +4,7 @@ created: 2026-05-25
 modified: 2026-05-25
 authors: Pico Iyer
 category: TED Talk
+tags: []
 ---
 
 [[2:51](https://youtu.be/3m6dV7Xo3Vc?t=2m51s)]

@@ -4,6 +4,7 @@ created: 2026-05-30
 modified: 2026-05-30
 authors: 劉軒
 category: TED Talk
+tags: []
 ---
 
 # Key Moments

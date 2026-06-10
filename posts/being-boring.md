@@ -4,6 +4,7 @@ created: 2026-05-25
 modified: 2026-05-25
 authors: Wendy Cope
 category: Poem
+tags: []
 ---
 
 > ‘[May you live in interesting times.](https://en.wikipedia.org/wiki/May_you_live_in_interesting_times)’ —Chinese curse

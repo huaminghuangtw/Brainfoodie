@@ -4,6 +4,7 @@ created: 2025-11-28
 modified: 2026-05-07
 authors: Emily Liu
 category: Book
+tags: []
 ---
 
 # Work 不等於 Job，工作不等於職業

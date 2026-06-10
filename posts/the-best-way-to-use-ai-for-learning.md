@@ -4,6 +4,7 @@ created: 2026-04-28
 modified: 2026-06-05
 authors: 詹雨安
 category: Essay
+tags: []
 ---
 
 Alan argues that the true value of AI in education lies not in increasing the volume of information consumed, but in increasing the complexity of the knowledge a learner can master.

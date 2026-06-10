@@ -4,6 +4,7 @@ created: 2026-02-14
 modified: 2026-05-07
 authors: 簡立峰
 category: Book
+tags: []
 ---
 
 AI 不會取代人類，但懂得善用 AI 的人，將取代不懂運用 AI 的人。

@@ -4,6 +4,7 @@ created: 2026-05-27
 modified: 2026-05-27
 authors: Tom Wujec
 category: TED Talk
+tags: []
 ---
 
 > Design truly is a contact sport. It demands that we bring all of our senses to the task and that we apply the very best our thinking, our feeling, and our doing to the challenge we have at hand. <mark>Prototypes are an essential part of the design.</mark>

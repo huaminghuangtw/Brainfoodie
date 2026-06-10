@@ -4,6 +4,7 @@ created: 2026-01-08
 modified: 2026-05-07
 authors: Huberman Lab
 category: Essay
+tags: []
 ---
 
 Start slow (**warmer then colder**)—as [cold shock (冷休克)](https://www.google.com/search?q=cold+shock) is possible; just as with lifting weights or other forms of exercise.

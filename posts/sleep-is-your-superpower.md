@@ -4,6 +4,7 @@ created: 2026-05-26
 modified: 2026-05-26
 authors: Matt Walker
 category: TED Talk
+tags: []
 ---
 
 > I could tell you about sleep loss and your cardiovascular system, and that all it takes is one hour. Because there is a global experiment performed on 1.6 billion people across 70 countries twice a year, and it’s called daylight saving time. [^1] Now, in the spring, when we lose one hour of sleep, we see a subsequent 24-percent increase in heart attacks that following day. In the autumn, when we gain an hour of sleep, we see a 21-percent reduction in heart attacks. Isn’t that incredible? And you see exactly the same profile for car crashes, road traffic accidents, even suicide rates.
