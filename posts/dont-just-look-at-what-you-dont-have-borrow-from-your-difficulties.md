@@ -1,7 +1,7 @@
 ---
 title: ▍別只看「沒有」，向你的困境借東西
 created: 2026-05-14
-modified: 2026-05-14
+modified: 2026-06-10
 authors: 許榮宏
 category: TED Talk
 tags: []
