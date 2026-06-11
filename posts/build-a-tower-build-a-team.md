@@ -1,7 +1,7 @@
 ---
 title: ▍Build a Tower, Build a Team
 created: 2026-05-27
-modified: 2026-05-27
+modified: 2026-06-10
 authors: Tom Wujec
 category: TED Talk
 tags: []
