@@ -1,7 +1,7 @@
 ---
 title: '▍This Page Is Designed to Last: a Manifesto for Preserving Content on the Web'
 created: 2026-05-09
-modified: 2026-05-09
+modified: 2026-06-10
 authors: Jeff Huang
 category: Essay
 tags: []
