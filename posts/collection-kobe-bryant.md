@@ -1,7 +1,7 @@
 ---
 title: '▍Collection: Kobe Bryant'
 created: 2026-05-29
-modified: 2026-06-05
+modified: 2026-06-10
 authors: Kobe Bryant
 category: People
 tags: []
