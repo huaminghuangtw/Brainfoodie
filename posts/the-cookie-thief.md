@@ -1,7 +1,7 @@
 ---
 title: ▍The Cookie Thief
 created: 2026-05-03
-modified: 2026-05-07
+modified: 2026-06-10
 authors: Valerie Cox
 category: Poem
 tags: []
