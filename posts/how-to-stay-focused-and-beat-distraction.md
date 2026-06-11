@@ -1,7 +1,7 @@
 ---
 title: ▍How to Stay Focused and Beat Distraction
 created: 2025-12-13
-modified: 2026-05-07
+modified: 2026-06-10
 authors: Nir Eyal
 category: Podcast
 tags: []
