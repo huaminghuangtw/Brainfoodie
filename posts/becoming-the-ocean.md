@@ -1,7 +1,7 @@
 ---
 title: ▍Becoming the Ocean
 created: 2026-05-19
-modified: 2026-05-19
+modified: 2026-06-10
 authors: Khalil Gibram
 category: Poem
 tags: []
