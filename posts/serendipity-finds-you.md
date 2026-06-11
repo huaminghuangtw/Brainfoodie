@@ -1,7 +1,7 @@
 ---
 title: ▍Serendipity Finds You
 created: 2026-04-27
-modified: 2026-06-05
+modified: 2026-06-10
 authors: Paul Buchheit
 category: Essay
 tags: []
