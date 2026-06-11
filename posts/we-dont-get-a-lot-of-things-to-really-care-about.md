@@ -1,7 +1,7 @@
 ---
 title: ▍We Don’t Get a Lot of Things to Really Care About
 created: 2026-04-23
-modified: 2026-05-07
+modified: 2026-06-10
 authors: Pig (2021 movie)
 category: Excerpt
 tags: []
