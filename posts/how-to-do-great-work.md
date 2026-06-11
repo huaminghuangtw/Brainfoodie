@@ -1,7 +1,7 @@
 ---
 title: ▍如何做出偉大的成就
 created: 2025-10-19
-modified: 2026-05-07
+modified: 2026-06-10
 authors: Paul Graham
 category: Essay
 tags: []
