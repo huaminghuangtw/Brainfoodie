@@ -1,7 +1,7 @@
 ---
 title: ▍40 Thoughts on Turning 40
 created: 2025-10-20
-modified: 2026-05-07
+modified: 2026-06-10
 authors: Paul Millerd
 category: Essay
 tags: []
