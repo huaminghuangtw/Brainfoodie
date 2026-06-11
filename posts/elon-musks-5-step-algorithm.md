@@ -1,7 +1,7 @@
 ---
 title: ▍Elon Musk’s 5-Step Algorithm
 created: 2025-10-29
-modified: 2026-05-07
+modified: 2026-06-10
 authors: Elon Musk
 category: Essay
 tags: []
