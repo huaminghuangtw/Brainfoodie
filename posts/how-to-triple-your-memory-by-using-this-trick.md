@@ -1,9 +1,10 @@
 ---
 title: ▍How to Triple Your Memory by Using This Trick
 created: 2026-04-20
-modified: 2026-05-07
+modified: 2026-06-10
 authors: Ricardo Lieuw On
 category: TED Talk
+tags: []
 ---
 
 This TEDx talk by Ricardo Lieuw On explores the “art of learning” and demonstrates a powerful visualization technique to significantly improve memory.
