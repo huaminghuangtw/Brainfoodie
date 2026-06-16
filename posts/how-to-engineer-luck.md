@@ -1,10 +1,9 @@
 ---
 title: ▍How to Engineer Luck
 created: 2025-10-28
-modified: 2026-06-10
+modified: 2026-05-07
 authors: George Mack
 category: Essay
-tags: []
 ---
 
 Thought Experiment:

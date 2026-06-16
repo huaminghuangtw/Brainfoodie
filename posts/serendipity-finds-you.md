@@ -1,10 +1,9 @@
 ---
 title: ▍Serendipity Finds You
 created: 2026-04-27
-modified: 2026-06-10
+modified: 2026-06-05
 authors: Paul Buchheit
 category: Essay
-tags: []
 ---
 
 > It’s better to think in terms of “allowing” serendipity rather than “seeking” it or “creating” it. Opportunity is all around us, but we have beliefs and habits that block it. The two biggest blocks to serendipity seem to be ego-fear and “other plans”.

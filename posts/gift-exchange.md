@@ -1,12 +1,11 @@
 ---
 title: ▍交換禮物
 created: 2025-11-13
-modified: 2026-06-10
+modified: 2026-06-05
 authors:
   - 曾寶儀
   - 林明謙
 category: Documentary
-tags: []
 ---
 
 生機飲食（[Raw Food Diet](https://www.google.com/search?q=Raw+Food+Diet)）推廣者 [劉湘琪](https://www.google.com/search?q=劉湘琪)：生死置之度外。

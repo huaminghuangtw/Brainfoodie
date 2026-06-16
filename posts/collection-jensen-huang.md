@@ -1,13 +1,12 @@
 ---
 title: '▍Collection: Jensen Huang'
 created: 2025-10-21
-modified: 2026-06-11
+modified: 2026-06-05
 authors: 黃仁勳
 category: People
-tags: []
 ---
 
-# <https://youtu.be/lXLBTBBil2U>
+# [Jensen Huang, Founder and CEO of NVIDIA | Stanford Graduate School of Business](https://youtu.be/lXLBTBBil2U)
 
 > “Don’t worry about how other companies or org charts look. Start from first principles. <mark>Remember what an organization is designed to do - an organization of the past where there’s a king (CEO), then you have the royal subjects/court, then you keep working your way down - eventually you have employees. Well the reason why it was designed that way is because they wanted their soldiers to have as little information as possible because their fundamental purpose of the soldiers is to die in the field of battle. To die without asking questions.</mark> I only have 30,000 employees. I would like none of them to die. I would like them to question everything. So the way you organize in the past and the way you organize today is very different.”
 
@@ -19,45 +18,13 @@ tags: []
 
 ---
 
-# <https://youtu.be/Xn1EsFe7snQ>
-
-**Perspective Over “Vision”:** Having a “perspective” is an accessible way for anyone to build a business. It simply means seeing the world differently based on your unique experiences and finding a common sense that others might overlook [[06:24](https://youtu.be/Xn1EsFe7snQ?t=384)].
-
-**The Power of Self-Cannibalization:** To remain a market leader, a company must have the courage to cannibalize its own successful products before a competitor does [[29:12](https://youtu.be/Xn1EsFe7snQ?t=1752)].
-
-> [The biggest challenge with building a company is the reinvention of the company. Everything successful things needs to be torn down at some point and be rebuilt. This is unfortunately true.](https://youtu.be/Xn1EsFe7snQ?t=55m19s)
-
-**Cultivating a Tolerance for Failure:** True innovation requires constant experimentation, which inevitably results in failure. Leaders must foster a culture that tolerates risk-taking but encourages pivoting quickly and cheaply when an idea hits a dead end [[37:36](https://youtu.be/Xn1EsFe7snQ?t=2256)].
-
-> [Innovation needs a lot of experimentation, experimentation requires exploration, explorations will result in failures. If you do not have a tolerance for failures, you won’t succeed.](https://youtu.be/Xn1EsFe7snQ?t=39m18s)
-
-**Comfort with Ambiguity:** A critical trait for a CEO is the ability to navigate ambiguity—being comfortable moving forward into the future when the next steps or final outcomes cannot be precisely calculated [[46:18](https://youtu.be/Xn1EsFe7snQ?t=2778)].
-
-**The Danger of Purely Monetary Motivation:** Building a company is an incredibly painful and challenging process. If money is the sole motivator, entrepreneurs will likely regret the experience; real longevity requires passion for the cause and the process of building [[01:01:42](https://youtu.be/Xn1EsFe7snQ?t=3702)].
-
-> [Money is the only singular reason not to start a company.](https://youtu.be/Xn1EsFe7snQ?t=1h1m44s)
-
-The two most important things for building a company:
-
-1. Great people.
-
-	> [As a CEO, selecting people is 99% of the job.](https://youtu.be/Xn1EsFe7snQ?t=40m3s)
-
-2. Deep focus.
-
-	> [Focus. Laser beam focus. Don’t do too much. Do a few things well. Do them with extraordinary intensity.](https://youtu.be/Xn1EsFe7snQ?t=54m12s)
-
-> [As a CEO, you’re either making money, saving money, or raising money.](https://youtu.be/Xn1EsFe7snQ?t=57m31s)
-
----
-
-# <https://youtu.be/cEg8cOx7UZk>
+# [NVIDIA CEO Jensen Huang at 2024 SIEPR Economic Summit](https://youtu.be/cEg8cOx7UZk)
 
 > [One of my great advantages is that I have very low expectations, and I mean that. <mark>Most Stanford graduates have very high expectations, and you deserve high expectations because you come from a great school, you were very successful, you are on top of you class. Obviously, you were able to pay for tuition, and you’re graduating from one of the finest institutions on the planet. You are surrounded by other kids that are just incredible. You naturally have very high expectations. [However,] people with very high expectations have very low resilience. And unfortunately, resilience matters in success.</mark> I don’t know how to teach it to you, except [to say], “I hope suffering happens to you.” I was fortunate that I grew up with parents who provided conditions for us to be successful on the one hand, but there were [also] plenty of opportunities for setbacks and suffering. To this day, I use the phrase “pain and suffering” inside our company with great glee, and I mean that [in a happy way], because you want to train and refine the character of your company. You want greatness out of them, and greatness is not intelligence as you know; <mark>greatness comes from character, and character isn’t formed out of smart people, it’s formed out of people who suffered.</mark> So, if I could wish upon you—I don’t know how to do it—but for all of you Stanford students, I wish upon you ample doses of pain and suffering.](https://youtu.be/cEg8cOx7UZk?t=36m10s)
 
 ---
 
-# <https://youtu.be/8Pfa8kPjUio>
+# [A conversation with NVIDIA’s Jensen Huang](https://youtu.be/8Pfa8kPjUio)
 
 <sub>👉 [View Full Transcirpt](https://stripe.com/sessions/2024/a-conversation-with-nvidias-jensen-huang)</sub>
 
@@ -71,13 +38,13 @@ A zero-billion-dollar market is one that doesn’t exist yet. Put another way, t
 
 ---
 
-# <https://youtu.be/Sc48ToLIQAY>
+# [Jensen Huang’s Speech At CalTech｜黃仁勳加州理工演講](https://youtu.be/Sc48ToLIQAY)
 
 > The ability to make sacrifices, endure pain and suffering, you will need these qualities in life.
 
 ---
 
-# <https://youtu.be/oi89u6q0_AY>
+# [NVIDIA 執行長黃仁勳 2023 年臺灣大學畢業典禮致詞](https://youtu.be/oi89u6q0_AY)
 
 > [[13:06](https://youtu.be/oi89u6q0_AY?t=13m6s)] _坦誠面對錯誤，謙卑尋求幫助，是聰明與成功人士最難學會的。_
 
@@ -89,7 +56,7 @@ A zero-billion-dollar market is one that doesn’t exist yet. Put another way, t
 
 ---
 
-# <https://www.youtube.com/live/FOzcVNvitnI>
+# [TVBS 方念華獨家專訪 | Exclusive Interview with NVIDIA’s CEO Jensen Huang](https://www.youtube.com/live/FOzcVNvitnI)
 
 ## EIOFS = Early Indicator of Future Success
 
@@ -101,7 +68,7 @@ A zero-billion-dollar market is one that doesn’t exist yet. Put another way, t
 
 ---
 
-# <https://youtu.be/emUT9pEjf3A?t=2889c>
+# [黃仁勳面對面 TVBS 劉亭廷獨家專訪](https://youtu.be/emUT9pEjf3A?t=2889)
 
 ## On “Core Leadership Values”
 

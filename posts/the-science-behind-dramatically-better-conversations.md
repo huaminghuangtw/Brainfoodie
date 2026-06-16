@@ -1,10 +1,9 @@
 ---
 title: ▍The Science Behind Dramatically Better Conversations
 created: 2025-10-25
-modified: 2026-06-10
+modified: 2026-05-07
 authors: Charles Duhigg
 category: TED Talk
-tags: []
 ---
 
 We tend to think of a discussion as **one** conversation. But, in fact, each discussion contains **many** conversations.

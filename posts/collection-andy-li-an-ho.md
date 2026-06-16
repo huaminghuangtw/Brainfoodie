@@ -1,13 +1,12 @@
 ---
 title: '▍Collection: Andy Li-An Ho'
 created: 2026-01-27
-modified: 2026-06-11
+modified: 2026-06-05
 authors: 何立安
 category: People
-tags: []
 ---
 
-# <https://youtu.be/_DQCsHwiLrg>
+# [你以為的「養生」其實在加速「退化」？別讓你的晚年在病床或輪椅上度過 ft. 何立安博士](https://youtu.be/_DQCsHwiLrg)
 
 > 體態是生活型態的倒影。
 
@@ -15,7 +14,7 @@ tags: []
 
 ---
 
-# <https://youtu.be/Vr-INxCYZRk>
+# [何立安博士：很少人知道最好的訓練法，其實也是最輕鬆的｜初日會客室](https://youtu.be/Vr-INxCYZRk)
 
 > 低強度運動產生正面情緒；中強度運動產生混合情緒；高強度運動產生負面情緒，但結束後會產生極正面情緒。
 
@@ -29,7 +28,7 @@ tags: []
 
 ---
 
-# <https://youtu.be/5NayFFHy7F8>
+# [運動科學博士：重訓卡關是因為你忽略了這件事情 ft. 何立安博士｜博音](https://youtu.be/5NayFFHy7F8)
 
 > 「最大肌力（One Rep Max）」是非常重要的健身/重訓課表！
 

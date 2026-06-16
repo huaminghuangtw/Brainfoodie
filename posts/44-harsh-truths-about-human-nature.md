@@ -1,10 +1,9 @@
 ---
 title: ▍44 Harsh Truths About Human Nature
 created: 2025-11-18
-modified: 2026-06-10
+modified: 2026-05-07
 authors: Naval Ravikant
 category: Podcast
-tags: []
 ---
 
 [1:04](https://youtu.be/KyfUysrNaco?t=64s)

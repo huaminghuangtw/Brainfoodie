@@ -1,10 +1,9 @@
 ---
 title: ▍What I Know for Sure
 created: 2026-05-03
-modified: 2026-06-10
+modified: 2026-05-07
 authors: Oprah Winfrey
 category: Book
-tags: []
 ---
 
 > What I know for sure is that pleasure is energy reciprocated: What you put out comes back. Your base level of pleasure is determined by how you view your whole life.

@@ -1,10 +1,9 @@
 ---
 title: ▍At Dawn
 created: 2026-02-06
-modified: 2026-06-10
+modified: 2026-06-05
 authors: Marcus Aurelius
 category: Excerpt
-tags: []
 ---
 
 An excerpt from Marcus Aurelius’s _Meditations_, Book V (5), §1:
