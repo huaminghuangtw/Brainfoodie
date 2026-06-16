@@ -1,9 +1,10 @@
 ---
 title: ▍The Psychology of Future Self
 created: 2025-11-19
-modified: 2026-05-07
+modified: 2026-06-10
 authors: Dan Gilbert
 category: TED Talk
+tags: []
 ---
 
 # [The End of History’Illusion](https://doi.org/10.1126/science.1229294)
