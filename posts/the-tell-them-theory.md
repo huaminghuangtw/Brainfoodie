@@ -1,9 +1,10 @@
 ---
 title: ▍The “Tell Them” Theory
 created: 2026-03-11
-modified: 2026-05-07
+modified: 2026-06-10
 authors: Vex King
 category: Essay
+tags: []
 ---
 
 I’m convinced a **Tell Them Theory** would make the world a better place.
