@@ -1,9 +1,10 @@
 ---
 title: ▍Our Deepest Fear
 created: 2026-02-06
-modified: 2026-05-07
+modified: 2026-06-10
 authors: Marianne Williamson
 category: Poem
+tags: []
 ---
 
 > Our deepest fear is not that we are inadequate.
