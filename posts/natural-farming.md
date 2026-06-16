@@ -1,9 +1,10 @@
 ---
 title: ▍自然農
 created: 2025-12-02
-modified: 2026-06-05
+modified: 2026-06-10
 authors: 鏡山悅子
 category: Book
+tags: []
 ---
 
 # 真正的蔬菜不綠
