@@ -1,12 +1,13 @@
 ---
 title: '▍Collection: Eliud Kipchoge'
 created: 2026-04-29
-modified: 2026-06-05
+modified: 2026-06-11
 authors: Eliud Kipchoge
 category: People
+tags: []
 ---
 
-# [The Surprisingly Simple Training of the World’s Fastest Marathoner](https://run.outsideonline.com/training/training-plans/marathon/eliud-kipchoge-marathon-workout-training-principles/)
+# <https://run.outsideonline.com/training/training-plans/marathon/eliud-kipchoge-marathon-workout-training-principles/>
 
 Kipchoge starts at 5:45 A.M. every day, and goes to bed by 9 P.M.. During the day, he’ll nap for an hour. Despite the many demands on his time, he’s very, very good at doing nothing.
 
@@ -28,11 +29,11 @@ After each marathon, Kipchoge takes three to four weeks completely off before be
 
 Kipchoge’s marathon-training blocks have been as long as seven months and as short as three months, but typically they last around **16 weeks**.
 
-# [Eliud Kipchoge: Daily Routine](https://balancethegrind.co/daily-routines/eliud-kipchoge-daily-routine/)
+# <https://balancethegrind.co/daily-routines/eliud-kipchoge-daily-routine/>
 
 Kipchoge doesn’t take any supplements. “I’m not having any problems with my body, so I don’t need to supplement,” he told [Runner’s World](https://www.runnersworld.com/). “Growing older you don’t recover as fast, but all-in-all I’m doing well.”
 
-# [Eliud Kipchoge: The humble home life in rural Kenya behind remarkable athletic success - BBC Sport](https://www.bbc.com/sport/athletics/52354320)
+# <https://www.bbc.com/sport/athletics/52354320>
 
 > I don’t have extra money to actually make my mind go haywire. I am a human being and I stay as a human being. Money stays away. I’m not working with money; money is in the bank. I want to live a simple life.
 
@@ -44,7 +45,7 @@ If it was any other guy to break the two-hour record, there would have been a ca
 
 > The most important thing to me is inspiration, not fame. It is not about becoming famous but diffusing that inspiration to every human being. My happiness is meeting people and they say to me: ‘No human is limited.’ That makes me so happy.
 
-# [Eliud Kipchoge: Inside the camp, and the mind, of the greatest marathon runner of all time](https://www.irishexaminer.com/sport/othersport/arid-40732662.html)
+# <https://www.irishexaminer.com/sport/othersport/arid-40732662.html>
 
 > In Vienna, October 12, 2019. Earlier that day, Kipchoge had become the first man ever to run a sub-two-hour marathon, clocking 1:59:40, a time that didn’t count as an official world record due to the use of rotating pacemakers and Kipchoge being handed his drinks from a bike (rather than picking them off a table).
 >
@@ -106,7 +107,7 @@ Kipchoge does three hard workouts a week: 15–16km worth of track repetitions o
 
 > If you’ve been using a tiny gym for all your success, then the day you become successful and go to a huge gym, I don’t think you’ll be better. Small habits are what make me successful. I’m sticking to where I started and I’m confident I’ll end my career here.
 
-# [Four Takeaways From The Training of Eliud Kipchoge, Marathon GOAT](https://www.trailrunnermag.com/training/trail-tips-training/kipchoge-training-takeaways/)
+# <https://www.trailrunnermag.com/training/trail-tips-training/kipchoge-training-takeaways/>
 
 ## Most of Kipchoge’s training is very easy.
 
