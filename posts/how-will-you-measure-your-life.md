@@ -1,7 +1,7 @@
 ---
 title: ▍How Will You Measure Your Life?
 created: 2026-06-11
-modified: 2026-06-16
+modified: 2026-06-18
 authors: Clayton M. Christensen
 category: Book
 tags:
@@ -23,6 +23,7 @@ tags:
 * 一旦破壞了自己的原則，就很難再堅守。相對地，如果不越界，個人道德界線的力量將非常強大。
 * 「[一失足成千古恨](https://www.google.com/search?q=一失足成千古恨)」：一次讓步，會導致第二次、第三次的讓步變得更容易，你就會不停為每一次讓步找藉口。
 * 堅守 100% 的原則，比每次都跟自己討價還價來得簡單與安全。只有完全不給自己破例的機會，才能真正守住原則。
+* Each time you follow through on a commitment to yourself, you deposit into your self-respect account; each time you break one, you make a withdrawal.
 
 ---
 
