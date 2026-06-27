@@ -1,13 +1,11 @@
 ---
 title: ▍At Dawn
 created: 2026-02-06
-modified: 2026-06-10
-authors: Marcus Aurelius
+modified: 2026-06-27
+authors: Marcus Aurelius, Meditations, Book V (5), §1
 category: Excerpt
 tags: []
 ---
-
-An excerpt from Marcus Aurelius’s _Meditations_, Book V (5), §1:
 
 > At dawn, when you have trouble getting out of bed, tell yourself: “I have to go to work—as a human being. What do I have to complain of, if I’m going to do what I was born for— the things I was brought into the world to do? Or is this what I was created for? To huddle under the blankets and stay warm?
 >
