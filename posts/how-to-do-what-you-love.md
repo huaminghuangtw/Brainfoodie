@@ -1,9 +1,8 @@
 ---
 title: ▍How to Do What You Love
 created: 2026-06-22
-modified: 2026-06-22
-authors:
-  - Paul Graham
+modified: 2026-06-27
+authors: Paul Graham
 category: Essay
 tags: []
 ---
