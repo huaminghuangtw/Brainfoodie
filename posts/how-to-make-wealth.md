@@ -1,9 +1,8 @@
 ---
 title: ▍How to Make Wealth
 created: 2026-06-23
-modified: 2026-06-23
-authors:
-  - Paul Graham
+modified: 2026-06-27
+authors: Paul Graham
 category: Essay
 tags: []
 ---
