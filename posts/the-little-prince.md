@@ -1,7 +1,7 @@
 ---
 title: ▍The Little Prince
 created: 2026-04-15
-modified: 2026-06-10
+modified: 2026-07-17
 authors: Antoine de Saint-Exupéry
 category: Book
 tags: []
@@ -115,7 +115,7 @@ tags: []
 >
 > “Good-bye,” he said.
 >
-> “Good-bye,” said the fox. “Here is my secret. It’s quite simple: <mark>One sees clearly only with the heart. Anything essential is invisible to the eyes.</mark>” [^1]
+> “Good-bye,” said the fox. “Here is my secret. It’s quite simple: <mark>One sees clearly only with the heart. Anything essential is invisible to the eyes.</mark>” [^1] [^2]
 >
 > “Anything essential is invisible to the eyes,” the little prince repeated, in order to remember.
 >
@@ -130,3 +130,4 @@ tags: []
 ![](_attachments/522312ced47b4223735e4eb54d526f73.jpeg)
 
 [^1]: _[“The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.” — Helen Keller](http://brainyquote.com/quotes/helen_keller_101301)_
+[^2]: _“Why do we close our eyes when we pray, cry, kiss, or dream? Because the most beautiful things in life are not seen but felt by the heart.” — Denzel Washington_
