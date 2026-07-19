@@ -3,7 +3,6 @@ title: ▍The Empty Boat
 created: 2026-06-23
 modified: 2026-06-23
 category: Parable
-tags: []
 ---
 
 > A monk goes out on a boat in a small lake to meditate. After a few hours of uninterrupted silence, he suddenly feels the jarring impact of another boat bumping into his.

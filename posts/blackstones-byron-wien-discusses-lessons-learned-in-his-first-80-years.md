@@ -4,7 +4,6 @@ created: 2026-07-14
 modified: 2026-07-14
 authors: Byron Wien
 category: Essay
-tags: []
 ---
 
 > Take the time to give those who work for you a pat on the back when they do good work. Most people are so focused on the next challenge that they fail to thank the people who support them. It is important to do this. It motivates and inspires people and encourages them to perform at a higher level.

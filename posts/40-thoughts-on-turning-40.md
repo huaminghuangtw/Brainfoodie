@@ -4,7 +4,6 @@ created: 2025-10-20
 modified: 2026-06-10
 authors: Paul Millerd
 category: Essay
-tags: []
 ---
 
 # On “Work & Success”

@@ -4,7 +4,6 @@ created: 2026-05-19
 modified: 2026-06-10
 authors: Khalil Gibram
 category: Poem
-tags: []
 ---
 
 > It is said that before entering the sea,

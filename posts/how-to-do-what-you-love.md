@@ -4,7 +4,6 @@ created: 2026-06-22
 modified: 2026-06-27
 authors: Paul Graham
 category: Essay
-tags: []
 ---
 
 Finding and doing work you love is an exceptionally difficult but essential pursuit for achieving happiness and greatness. Most people are derailed in childhood by the false conditioning that work is inherently painful, and later by the twin sirens of prestige and money. True career satisfaction requires finding work that satisfies both an upper bound (preferring it to unproductive leisure over a long horizon) and a lower bound (admiring the output and passing the “wow” test of respected peers). To navigate this, individuals must choose between the slow, adaptive _organic route_ or the risky, bifurcated _two-job route_, using the active constraint of “always producing” as a gravity-like heuristic to discover their genuine interests.

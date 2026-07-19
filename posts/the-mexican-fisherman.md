@@ -3,7 +3,6 @@ title: ▍The Mexican Fisherman
 created: 2026-06-22
 modified: 2026-06-22
 category: Parable
-tags: []
 ---
 
 > A successful American businessman was on vacation in a small Mexican coastal village when he saw a fisherman docking his small boat. Inside the boat were a few large, fresh fish.

@@ -3,8 +3,6 @@ title: ▍The Unaccepted Gift
 created: 2026-06-23
 modified: 2026-06-23
 category: Parable
-tags:
-  - 心理韌性
 ---
 
 一個年輕修行者在寺院裡每天誦經、打掃、煮茶，日子過得很平靜。

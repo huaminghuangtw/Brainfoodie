@@ -4,7 +4,6 @@ created: 2025-10-21
 modified: 2026-07-01
 authors: 黃仁勳
 category: People
-tags: []
 ---
 
 # <https://youtu.be/lXLBTBBil2U>

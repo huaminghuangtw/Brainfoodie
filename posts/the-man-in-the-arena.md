@@ -4,7 +4,6 @@ created: 2026-02-06
 modified: 2026-06-10
 authors: Theodore Roosevelt
 category: Inspiring Speech
-tags: []
 ---
 
 An excerpt from Theodore Roosevelt’s speech “[Citizenship in a Republic](https://www.presidency.ucsb.edu/documents/address-the-sorbonne-paris-france-citizenship-republic)” on April 23, 1910, in Paris, France:

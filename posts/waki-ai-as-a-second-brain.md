@@ -1,11 +1,9 @@
 ---
 title: ▍瓦基：AI 第二大腦，工作的目的，人跟人的連結，你要拿 AI 省下來的時間做什麼？
 created: 2026-06-24
-modified: 2026-06-27
+modified: 2026-07-19
 authors: 瓦基
 category: Podcast
-tags:
-  - AI
 ---
 
 # AI 任務矩陣

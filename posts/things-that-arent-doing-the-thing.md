@@ -4,7 +4,6 @@ created: 2026-07-17
 modified: 2026-07-17
 authors: Strangest Loop
 category: Essay
-tags: []
 ---
 
 > Preparing to do the thing isn’t doing the thing.

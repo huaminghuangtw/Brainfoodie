@@ -4,7 +4,6 @@ created: 2026-07-04
 modified: 2026-07-04
 authors: Jason Fried
 category: Podcast
-tags: []
 ---
 
 > Make stuff for yourself. There’s probably other people out there like you who want what you want and make it available to sell.

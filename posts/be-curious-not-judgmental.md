@@ -4,7 +4,6 @@ created: 2026-06-27
 modified: 2026-06-27
 authors: Ted Lasso (2020 TV series)
 category: Excerpt
-tags: []
 ---
 
 > You know Rupert, guys have underestimated me my entire life. And for years I never understood why. It used to really bother me. But then one day, I was driving my little boy to school and I saw this quote by Walt Whitman, it was painted on the wall there. It said, <mark>“Be curious, not judgmental.”</mark> I like that.

@@ -4,7 +4,6 @@ created: 2026-06-30
 modified: 2026-06-30
 authors: Linda Ellis
 category: Poem
-tags: []
 ---
 
 > I read of a man who stood to speak

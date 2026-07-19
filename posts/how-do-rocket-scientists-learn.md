@@ -4,7 +4,6 @@ created: 2026-04-13
 modified: 2026-06-10
 authors: Yasmin Fodil
 category: Essay
-tags: []
 ---
 
 [NASA Goddard](https://www.google.com/search?q=Goddard+Space+Flight+Center)’s Knowledge Management (KM) approach rejects the idea that institutional wisdom can be stored in digital libraries or databases. Instead, they emphasize the transfer of tacit knowledge—experiential know-how that cannot be captured in manuals. By institutionalizing “Pause and Learn” sessions and narrative-driven Case Studies, NASA transforms project milestones and failures into stories that build critical thinking and capture both the “why” and “what” behind decisions. This human-centric, social approach prioritizes psychological safety, storytelling, and deliberate reflection over technical systems.

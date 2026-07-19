@@ -4,8 +4,6 @@ created: 2026-06-28
 modified: 2026-06-28
 authors: Morgan Housel
 category: Essay
-tags:
-  - investing
 ---
 
 > The most overlooked trait of investing success is communicating to your clients the softer and emotional side of investing. A knowledge of market history. An acceptance of volatility as a normal part of investing. That you can be wrong on half your investments and still do well over time.

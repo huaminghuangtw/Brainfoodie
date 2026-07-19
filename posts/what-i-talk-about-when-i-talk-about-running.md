@@ -4,8 +4,6 @@ created: 2026-07-02
 modified: 2026-07-02
 authors: Haruki Murakami
 category: Book
-tags:
-  - running
 ---
 
 > Pain is inevitable. Suffering is optional.

@@ -4,8 +4,6 @@ created: 2026-06-11
 modified: 2026-06-18
 authors: Clayton M. Christensen
 category: Book
-tags:
-  - 人蔘
 ---
 
 > “In your life, there are going to be constant demands for your time and attention. How are you going to decide which of those demands gets resources? The trap many people fall into is to allocate their time to <mark>whoever screams loudest</mark>, and their talent to <mark>whatever offers them the fastest reward</mark>. That’s a dangerous way to build a strategy.” — Clayton M. Christensen, [How Will You Measure Your Life?](https://www.goodreads.com/work/quotes/18907551)

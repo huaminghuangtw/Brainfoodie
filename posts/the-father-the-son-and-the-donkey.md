@@ -3,7 +3,6 @@ title: ▍The Father, The Son, and The Donkey
 created: 2026-06-22
 modified: 2026-06-22
 category: Parable
-tags: []
 ---
 
 = 父子騎驢

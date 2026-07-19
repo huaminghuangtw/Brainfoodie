@@ -3,7 +3,6 @@ title: ▍The Cut Crystal Glass
 created: 2026-06-23
 modified: 2026-06-23
 category: Parable
-tags: []
 ---
 
 > A Zen master received a beautiful glass cup from a former student. He loved it, used it daily, and showed it to visitors. he would hold the cup in his hand and remind himself, “This cup is already broken.”

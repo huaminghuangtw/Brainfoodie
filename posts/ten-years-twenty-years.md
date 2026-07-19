@@ -3,7 +3,6 @@ title: ▍Ten Years, Twenty Years
 created: 2026-06-23
 modified: 2026-06-23
 category: Parable
-tags: []
 ---
 
 > A martial arts student approaches his teacher and asks, “How long will it take me to master this craft?”

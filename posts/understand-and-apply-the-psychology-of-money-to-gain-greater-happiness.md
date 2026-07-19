@@ -4,7 +4,6 @@ created: 2025-12-11
 modified: 2026-06-10
 authors: Morgan Housel
 category: Podcast
-tags: []
 ---
 
 [24:29](https://youtu.be/z5W74QC3v2I?t=24m29s)

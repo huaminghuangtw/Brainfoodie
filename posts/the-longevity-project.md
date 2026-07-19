@@ -6,8 +6,6 @@ authors:
   - Howard S. Friedman
   - Leslie R. Martin
 category: Book
-tags:
-  - longevity
 ---
 
 The book is based on a 20-year study started in 1921 by psychologist [Lewis Terman](https://www.google.com/search?q=Lewis+Terman), which followed about 1,500 gifted children throughout their entire lives. Friedman and Martin spent decades analyzing who lived longest and why.

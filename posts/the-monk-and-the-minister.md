@@ -3,7 +3,6 @@ title: ▍The Monk & The Minister
 created: 2026-06-22
 modified: 2026-06-22
 category: Parable
-tags: []
 ---
 
 Two childhood friends set out on separate paths in life. One chose the quiet simplicity of a monk’s life, content with little and devoted to spiritual practice. The other pursued ambition, rising to become a wealthy minister in the king’s court, surrounded by luxury and power.

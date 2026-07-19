@@ -4,8 +4,6 @@ created: 2026-06-10
 modified: 2026-06-10
 authors: Andreas Schleicher
 category: TED Talk
-tags:
-  - education
 ---
 
 > PISA’s strength doesn’t lie in telling you what you should do, but in telling you what everyone else is doing.

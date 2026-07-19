@@ -3,7 +3,6 @@ title: ▍The Chinese Farmer
 created: 2026-06-22
 modified: 2026-06-22
 category: Parable
-tags: []
 ---
 
 > 塞翁失馬，焉知非福。

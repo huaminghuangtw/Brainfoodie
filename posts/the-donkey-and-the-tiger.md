@@ -3,7 +3,6 @@ title: ▍The Donkey & The Tiger
 created: 2026-06-22
 modified: 2026-06-22
 category: Parable
-tags: []
 ---
 
 ![](_attachments/fcc1929f8c6044ff48bfbf8d5419907c.png)

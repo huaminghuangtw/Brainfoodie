@@ -4,7 +4,6 @@ created: 2026-04-29
 modified: 2026-06-11
 authors: Eliud Kipchoge
 category: People
-tags: []
 ---
 
 # <https://run.outsideonline.com/training/training-plans/marathon/eliud-kipchoge-marathon-workout-training-principles/>

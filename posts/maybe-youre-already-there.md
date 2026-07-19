@@ -3,7 +3,6 @@ title: ▍Maybe You’re Already There
 created: 2026-06-23
 modified: 2026-06-23
 category: Parable
-tags: []
 ---
 
 > Nearing the end of a long journey, a young Buddhist comes to the banks of a deep, wide river. He doesn’t know how to cross it and begins to ponder the challenge.

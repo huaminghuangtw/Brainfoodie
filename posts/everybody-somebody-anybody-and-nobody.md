@@ -4,7 +4,6 @@ created: 2026-07-17
 modified: 2026-07-17
 authors: Charles Osgood
 category: Poem
-tags: []
 ---
 
 A team had four members called Everybody, Somebody, Anybody, and Nobody.

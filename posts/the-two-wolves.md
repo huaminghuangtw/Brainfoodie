@@ -3,7 +3,6 @@ title: ▍The Two Wolves
 created: 2026-07-15
 modified: 2026-07-15
 category: Parable
-tags: []
 ---
 
 An old man took his grandson for a walk through the woods. When they sat down by a creek, he turned to the boy.

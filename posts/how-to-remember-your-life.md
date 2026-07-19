@@ -4,7 +4,6 @@ created: 2026-05-27
 modified: 2026-06-10
 authors: Johnny Harris
 category: YouTube Video
-tags: []
 ---
 
 * **The Digital Photography Paradox [[04:12](https://youtu.be/GLy4VKeYxD4?t=252)]**: Discusses how having thousands of unorganized photos sitting on a smartphone often means we never actually look at them or properly process the memories.

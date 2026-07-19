@@ -4,7 +4,6 @@ created: 2026-06-13
 modified: 2026-06-13
 authors: Ted Lamade
 category: Essay
-tags: []
 ---
 
 > I was reminded of this recently after speaking with a young man who is navigating the college admissions process. He had been accepted to several very good universities, but not his first choice, which happens to accept fewer than 6% of applicants.

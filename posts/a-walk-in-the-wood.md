@@ -6,7 +6,6 @@ authors:
   - Dr. Joseph Parent
   - Nancy Parent
 category: Book
-tags: []
 ---
 
 當你洗臉時，專注於雙手的動作，感受水的濕潤與溫暖、肥皂的氣味與滑順，以及毛巾貼在臉上的柔軟觸感。

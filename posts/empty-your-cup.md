@@ -3,7 +3,6 @@ title: ▍Empty Your Cup
 created: 2026-06-23
 modified: 2026-06-23
 category: Parable
-tags: []
 ---
 
 > A long time ago, there was a wise Zen master. People from distant places would come to seek his guidance, hoping to learn the path to enlightenment.

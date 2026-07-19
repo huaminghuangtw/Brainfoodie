@@ -4,7 +4,6 @@ created: 2026-07-17
 modified: 2026-07-17
 authors: David L. Weatherford
 category: Poem
-tags: []
 ---
 
 > Have you ever watched kids on a merry-go-round?

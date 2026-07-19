@@ -4,7 +4,6 @@ created: 2026-04-15
 modified: 2026-07-17
 authors: Antoine de Saint-Exupéry
 category: Book
-tags: []
 ---
 
 > All grown-ups were once children, but only few of them remember it.

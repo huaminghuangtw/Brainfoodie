@@ -4,7 +4,6 @@ created: 2025-10-18
 modified: 2026-06-10
 authors: Edward Packard
 category: Essay
-tags: []
 ---
 
 1. to be self-constituted

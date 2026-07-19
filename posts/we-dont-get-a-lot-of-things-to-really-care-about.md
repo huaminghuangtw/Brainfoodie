@@ -4,7 +4,6 @@ created: 2026-04-23
 modified: 2026-06-10
 authors: Pig (2021 movie)
 category: Excerpt
-tags: []
 ---
 
 > They’re not real; you get that, right? None of it is real. The critics aren’t real. The customers aren’t real. Because _this_ isn’t real. You aren’t real.

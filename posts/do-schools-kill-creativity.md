@@ -4,8 +4,6 @@ created: 2025-10-27
 modified: 2026-06-10
 authors: Sir Ken Robinson
 category: TED Talk
-tags:
-  - education
 ---
 
 > My contention is that creativity now is as important in education as literacy, and we should treat it with the same status.

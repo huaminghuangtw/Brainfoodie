@@ -4,8 +4,6 @@ created: 2026-06-12
 modified: 2026-06-12
 authors: Ethan Mollick
 category: Essay
-tags:
-  - ai
 ---
 
 # Working with AI is a dialogue, not an order.

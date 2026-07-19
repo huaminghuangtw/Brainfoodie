@@ -4,7 +4,6 @@ created: 2026-05-03
 modified: 2026-06-10
 authors: Valerie Cox
 category: Poem
-tags: []
 ---
 
 > A woman was waiting at an airport one night, with several long hours before her flight. She hunted for a book in the airport shops, bought a bag of cookies and found a place to drop.

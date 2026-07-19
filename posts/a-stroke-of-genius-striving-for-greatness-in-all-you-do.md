@@ -4,7 +4,6 @@ created: 2025-12-01
 modified: 2026-06-10
 authors: Richard Hamming
 category: Essay
-tags: []
 ---
 
 > If you are to do important work then <mark>you must work on the right problem at the right time and in the right way.</mark> Without any one of the three, you may do good work but you will almost certainly miss real greatness. […] The first person to produce definitive results generally gets all the credit. Those who come in second are soon forgotten. Thus working on the problem at the right time is essential. […] <mark>Hard work is a trait that most great scientists have.</mark> Edison said that genius was 99% perspiration and 1% inspiration. Newton said that if others would work as hard as he did then they would get similar results. Hard work is necessary but it is not sufficient. Most people do not work as hard as they easily could. However, many who do work hard — work on the wrong problem, at the wrong time, in the wrong way, and have very little to show for it.
