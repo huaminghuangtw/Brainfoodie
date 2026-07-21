@@ -1,7 +1,7 @@
 ---
 title: '▍Collection: Eliud Kipchoge'
 created: 2026-04-29
-modified: 2026-06-11
+modified: 2026-07-21
 authors: Eliud Kipchoge
 category: People
 ---
