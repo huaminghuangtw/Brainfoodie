@@ -1,14 +1,14 @@
 ---
 title: ▍How to Make Wealth
 created: 2026-06-23
-modified: 2026-06-27
+modified: 2026-07-22
 authors: Paul Graham
 category: Essay
 ---
 
 Startups are high-intensity engines designed to compress a standard forty-year career into a few years of focused work. This compression is achieved through the dual mechanism of **measurement** (isolating individual contribution in small, elite teams) and **leverage** (using technology to scale solutions infinitely). True wealth is not money, but rather the utility and value people want; because wealth is not a fixed pie, it can be created from scratch. To capture this wealth, founders must solve hard technical problems that create natural barriers to entry, validate their ideas through immediate user adoption, and operate in societies where the rule of law protects private wealth accumulation.
 
-**The Conservation of Pain:** To acquire $1 million in value, you must endure $1 million worth of pain. A startup simply lets you purchase this “pain” in bulk, compressing 40 years of low-intensity corporate tedium into 4 years of extreme stress.
+**The Conservation of Pain:** To acquire 1 million in value, you must endure 1 million worth of pain. A startup simply lets you purchase this “pain” in bulk, compressing 40 years of low-intensity corporate tedium into 4 years of extreme stress.
 
 ---
 
