@@ -33,7 +33,7 @@ Associating is like a mental muscle that can grow stronger by practice. The more
 
 The brain doesn’t store information like a dictionary, where you can find the word “theater” under the letter “T.” Instead, it associates the word “theater” with any number of experiences from our lives. Some of these are logical (“West End” or “intermission”), while others may be less obvious (perhaps “anxiety,” from a botched performance in high school). _The more diverse our experience and knowledge, the more connections the brain can make._ Fresh inputs trigger new associations; for some, these lead to novel ideas. As Steve Jobs has frequently observed, **“Creativity is connecting things.”**
 
-![](_attachments/1abb6f103b7cbb0ab268cd7901aa80bb.jpg)
+![](../../Evergreen-Notes/Permanent-Notes/_attachments/1abb6f103b7cbb0ab268cd7901aa80bb.jpg)
 
 1. [Pierre Omidyar](https://www.google.com/search?q=Pierre+Omidyar) - eBay
 	1. He failed to buy shares in a hot tech company’s IPO, fueling a desire to build **fairer, more efficient markets**
