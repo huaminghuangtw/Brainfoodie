@@ -32,7 +32,7 @@ category: Book
 
 > “Where are the people?” resumed the little prince at last. “It’s a little lonely in the desert…” “<mark>It is lonely when you’re among people, too,</mark>” said the snake.
 
-![](_attachments/90121cea1e742fe7d33a53fdf4bcc842.jpeg)
+![](https://media.huam.ing/image/90121cea1e742fe7d33a53fdf4bcc842.webp)
 
 ---
 
@@ -124,9 +124,9 @@ category: Book
 >
 > <mark>“People have forgotten this truth,” the fox said. “But you mustn’t forget it. You become responsible forever for what you’ve tamed. You’re responsible for your rose.”</mark>
 
-![](_attachments/194587e48e24e80231f81c2a146a1640.jpeg)
+![](https://media.huam.ing/image/194587e48e24e80231f81c2a146a1640.webp)
 
-![](_attachments/522312ced47b4223735e4eb54d526f73.jpeg)
+![](https://media.huam.ing/image/522312ced47b4223735e4eb54d526f73.webp)
 
 [^1]: _[“The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.” — Helen Keller](http://brainyquote.com/quotes/helen_keller_101301)_
 [^2]: _“Why do we close our eyes when we pray, cry, kiss, or dream? Because the most beautiful things in life are not seen but felt by the heart.” — Denzel Washington_
