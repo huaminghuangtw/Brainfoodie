@@ -16,7 +16,7 @@ We tend to think of a discussion as **one** conversation. But, in fact, each dis
 2. **Emotional**: _How do we feel?_ → You simply listen.
 3. **Social**: _Who are we?_ → You reciprocate vulnerability.
 
-![](_attachments/93bae1325ed7953f4e2ec6ef1318c910.png "Source: YouTube video ‘The science behind dramatically better conversations | TED×Manchester’")
+![](https://media.huam.ing/image/93bae1325ed7953f4e2ec6ef1318c910.webp "Source: YouTube video ‘The science behind dramatically better conversations | TED×Manchester’")
 
 ---
 
