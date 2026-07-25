@@ -6,7 +6,7 @@ authors: C. S. Lewis
 category: Letter
 ---
 
-![](_attachments/aba1327477fc9f7649866df08a5874a7.png)
+![](https://media.huam.ing/image/aba1327477fc9f7649866df08a5874a7.webp)
 
 1. Turn off the radio.
 2. Read all the good books you can, and avoid nearly all magazines.
