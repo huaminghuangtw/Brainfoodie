@@ -8,7 +8,7 @@ category: Podcast
 
 # AI 任務矩陣
 
-![](_attachments/99137f8bd2106a906cb161782515c6fc.png)
+![](https://media.huam.ing/image/99137f8bd2106a906cb161782515c6fc.webp)
 
 瓦基為了避免陷入 AI 的「討好陷阱」，設計了一套對話的二維矩陣框架。這能幫助我們在對話前，先釐清自己的**出發點（意圖）**，進而擺出正確的**對話姿態**。
 
