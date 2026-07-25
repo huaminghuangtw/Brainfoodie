@@ -18,7 +18,7 @@ Twice a week, Kipchoge does a 60-minute strength and mobility session with just 
 
 Kipchoge drinks three liters of water each day. His meals are simple: homemade bread, local fruits and vegetables, lots of Kenyan tea, some meat, and a generous daily helping of favorite food—[ugali,](https://mayuris-jikoni.com/2021/06/02/ugali-recipe/) a dense maize-flour porridge. When it comes to supplements, Kipchoge told me he takes none.
 
-![](_attachments/9240a443a0aeb30e739b14a40b6ede08.png "Source: NN Running Team")
+![](https://media.huam.ing/image/9240a443a0aeb30e739b14a40b6ede08.webp "Source: NN Running Team")
 
 Kipchoge logged every detail in a notebook. He began the practice in 2003 and now has 18 logs stored at his home to reflect on at the end of each season.
 
@@ -78,7 +78,7 @@ If it was any other guy to break the two-hour record, there would have been a ca
 >
 > Even now, having summited the sport’s highest peaks an incomparable, unfathomable 18 years apart, Kipchoge still lives the same way.
 
-![](_attachments/25cac930b40c2fb509710bfb9d96bb0d.png "Source: NN Running Team")
+![](https://media.huam.ing/image/25cac930b40c2fb509710bfb9d96bb0d.webp "Source: NN Running Team")
 
 > Today, Kipchoge will do eight 1,600m repetitions in 4:40 with two minutes recovery, which he mostly walks, followed by eight 400m repetitions in 63-64 seconds with 30-50 seconds recovery. This is only his “third or fourth” workout since returning to training, having taken almost a month completely off following his latest Olympic gold.
 >
