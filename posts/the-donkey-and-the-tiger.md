@@ -5,7 +5,7 @@ modified: 2026-06-22
 category: Parable
 ---
 
-![](_attachments/fcc1929f8c6044ff48bfbf8d5419907c.png)
+![](https://media.huam.ing/image/fcc1929f8c6044ff48bfbf8d5419907c.webp)
 
 > One day, a Donkey and a Tiger got into an argument over the color of the grass.
 > ​
