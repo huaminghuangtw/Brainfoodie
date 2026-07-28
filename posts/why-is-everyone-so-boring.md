@@ -1,9 +1,9 @@
 ---
-title: ▍Why Is Everyone so Boring?
+title: ▍Why Is Everyone So Boring?
 created: 2026-07-23
-modified: 2026-07-23
+modified: 2026-07-28
 authors: Robin Hanson
-category: Podcast
+category: Essay
 ---
 
 > Real people are more often lively, passionate, opinionated, and provocative, and they express more disagreements.
