@@ -1,5 +1,5 @@
 ---
-title: ▍The Worth of a Stone
+title: The Worth of a Stone
 created: 2026-08-07
 modified: 2026-08-07
 category: Parable

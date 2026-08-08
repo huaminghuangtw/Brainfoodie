@@ -1,5 +1,5 @@
 ---
-title: ▍Nine Things I Learned in Ninety Year
+title: Nine Things I Learned in Ninety Year
 created: 2025-10-18
 modified: 2026-06-10
 authors: Edward Packard

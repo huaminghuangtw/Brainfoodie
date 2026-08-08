@@ -1,5 +1,5 @@
 ---
-title: ▍Why Is Everyone So Boring?
+title: Why Is Everyone So Boring?
 created: 2026-07-23
 modified: 2026-07-28
 authors: Robin Hanson

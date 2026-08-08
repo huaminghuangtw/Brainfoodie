@@ -1,5 +1,5 @@
 ---
-title: ▍The Monk & The Minister
+title: The Monk & The Minister
 created: 2026-06-22
 modified: 2026-06-22
 category: Parable

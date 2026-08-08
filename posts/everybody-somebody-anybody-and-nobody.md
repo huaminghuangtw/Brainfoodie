@@ -1,5 +1,5 @@
 ---
-title: ▍Everybody, Somebody, Anybody and Nobody
+title: Everybody, Somebody, Anybody and Nobody
 created: 2026-07-17
 modified: 2026-07-17
 authors: Charles Osgood

@@ -1,5 +1,5 @@
 ---
-title: '▍Jason Fried: Your Only Competition Is Your Costs'
+title: 'Jason Fried: Your Only Competition Is Your Costs'
 created: 2026-07-04
 modified: 2026-07-04
 authors: Jason Fried

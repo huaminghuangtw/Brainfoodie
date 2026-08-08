@@ -1,5 +1,5 @@
 ---
-title: ▍The Two Watchmakers
+title: The Two Watchmakers
 created: 2026-06-22
 modified: 2026-06-22
 category: Parable

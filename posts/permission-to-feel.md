@@ -1,5 +1,5 @@
 ---
-title: ▍Permission to Feel
+title: Permission to Feel
 created: 2025-10-20
 modified: 2026-06-10
 authors: Marc Brackett

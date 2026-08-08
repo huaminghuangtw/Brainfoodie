@@ -1,5 +1,5 @@
 ---
-title: ▍The Two Wolves
+title: The Two Wolves
 created: 2026-07-15
 modified: 2026-07-15
 category: Parable

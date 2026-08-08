@@ -1,5 +1,5 @@
 ---
-title: ▍The Most Overlooked Trait of Investing Success
+title: The Most Overlooked Trait of Investing Success
 created: 2026-06-28
 modified: 2026-06-28
 authors: Morgan Housel

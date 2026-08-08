@@ -1,5 +1,5 @@
 ---
-title: ▍Do not ask your children to strive
+title: Do not ask your children to strive
 created: 2026-07-22
 modified: 2026-07-23
 authors: William Martin

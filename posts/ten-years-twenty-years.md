@@ -1,5 +1,5 @@
 ---
-title: ▍Ten Years, Twenty Years
+title: Ten Years, Twenty Years
 created: 2026-06-23
 modified: 2026-06-23
 category: Parable

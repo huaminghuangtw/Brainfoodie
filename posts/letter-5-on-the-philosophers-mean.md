@@ -1,5 +1,5 @@
 ---
-title: '▍Letter 5: On the Philosopher’s Mean'
+title: 'Letter 5: On the Philosopher’s Mean'
 created: 2026-08-06
 modified: 2026-08-06
 authors: Seneca

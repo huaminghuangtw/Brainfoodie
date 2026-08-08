@@ -1,5 +1,5 @@
 ---
-title: "▍Getting Started with AI: Good Enough Prompting"
+title: "Getting Started with AI: Good Enough Prompting"
 created: 2026-06-12
 modified: 2026-06-12
 authors: Ethan Mollick

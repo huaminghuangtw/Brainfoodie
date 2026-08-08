@@ -1,5 +1,5 @@
 ---
-title: ▍44 Harsh Truths About Human Nature
+title: 44 Harsh Truths About Human Nature
 created: 2025-11-18
 modified: 2026-06-10
 authors: Naval Ravikant

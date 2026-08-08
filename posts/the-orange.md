@@ -1,5 +1,5 @@
 ---
-title: ▍The Orange
+title: The Orange
 created: 2026-05-25
 modified: 2026-06-10
 authors: Wendy Cope

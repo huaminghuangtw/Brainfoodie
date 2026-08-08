@@ -1,5 +1,5 @@
 ---
-title: ▍Empty Your Cup
+title: Empty Your Cup
 created: 2026-06-23
 modified: 2026-06-23
 category: Parable

@@ -1,5 +1,5 @@
 ---
-title: ▍Blackstone’s Byron Wien Discusses Lessons Learned in His First 80 Years
+title: Blackstone’s Byron Wien Discusses Lessons Learned in His First 80 Years
 created: 2026-07-14
 modified: 2026-07-14
 authors: Byron Wien

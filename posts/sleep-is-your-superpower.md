@@ -1,5 +1,5 @@
 ---
-title: ▍Sleep Is Your Superpower
+title: Sleep Is Your Superpower
 created: 2026-05-26
 modified: 2026-06-10
 authors: Matt Walker

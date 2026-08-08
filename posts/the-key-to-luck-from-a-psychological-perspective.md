@@ -1,5 +1,5 @@
 ---
-title: ▍心理學觀點的「幸運關鍵」
+title: 心理學觀點的「幸運關鍵」
 created: 2026-05-30
 modified: 2026-06-10
 authors: 劉軒

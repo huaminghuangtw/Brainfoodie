@@ -1,5 +1,5 @@
 ---
-title: ▍The “Tell Them” Theory
+title: The “Tell Them” Theory
 created: 2026-03-11
 modified: 2026-06-10
 authors: Vex King

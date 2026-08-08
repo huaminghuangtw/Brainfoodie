@@ -1,5 +1,5 @@
 ---
-title: ▍The Cut Crystal Glass
+title: The Cut Crystal Glass
 created: 2026-06-23
 modified: 2026-06-23
 category: Parable

@@ -1,5 +1,5 @@
 ---
-title: ▍The Innovator’s DNA
+title: The Innovator’s DNA
 created: 2026-07-21
 modified: 2026-07-24
 authors:

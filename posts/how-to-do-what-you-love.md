@@ -1,5 +1,5 @@
 ---
-title: ▍How to Do What You Love
+title: How to Do What You Love
 created: 2026-06-22
 modified: 2026-06-27
 authors: Paul Graham

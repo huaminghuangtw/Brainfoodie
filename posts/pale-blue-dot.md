@@ -1,5 +1,5 @@
 ---
-title: ▍Pale Blue Dot
+title: Pale Blue Dot
 created: 2025-12-25
 modified: 2026-07-27
 authors: Carl Sagan

@@ -1,5 +1,5 @@
 ---
-title: ▍How to Remember Everything You Read
+title: How to Remember Everything You Read
 created: 2026-06-05
 modified: 2026-06-10
 authors: Justin Sung

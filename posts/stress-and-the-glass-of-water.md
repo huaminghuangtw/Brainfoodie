@@ -1,5 +1,5 @@
 ---
-title: ▍Stress & The Glass of Water
+title: Stress & The Glass of Water
 created: 2026-05-25
 modified: 2026-06-22
 category: YouTube Video

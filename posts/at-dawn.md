@@ -1,5 +1,5 @@
 ---
-title: ▍At Dawn
+title: At Dawn
 created: 2026-02-06
 modified: 2026-06-27
 authors: Marcus Aurelius, Meditations, Book V (5), §1

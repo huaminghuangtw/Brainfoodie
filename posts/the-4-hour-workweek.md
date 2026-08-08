@@ -1,5 +1,5 @@
 ---
-title: ▍The 4-Hour Workweek
+title: The 4-Hour Workweek
 created: 2026-05-30
 modified: 2026-06-10
 authors: Tim Ferriss

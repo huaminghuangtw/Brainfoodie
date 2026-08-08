@@ -1,5 +1,5 @@
 ---
-title: '▍Collection: Eliud Kipchoge'
+title: 'Collection: Eliud Kipchoge'
 created: 2026-04-29
 modified: 2026-07-21
 authors: Eliud Kipchoge

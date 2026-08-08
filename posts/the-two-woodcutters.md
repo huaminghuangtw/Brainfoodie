@@ -1,5 +1,5 @@
 ---
-title: ▍The Two Woodcutters
+title: The Two Woodcutters
 created: 2026-08-04
 modified: 2026-08-04
 category: Parable

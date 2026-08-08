@@ -1,5 +1,5 @@
 ---
-title: ▍How to Live an Asymmetric Life
+title: How to Live an Asymmetric Life
 created: 2026-07-16
 modified: 2026-07-16
 authors: Graham Weaver

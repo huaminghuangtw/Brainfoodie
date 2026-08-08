@@ -1,5 +1,5 @@
 ---
-title: ▍Things That Aren’t Doing the Thing
+title: Things That Aren’t Doing the Thing
 created: 2026-07-17
 modified: 2026-07-17
 authors: Strangest Loop

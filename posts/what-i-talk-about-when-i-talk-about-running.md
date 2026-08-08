@@ -1,5 +1,5 @@
 ---
-title: ▍What I Talk About When I Talk About Running
+title: What I Talk About When I Talk About Running
 created: 2026-07-02
 modified: 2026-07-02
 authors: Haruki Murakami

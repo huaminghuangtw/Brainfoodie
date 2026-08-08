@@ -1,5 +1,5 @@
 ---
-title: ▍Our Achilles Heel
+title: Our Achilles Heel
 created: 2026-06-13
 modified: 2026-06-13
 authors: Ted Lamade

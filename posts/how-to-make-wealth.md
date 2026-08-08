@@ -1,5 +1,5 @@
 ---
-title: ▍How to Make Wealth
+title: How to Make Wealth
 created: 2026-06-23
 modified: 2026-07-22
 authors: Paul Graham

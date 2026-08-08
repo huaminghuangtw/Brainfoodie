@@ -1,5 +1,5 @@
 ---
-title: '▍Collection: Andy Li-An Ho'
+title: 'Collection: Andy Li-An Ho'
 created: 2026-01-27
 modified: 2026-07-23
 authors: 何立安

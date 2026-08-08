@@ -1,5 +1,5 @@
 ---
-title: ▍Being Boring
+title: Being Boring
 created: 2026-05-25
 modified: 2026-07-28
 authors: Wendy Cope

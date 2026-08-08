@@ -1,5 +1,5 @@
 ---
-title: ▍The Empty Boat
+title: The Empty Boat
 created: 2026-06-23
 modified: 2026-06-23
 category: Parable

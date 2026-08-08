@@ -1,5 +1,5 @@
 ---
-title: ▍How to Remember Your Life
+title: How to Remember Your Life
 created: 2026-05-27
 modified: 2026-06-10
 authors: Johnny Harris

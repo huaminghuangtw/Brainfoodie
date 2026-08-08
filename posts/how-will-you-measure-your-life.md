@@ -1,5 +1,5 @@
 ---
-title: ▍How Will You Measure Your Life?
+title: How Will You Measure Your Life?
 created: 2026-06-11
 modified: 2026-06-18
 authors: Clayton M. Christensen

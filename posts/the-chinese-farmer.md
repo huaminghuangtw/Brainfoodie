@@ -1,5 +1,5 @@
 ---
-title: ▍The Chinese Farmer
+title: The Chinese Farmer
 created: 2026-06-22
 modified: 2026-06-22
 category: Parable

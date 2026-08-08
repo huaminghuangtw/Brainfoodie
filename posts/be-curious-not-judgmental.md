@@ -1,5 +1,5 @@
 ---
-title: ▍Be curious, not judgmental
+title: Be curious, not judgmental
 created: 2026-06-27
 modified: 2026-06-27
 authors: Ted Lasso (2020 TV series)

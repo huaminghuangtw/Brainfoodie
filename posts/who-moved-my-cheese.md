@@ -1,5 +1,5 @@
 ---
-title: ▍Who Moved My Cheese?
+title: Who Moved My Cheese?
 created: 2026-07-20
 modified: 2026-07-20
 authors: Spencer Johnson

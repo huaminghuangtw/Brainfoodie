@@ -1,5 +1,5 @@
 ---
-title: ▍Slow Dance
+title: Slow Dance
 created: 2026-07-17
 modified: 2026-07-17
 authors: David L. Weatherford

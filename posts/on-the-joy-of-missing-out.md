@@ -1,5 +1,5 @@
 ---
-title: ▍On the Joy of Missing Out
+title: On the Joy of Missing Out
 created: 2026-07-31
 modified: 2026-07-31
 authors: Michael Leunig

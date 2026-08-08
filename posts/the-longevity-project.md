@@ -1,5 +1,5 @@
 ---
-title: ▍The Longevity Project
+title: The Longevity Project
 created: 2026-06-17
 modified: 2026-06-17
 authors:

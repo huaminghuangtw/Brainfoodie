@@ -1,5 +1,5 @@
 ---
-title: ▍零與無限大
+title: 零與無限大
 created: 2026-02-16
 modified: 2026-06-10
 authors:
