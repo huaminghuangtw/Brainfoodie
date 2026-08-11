@@ -1,7 +1,7 @@
 ---
 title: 'Collection: Eliud Kipchoge'
 created: 2026-04-29
-modified: 2026-07-21
+modified: 2026-08-11
 authors: Eliud Kipchoge
 category: People
 ---
@@ -14,7 +14,7 @@ When it comes to long runs, he doesn’t ask for a specific pace but an effort t
 
 > On each (long) run, the pace should get progressively faster, or at worst stay the same.
 
-Twice a week, Kipchoge does a 60-minute strength and mobility session with just yoga mats and resistance bands. The focus is on the <mark>posterior chain — glutes, hamstrings, and core</mark>. Exercises include glute abductions, bridges, planks, and single-leg deadlifts, followed by balance and [proprioception 本體感覺](https://www.google.com/search?q=proprioception) work, then gentle stretching. <mark>He doesn’t lift weights.</mark> The goal is purely injury prevention.
+Twice a week, Kipchoge does a 60-minute strength and mobility session with just yoga mats and resistance bands. The focus is on the <mark>posterior chain — glutes, hamstrings, and core</mark>. Exercises include glute abductions, bridges, planks, and single-leg deadlifts, followed by balance and [proprioception 本體感覺](https://www.google.com/search?q=proprioception) [^1] work, then gentle stretching. <mark>He doesn’t lift weights.</mark> The goal is purely injury prevention.
 
 Kipchoge drinks three liters of water each day. His meals are simple: homemade bread, local fruits and vegetables, lots of Kenyan tea, some meat, and a generous daily helping of favorite food—[ugali,](https://mayuris-jikoni.com/2021/06/02/ugali-recipe/) a dense maize-flour porridge. When it comes to supplements, Kipchoge told me he takes none.
 
@@ -125,3 +125,5 @@ Those 80% days are workout days. The 50% days are the easy run days. Then he sho
 He implements long, progressive runs that start easy and end moderately hard.
 
 He has an alternating weekly schedule for long run. One week will be 19 miles, the next 25 miles, over hilly terrain.
+
+[^1]: ＝ 體感
