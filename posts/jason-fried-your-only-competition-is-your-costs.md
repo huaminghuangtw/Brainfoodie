@@ -1,7 +1,7 @@
 ---
 title: 'Jason Fried: Your Only Competition Is Your Costs'
 created: 2026-07-04
-modified: 2026-08-16
+modified: 2026-08-25
 authors: Jason Fried
 category: Podcast
 ---
@@ -63,7 +63,7 @@ He champions purity: the earliest, purest execution of an idea often wins.
 >
 > Jason Fried: There is no plan. I mean, like, we have a direction. So, the way I think about this, and this is, again, another weird metaphor perhaps, but I think of our business and maybe me even like I’m a **squirrel 🐿️**.
 >
-> Jason Fried: <mark>So, you watch a squirrel run across a field. What does it do? It knows where it wants to go, roughly, and it runs, and it scurries, and it stops, and it looks around, and then it scurries some more, and it stops, and it looks around, and it scurries some more. It doesn’t need to get exactly where it wants to go. It knows roughly where it wants to go, and it clearly doesn’t know how exactly it’s going to get there, but it knows where it’s headed, and then it course-corrects. That’s how I do it.</mark>
+> Jason Fried: <mark>So, you watch a squirrel run across a field. What does it do? It knows where it wants to go, roughly, and it runs, and it scurries, and it stops, and it looks around, and then it scurries some more, and it stops, and it looks around, and it scurries some more. It doesn’t need to get exactly where it wants to go. It knows roughly where it wants to go, and it clearly doesn’t know how exactly it’s going to get there, but it knows where it’s headed, and then it course-corrects. That’s how I do it.</mark> [^1]
 
 > We typically think about six weeks in advance…. Six weeks is the most we’re willing to think ahead. And then day to day, like the six weeks is like where the squirrel is headed.
 
@@ -166,3 +166,5 @@ Focus on the letter.
 > Jason Fried: And then we can develop software for the customer base as a whole, and not for a handful of customers that pay us a lot more than everybody else. The enterprise game, is getting as many seats as you can, and landing these whales, and I just don’t find that interesting. I also don’t find it durable. <mark>Durability is about a lot of small things. And if someone wants to chip away at some of those, it doesn’t matter because there’s a lot more left. That’s kind of what we were aiming for with durability.</mark>
 
 Fried structures revenue as many equal small units - no whales paying vastly more. That avoids dependence on any single customer and makes the company durable.
+
+[^1]: Do Little, Check Little, Repeat.
