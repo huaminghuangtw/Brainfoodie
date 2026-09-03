@@ -1,7 +1,7 @@
 ---
 title: "Getting Started with AI: Good Enough Prompting"
 created: 2026-06-12
-modified: 2026-06-12
+modified: 2026-09-03
 authors: Ethan Mollick
 category: Essay
 ---
