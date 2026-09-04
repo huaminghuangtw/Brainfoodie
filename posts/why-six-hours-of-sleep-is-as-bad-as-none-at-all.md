@@ -1,7 +1,7 @@
 ---
 title: Why Six Hours of Sleep Is as Bad as None at All
 created: 2026-04-09
-modified: 2026-06-10
+modified: 2026-09-03
 authors: Jill Duffy
 category: Essay
 ---
