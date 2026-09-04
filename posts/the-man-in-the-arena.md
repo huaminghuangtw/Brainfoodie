@@ -1,7 +1,7 @@
 ---
 title: The Man in the Arena
 created: 2026-02-06
-modified: 2026-07-29
+modified: 2026-09-03
 authors: Theodore Roosevelt
 category: Speech
 ---
