@@ -1,7 +1,7 @@
 ---
 title: Our Deepest Fear
 created: 2026-02-06
-modified: 2026-06-10
+modified: 2026-09-03
 authors: Marianne Williamson
 category: Poem
 ---
