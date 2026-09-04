@@ -1,7 +1,7 @@
 ---
 title: The Most Overlooked Trait of Investing Success
 created: 2026-06-28
-modified: 2026-06-28
+modified: 2026-09-03
 authors: Morgan Housel
 category: Essay
 ---
