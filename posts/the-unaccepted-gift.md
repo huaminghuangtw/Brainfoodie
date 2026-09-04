@@ -1,7 +1,7 @@
 ---
 title: The Unaccepted Gift
 created: 2026-06-23
-modified: 2026-06-23
+modified: 2026-09-03
 category: Parable
 ---
 
