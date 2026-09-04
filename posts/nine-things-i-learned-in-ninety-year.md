@@ -1,7 +1,7 @@
 ---
 title: Nine Things I Learned in Ninety Year
 created: 2025-10-18
-modified: 2026-06-10
+modified: 2026-09-03
 authors: Edward Packard
 category: Essay
 ---
