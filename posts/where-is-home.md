@@ -1,7 +1,7 @@
 ---
 title: Where Is Home?
 created: 2026-05-25
-modified: 2026-06-10
+modified: 2026-09-03
 authors: Pico Iyer
 category: TED Talk
 ---
