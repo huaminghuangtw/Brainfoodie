@@ -1,7 +1,7 @@
 ---
 title: 'Collection: Jensen Huang'
 created: 2025-10-21
-modified: 2026-07-01
+modified: 2026-09-03
 authors: 黃仁勳
 category: People
 ---
