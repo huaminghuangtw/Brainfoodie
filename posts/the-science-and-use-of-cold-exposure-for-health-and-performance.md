@@ -1,7 +1,7 @@
 ---
 title: The Science & Use of Cold Exposure for Health & Performance
 created: 2026-01-08
-modified: 2026-06-10
+modified: 2026-09-03
 authors: Huberman Lab
 category: Essay
 ---
