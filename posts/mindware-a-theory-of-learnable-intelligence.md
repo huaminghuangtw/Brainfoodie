@@ -1,7 +1,7 @@
 ---
 title: 'Mindware: A Theory of Learnable Intelligence'
 created: 2026-07-25
-modified: 2026-07-25
+modified: 2026-09-03
 authors: Dr. Hannah Rose
 category: Essay
 ---
