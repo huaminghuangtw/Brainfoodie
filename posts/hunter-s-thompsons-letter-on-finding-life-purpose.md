@@ -1,7 +1,7 @@
 ---
 title: Hunter S. Thompson’s Letter on Finding Life Purpose
 created: 2025-12-08
-modified: 2026-06-10
+modified: 2026-09-03
 authors: Hunter S. Thompson
 category: Letter
 ---
