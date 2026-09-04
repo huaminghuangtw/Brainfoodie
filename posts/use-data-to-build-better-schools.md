@@ -1,7 +1,7 @@
 ---
 title: Use Data to Build Better Schools
 created: 2026-06-10
-modified: 2026-06-10
+modified: 2026-09-03
 authors: Andreas Schleicher
 category: TED Talk
 ---
