@@ -1,7 +1,7 @@
 ---
 title: 小熊維尼的正念筆記
 created: 2026-02-12
-modified: 2026-06-10
+modified: 2026-09-03
 authors:
   - Dr. Joseph Parent
   - Nancy Parent
