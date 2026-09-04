@@ -1,7 +1,7 @@
 ---
 title: Who Moved My Cheese?
 created: 2026-07-20
-modified: 2026-07-20
+modified: 2026-09-03
 authors: Spencer Johnson
 category: Book
 ---
