@@ -1,7 +1,7 @@
 ---
 title: The “Tell Them” Theory
 created: 2026-03-11
-modified: 2026-06-10
+modified: 2026-09-03
 authors: Vex King
 category: Essay
 ---
