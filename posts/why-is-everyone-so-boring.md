@@ -1,7 +1,7 @@
 ---
 title: Why Is Everyone So Boring?
 created: 2026-07-23
-modified: 2026-07-28
+modified: 2026-09-03
 authors: Robin Hanson
 category: Essay
 ---
