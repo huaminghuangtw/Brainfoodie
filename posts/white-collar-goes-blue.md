@@ -1,7 +1,7 @@
 ---
 title: White Collar Goes Blue
 created: 2026-03-17
-modified: 2026-06-10
+modified: 2026-09-03
 authors: Anu Atluru
 category: Essay
 ---
