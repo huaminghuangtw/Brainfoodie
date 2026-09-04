@@ -1,7 +1,7 @@
 ---
 title: Jeff Bezos’ Letter to Amazon Shareholders 1997
 created: 2025-12-08
-modified: 2026-06-10
+modified: 2026-09-03
 authors: Jeff Bezos
 category: Letter
 ---
