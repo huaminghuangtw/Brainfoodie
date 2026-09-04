@@ -1,7 +1,7 @@
 ---
 title: The Best Way to Use AI for Learning
 created: 2026-04-28
-modified: 2026-06-10
+modified: 2026-09-03
 authors: 詹雨安
 category: Essay
 ---
