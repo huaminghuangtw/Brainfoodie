@@ -1,7 +1,7 @@
 ---
 title: The Mexican Fisherman
 created: 2026-06-22
-modified: 2026-06-22
+modified: 2026-09-03
 category: Parable
 ---
 
