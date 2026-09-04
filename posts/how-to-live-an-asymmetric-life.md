@@ -1,7 +1,7 @@
 ---
 title: How to Live an Asymmetric Life
 created: 2026-07-16
-modified: 2026-07-16
+modified: 2026-09-03
 authors: Graham Weaver
 category: Speech
 ---
