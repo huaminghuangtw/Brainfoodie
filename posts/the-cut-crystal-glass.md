@@ -1,7 +1,7 @@
 ---
 title: The Cut Crystal Glass
 created: 2026-06-23
-modified: 2026-06-23
+modified: 2026-09-03
 category: Parable
 ---
 
