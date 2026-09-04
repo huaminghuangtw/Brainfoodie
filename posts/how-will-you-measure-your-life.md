@@ -1,7 +1,7 @@
 ---
 title: How Will You Measure Your Life?
 created: 2026-06-11
-modified: 2026-06-18
+modified: 2026-09-03
 authors: Clayton M. Christensen
 category: Book
 ---
