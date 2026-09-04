@@ -1,7 +1,7 @@
 ---
 title: The Dash
 created: 2026-06-30
-modified: 2026-06-30
+modified: 2026-09-03
 authors: Linda Ellis
 category: Poem
 ---
