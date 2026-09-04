@@ -1,7 +1,7 @@
 ---
 title: The Innovator’s DNA
 created: 2026-07-21
-modified: 2026-07-24
+modified: 2026-09-03
 authors:
   - Clayton Christensen
   - Hal Gregersen
