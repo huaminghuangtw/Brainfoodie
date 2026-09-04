@@ -1,7 +1,7 @@
 ---
 title: Slow Dance
 created: 2026-07-17
-modified: 2026-07-17
+modified: 2026-09-03
 authors: David L. Weatherford
 category: Poem
 ---
