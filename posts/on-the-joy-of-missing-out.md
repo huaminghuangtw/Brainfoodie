@@ -1,7 +1,7 @@
 ---
 title: On the Joy of Missing Out
 created: 2026-07-31
-modified: 2026-07-31
+modified: 2026-09-03
 authors: Michael Leunig
 category: Poem
 ---
