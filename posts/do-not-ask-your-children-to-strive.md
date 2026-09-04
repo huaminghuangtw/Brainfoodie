@@ -1,7 +1,7 @@
 ---
 title: Do not ask your children to strive
 created: 2026-07-22
-modified: 2026-07-23
+modified: 2026-09-03
 authors: William Martin
 category: Poem
 ---
