@@ -1,7 +1,7 @@
 ---
 title: Pale Blue Dot
 created: 2025-12-25
-modified: 2026-07-27
+modified: 2026-09-03
 authors: Carl Sagan
 category: Speech
 ---
