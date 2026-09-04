@@ -1,7 +1,7 @@
 ---
 title: Understand and Apply the Psychology of Money to Gain Greater Happiness
 created: 2025-12-11
-modified: 2026-06-10
+modified: 2026-09-03
 authors: Morgan Housel
 category: Podcast
 ---
