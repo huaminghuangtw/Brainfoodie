@@ -1,7 +1,7 @@
 ---
 title: Our Achilles Heel
 created: 2026-06-13
-modified: 2026-06-13
+modified: 2026-09-03
 authors: Ted Lamade
 category: Essay
 ---
