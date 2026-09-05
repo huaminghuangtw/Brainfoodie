@@ -1,7 +1,7 @@
 ---
 title: What I Talk About When I Talk About Running
 created: 2026-07-02
-modified: 2026-09-03
+modified: 2026-09-05
 authors: Haruki Murakami
 category: Book
 ---
@@ -20,7 +20,7 @@ category: Book
 
 > If you’re going to while away the years, it’s far better to live them with clear goals and fully alive than in a fog, and I believe running helps you do that. Exerting yourself to the fullest within your individual limits: that’s the essence of running, and a metaphor for life—and for me, for writing as well. [^1]
 
-> Of course it was painful, and there were times when, emotionally, I just wanted to chuck it all. But pain seems to be a precondition for this kind of sport. If pain weren’t involved, who in the world would ever go to the trouble of taking part in sports like the triathlon or the marathon, which demand such an investment of time and energy? I<mark>t’s precisely because of the pain, precisely because we want to overcome that pain, that we can get the feeling, through this process, of really being alive—or at least a partial sense of it.</mark> Your quality of experience is based not on standards such as time or ranking, but on finally awakening to an awareness of the fluidity within action itself.
+> Of course it was painful, and there were times when, emotionally, I just wanted to chuck it all. But pain seems to be a precondition for this kind of sport. If pain weren’t involved, who in the world would ever go to the trouble of taking part in sports like the triathlon or the marathon, which demand such an investment of time and energy? <mark>It’s precisely because of the pain, precisely because we want to overcome that pain, that we can get the feeling, through this process, of really being alive—or at least a partial sense of it.</mark> Your quality of experience is based not on standards such as time or ranking, but on finally awakening to an awareness of the fluidity within action itself.
 
 > I have only a few reasons to keep on running, and a truckload of them to quit. All I can do is keep those few reasons nicely polished.
 >
