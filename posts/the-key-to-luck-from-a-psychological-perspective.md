@@ -1,7 +1,7 @@
 ---
 title: 心理學觀點的「幸運關鍵」
 created: 2026-05-30
-modified: 2026-09-03
+modified: 2026-09-16
 authors: 劉軒
 category: TED Talk
 ---
@@ -22,5 +22,5 @@ category: TED Talk
 
 * **Luck is a Subjective Experience:** Luck isn’t purely random chance; like happiness, it is a psychological state heavily influenced by how you perceive your circumstances.
 * **Self-Efficacy Drives Persistence:** Persistence is crucial, but it requires a deeper engine. You cannot sustain persistence unless you genuinely believe your efforts have the power to change the outcome.
-* **Control Equals Luck:** Survey data shows that people who believe they have agency over their own destiny are the exact same people who rate themselves as being the most “lucky.”
+* **Control Equals Luck:** Survey data shows that people who believe they have _agency 主動性_ over their own destiny are the exact same people who rate themselves as being the most “lucky.”
 * **Actionable Confidence Can Be Built:** True confidence isn’t empty positive thinking. It is generated systematically by building a solid foundation of background knowledge, analyzing expert strategies, and carving out room to create your own solutions.
