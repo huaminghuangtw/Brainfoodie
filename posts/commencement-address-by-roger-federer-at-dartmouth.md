@@ -1,12 +1,12 @@
 ---
 title: Commencement Address by Roger Federer at Dartmouth
 created: 2026-09-11
-modified: 2026-09-11
+modified: 2026-09-21
 authors: Roger federer
 category: Speech
 ---
 
-In the 2024-06-09 Commencement Address at Dartmouth College, Roger Federer shared his three “[tennis lessons](https://youtu.be/pqWUuYTcG-o?t=5m51s)”:
+In the 2024-06-09 Commencement Address at [Dartmouth College](https://www.google.com/search?q=Dartmouth+College) [^1], Roger Federer shared his three “[tennis lessons](https://youtu.be/pqWUuYTcG-o?t=5m51s)”:
 
 # 1. “Effortless” is a myth
 
@@ -31,3 +31,5 @@ A tennis court is a tiny space, but the world is vast. Even at the height of his
 # Bonus Technical Tip
 
 [At the end of his speech](https://youtu.be/pqWUuYTcG-o?t=23m5s), Roger playfully pulled out a racket to give a literal tennis lesson: use an **[Eastern grip](https://www.google.com/search?q=Eastern+grip)** for the forehand, keep your knuckles slightly apart, don’t squeeze too hard. Remember: it also starts with the _footwork_ and follow-through!
+
+[^1]: 美國常春藤聯盟（Ivy League）中規模最小的學校
