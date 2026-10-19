@@ -1,11 +1,15 @@
 ---
 title: 交換禮物
 created: 2025-11-13
-modified: 2026-09-03
+modified: 2026-10-19
 authors:
   - 曾寶儀
   - 林明謙
 category: Documentary
+---
+
+> [!NOTE] 《[交換禮物](https://giloo.ist/zh-TW/episodes/2589/)》紀錄曾寶儀與多位癌症病友和專家的對話，探討如何看待與面對癌症，以及背後的身心靈平衡議題。該片將癌症視為一種為生命帶來意義與轉變的「禮物」。這部耗時四年拍攝的紀錄片於 2024 年 12 月 25 日上映。
+
 ---
 
 生機飲食（[Raw Food Diet](https://www.google.com/search?q=Raw+Food+Diet)）推廣者 [劉湘琪](https://www.google.com/search?q=劉湘琪)：生死置之度外。
