@@ -1,7 +1,7 @@
 ---
 title: 'Collection: Jensen Huang'
 created: 2025-10-21
-modified: 2026-09-03
+modified: 2026-10-21
 authors: 黃仁勳
 category: People
 ---
@@ -114,13 +114,13 @@ A zero-billion-dollar market is one that doesn’t exist yet. Put another way, t
 
 # <https://youtu.be/oi89u6q0_AY>
 
-> [[13:06](https://youtu.be/oi89u6q0_AY?t=13m6s)] _坦誠面對錯誤，謙卑尋求幫助，是聰明與成功人士最難學會的。_
+> [[13:06](https://youtu.be/oi89u6q0_AY?t=13m6s)] 坦誠面對錯誤，謙卑尋求幫助，是聰明與成功人士最難學會的。
 
 ## 叢林生存法則：Ask for help. Retreat. Run.
 
-> [[19:57](https://youtu.be/oi89u6q0_AY?t=19m57s)] _Strategic retreat, sacrifice, deciding what to give up is at the core, the very core of success._
+> [[19:57](https://youtu.be/oi89u6q0_AY?t=19m57s)] Strategic retreat, sacrifice, deciding what to give up is at the core, the very core of success.
 
-> [[21:08](https://youtu.be/oi89u6q0_AY?t=21m8s)] _Run, don’t walk! Remember: Either you’re running for food, or running from becoming food. And oftentimes, you can’t tell which. Either way, run._
+> [[21:08](https://youtu.be/oi89u6q0_AY?t=21m8s)] Run, don’t walk! Remember: Either you’re running for food, or running from becoming food. And oftentimes, you can’t tell which. Either way, run.
 
 ---
 
