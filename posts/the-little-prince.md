@@ -1,7 +1,7 @@
 ---
 title: The Little Prince
 created: 2026-04-15
-modified: 2026-09-03
+modified: 2026-10-22
 authors: Antoine de Saint-Exupéry
 category: Book
 ---
