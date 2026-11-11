@@ -1,10 +1,12 @@
 ---
 title: What I Talk About When I Talk About Running
 created: 2026-07-02
-modified: 2026-09-05
+modified: 2026-11-11
 authors: Haruki Murakami
 category: Book
 ---
+
+![](https://media.huam.ing/image/44a6af7208969dae99635a6dc404ffa7.webp)
 
 > Pain is inevitable. Suffering is optional.
 
