@@ -1,7 +1,7 @@
 ---
 title: 'Collection: Andy Li-An Ho'
 created: 2026-01-27
-modified: 2026-09-03
+modified: 2026-11-21
 authors: 何立安
 category: People
 ---
@@ -34,8 +34,9 @@ category: People
 
 > 「橫膈膜」是全身上下最需要被訓練的一條肌肉；呼吸練習是肌力訓練裡最重要的一環。
 
-> 最好的訓練方法，是你前陣子沒在用的那套。
+> 最好的訓練方法，是你前陣子沒在用的那套。[^2]
 
 > 肌力訓練＝穩定換得力量＋放鬆換得速度
 
 [^1]: 深蹲（Squat）、硬舉（Deadlift）、臥推（Bench Press）、肩推（Overhead Press）
+[^2]: 沒有最好的訓練，只有當下最對應的刺激。
