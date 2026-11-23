@@ -1,10 +1,12 @@
 ---
 title: The Science of Strength and the Art of Physical Performance
 created: 2026-11-18
-modified: 2026-11-18
+modified: 2026-11-22
 authors: Pavel Tsatsouline
 category: Podcast
 ---
+
+<https://youtu.be/UGshHR1OjJ8>
 
 * Deliberate Relaxation
 	* Just _shake/vibrate your limbs (arms & legs)_ [^1]
