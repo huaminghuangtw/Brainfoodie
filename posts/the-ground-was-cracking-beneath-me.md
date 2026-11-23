@@ -1,10 +1,12 @@
 ---
 title: The Ground Was Cracking Beneath Me
 created: 2026-10-16
-modified: 2026-10-16
+modified: 2026-11-22
 authors: Eileen Gu
 category: Podcast
 ---
+
+<https://www.jayshetty.me/podcast/eileen-gu-the-ground-was-cracking-beneath-me>
 
 > [30:29] I train like I’ve never won, and I compete like I’ve never lost.
 
