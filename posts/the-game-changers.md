@@ -1,10 +1,12 @@
 ---
 title: The Game Changers
 created: 2025-12-13
-modified: 2026-09-03
+modified: 2026-11-24
 authors: James Wilks
 category: Documentary
 ---
+
+<https://youtu.be/u52tAWH1Yys>
 
 # [How to Eat Like A Game Changer?](https://gamechangersmovie.com)
 
